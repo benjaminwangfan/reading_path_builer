@@ -1,0 +1,369 @@
+We can’t look too far these days without encountering some form of electronics.
+Whether they are used to entertain us, operate machinery, or perform complex calculations, electronics play a significant role in our lives.
+And it seems there’s no end in sight to fascinating new innovations.
+This book provides an overview of the many different kinds of electronics, how they work, how we use them, and the history of their development.
+Electronics are such a common part of our lives that we rarely stop to think about how they work.
+The branch of physics we know as electronics deals with the production, behavior, and effects of electrons and with electronic devices.
+Electronics is especially concerned with how transistors and electron tubes are used in electronic devices.
+Two basic types of electronic signals, analog and digital, are made up of electric current that indicates information.
+Digital signals are the most commonly used by electronic devices.
+Semiconductors, materials that conduct electricity under certain conditions, manipulate both analog and digital signals.
+The transistor is the basic type of semiconductor device.
+In 1947, William B. Shockley, Walter H. Brattain, and John Bardeen invented the transistor, which replaced the vacuum (or electron) tube in many devices.
+Operations by all computers and complex electronic equipment result from combinations of circuits.
+These circuits supply the conduit for the electric currents that power such devices.
+Today’s circuits are smaller than ever, which makes microprocessors possible.
+Transistors and other semiconductors work with other elements to perform a vast variety of functions.
+The central elements are resistors, which slow down electron flow and control voltages and currents; conductors, which work as connectors between circuits or circuit elements; and capacitors, which store electrical charges.
+Rather than being made up of multiple individual parts, today’s electronics have millions of tiny circuits implanted on a tiny integrated circuit (IC).
+The tiny but often powerful microprocessor is a little computer made up of semiconductor chips.
+It originated with the electronic computer, but microprocessors can be found in video games, security systems, and calculators, to name just a few.
+Improvements in how they are manufactured have made the chips more readily available.
+Modern electronic devices are almost everywhere we look.
+Consumers started out using electronics in their phonographs, but now the field has expanded to satellite radios, MP3 players, and even tablet computers that use a touch screen for a keyboard.
+Of course, electronics are not only for home use.
+Medicine is just one field that takes advantage of electronics all the time.
+Doctors can get a more detailed look at the human body by using diagnostic instruments such as computed tomography (CT) and nuclear magnetic resonance (NMR) scanners.
+Transportation - whether by road, air, or space - also relies heavily on electronics.
+Experiments in the late 19th and early 20th centuries by several inventors had dramatic effects.
+Thomas Edison’s 1883 discovery of thermionic emission (discharge of electrons from heated materials) eventually resulted in the radio tube.
+A few years later, in 1887, Heinrich Hertz stumbled upon the photoelectric effect (in which charged particles are released from a material when it absorbs radiant energy), a discovery that led to photoelectric cells.
+In 1904, John A. Fleming invented the Fleming valve, now known as a diode.
+The triode, an electron tube consisting of three electrodes, would come about in 1906, when Lee De Forest adapted the diode.
+The vacuum tube led to the development of radio, television, and electronic computers.
+There is no denying our reliance on electronics, from the lights that illuminate our houses to complex computers that direct space probes as they hurtle through space.
+Could more highly developed electronics come about?
+This overview of electronics shows that there are no limits to how they can progress and change our lives.
+Television, stereophonic recording and playback, the computer, robots, and space probes are all products of electronics.
+Electronics is the branch of physics concerned with the generation and behavior of electrons, as in transistors and electron tubes.
+It is especially concerned with their use in electronic devices, in which electricity is used to control, communicate, and process information.
+These devices have caused greater changes in everyday life than those of any other technology introduced in the 20th century.
+The basis of electronics is the electronic signal, an electric current that represents information.
+There are two basic types of electrical signals: analog and digital.
+In analog signals, some continuously variable aspect of the electrical current represents the information.
+In amplitude modulated (AM) radio transmissions, for example, the amplitude, or strength, of the electromagnetic radio wave is proportional to the amplitude of the signal - the volume of the sound that the radio wave carries.
+The greater the amplitude of the radio wave, the louder the sound that radiates from the radio speaker.
+In contrast, digital signals use standardized pulses to represent numbers.
+With a digital audio signal, the amplitude of the signal for a set amount of time is converted to a number represented by, for example, 16 pulses of fixed duration and amplitude.
+The audio signal as a whole is transmitted as a series of such 16-pulse codes.
+The iPad2 is a touch-screen device that is smaller than a laptop computer but larger than a smartphone.
+Justin Sullivan/Getty Images
+Most electronic devices use digital signals.
+In these signals the numbers are almost always represented in binary code; that is, instead of using a number system based on 10, as is used in writing numbers and manual arithmetic, electronic systems use numbers based on 2.
+There are only two basic numbers in this system: 0 and 1, with 1 being represented by a pulse and 0 by the absence of a pulse, or some similar arrangement.
+A digital computer, for example, can recognize only two states in each of its millions of circuit switches: on or off, or high voltage or low voltage.
+By assigning binary numbers to these states - such as 1 for on and 0 for off - and linking many switches together, a computer can represent any type of data, from numbers to letters to musical notes.
+This process is called digitization.
+Electronic devices that manipulate digital and analog signals today are predominantly semiconductors.
+A semiconductor is a material that conducts electricity, but only under certain conditions, in contrast with conductors that always conduct well and insulators that always conduct poorly.
+Semiconductors are generally made of silicon or silicon compounds that are “doped,” or treated, with certain impurities to alter their electrical properties.
+Semiconductor wafer.
+Semiconductors are instrumental in operating digital and analog signals.
+Bloomberg via Getty Images
+The basic semiconductor device is the transistor, invented in 1947 by U.S. scientists William B. Shockley, Walter H. Brattain, and John Bardeen.
+The typical transistor consists of three semiconductor materials bonded together.
+In the so-called n-p-n type, the first part, called the emitter, is doped to give it an excess of negative charges; the second, the base, is doped to give it excess positive charges; and the third, the collector, is doped to give it an excess of negative charges.
+American scientists John Bardeen, William B. Shockley, and Walter H. Brattain invented the transistor in 1947.
+Yale Joel/Time & Life Pictures/Getty Images
+The voltage applied between the emitter and collector is fixed and relatively high, whereas the voltage between the emitter and the base is low and variable - it is the incoming signal.
+When there is no base voltage, the resistance from the emitter to the collector is high, and no current flows.
+A small voltage across the base to the emitter, however, lowers the resistance and allows a large output current to flow from emitter to collector.
+The transistor thus acts as a signal amplifier.
+In a transistor, the current flowing from emitter to collector varies with and is amplified by the signal flowing in the base.
+Copyright Encyclopædia Britannica, Inc.; rendering for this edition by Rosen Educational Services
+THE TRANSISTOR: A BREAKTHROUGH INVENTION
+A solid-state electronic device used primarily for switching and amplification, the transistor revolutionized both electronic communication and computation.
+Since John Bardeen, William B. Shockley, and Walter H. Brattain invented it in 1947, it has almost entirely replaced the vacuum tube in electronic devices.
+It is more reliable, more flexible, and smaller in size, and it consumes less electricity.
+Its application ranges from small radios to the most sophisticated space probes.
+When used as an amplifier, the transistor is first connected to a suitable source of direct current (DC) voltage, either by a battery or through appropriate electronics.
+The voltage signal to be amplified is then usually applied between the base and the emitter sections of the transistor.
+This causes a small signal current in the base to result in a much larger current in the collector.
+Typical input signals are in the range of microor millivolts, such as those received by a radio antenna, while the output may be in the range of volts.
+When several transistors are used together, the output voltage may be 100,000 times the input voltage.
+In computer memory chips and telecommunications systems, the transistor is used as a switch, turning a circuit either on or off.
+Whether voltage is applied to the gate governs whether current flows from the source to the drain.
+If current does flow to the drain, the associated circuit is switched on; if not, the circuit is shut off.
+The single transistor was extended in the early 1960s by the invention of the integrated circuit.
+To compile an integrated circuit, many transistors are manufactured at once and permanently connected within a single silicon chip.
+Technological advances have allowed transistors to be made increasingly smaller and more of them to be packed onto each chip.
+As the number of transistors per chip increased, the term large-scale integration (LSI) was introduced to indicate thousands of transistors and other components on a single chip, very-large-scale integration (VLSI) for more than 100,000 components, and ultra-large-scale integration (ULSI) for more than a million.
+In 1965 Gordon Moore, cofounder of the Intel Corporation, proposed that the number of transistors put onto each chip would double every year for the following 10 years.
+With the doubling time later extended to about every two years, this prediction, known as Moore’s law, has held true far beyond 1975, with many millions of transistors on each chip by the start of the 21st century.
+Until the mid-20th century, the electron, or vacuum, tube was the basis for nearly all electronic devices.
+After the transistor was developed, semiconductor-based circuits replaced vacuum tubes in most applications.
+The tubes are still used, however, in devices involving high power levels and frequencies.
+The vacuum tube is a partially or wholly evacuated sealed tube through which a controlled flow of electrons moves.
+It contains at least two electrodes: a negative electrode called the cathode emits the electrons, which travel to a positive electrode called the anode.
+Vacuum tubes.
+iStockphoto/Thinkstock
+Two common types of these tubes are the magnetron and the klystron.
+A magnetron tube has a cylindrical copper plate (the anode) with a wire filament (the cathode) running along the cylinder axis.
+Mounted outside the tube is a magnet whose field runs parallel to the filament.
+The filament emits electrons, which are bent into curved paths by the magnetic field, and their oscillations emit radiation.
+Magnetrons are capable of generating extremely high frequencies and short bursts of very high power.
+They are used in radar systems and microwave ovens.
+Klystron tube.
+SSPL via Getty Images
+A klystron tube contains copper cavities within which the electrons oscillate.
+Klystrons are used in ultra-high-frequency circuits, where they can produce oscillations up to 400 gigahertz (400 billion cycles per second) in the short microwave range.
+They are also used as amplifiers, as for example in some radio relay systems.
+Another important type of vacuum tube is the cathode-ray tube, which is used in television receivers, among many other applications.
+The cathode-ray tube is a two-electrode tube in which the electrons are focused by a system of electric lenses into a fine beam.
+This beam falls on a fluorescent screen at the end of the tube, where it produces a spot of light.
+If an electric field is applied at right angles to the direction of the beam, the paths of the electrons, which first followed a straight line, are bent.
+The cathode-ray tube is a type of vacuum tube used in television receivers.
+Shutterstock.com
+This displacement is a measure of the strength of the applied field.
+The cathode-ray tube can be used as a voltmeter, a device that measures electric potential difference.
+If the field applied to the deflecting plates is an alternating field, the light point moves constantly over the screen from right to left and back.
+This appears as a straight horizontal line.
+If another alternating field operates at right angles to the first one and to the electron beam, the light point is at the same time pulled up and down, and a more complicated figure is seen on the screen.
+This permits study in detail of the relation of frequencies, phases, and amplitudes of the two fields.
+In an oscilloscope, a stream, or beam, of electrons passes between two pairs of electrodes, strikes the end of the tube (which is coated inside with fluorescent material), and then excites a spot of light.
+The spot moves in response to electric charges placed upon the electrodes.
+Copyright Encyclopædia Britannica, Inc.; rendering for this edition by Rosen Educational Services
+If, however, one of the fields operates so that the light point is slowly moved over the screen from left to right and returned very fast to the left, the viewer gets a simple picture of the properties of the second field, which moves the spot up and down.
+This type of cathode-ray tube is called an oscilloscope.
+All the functions performed by computers and other sophisticated electronic devices are ultimately made possible by combinations of circuits, which provide the pathways for the electric currents that power these devices.
+In recent decades, the size of circuit components has been dramatically reduced, giving rise to the development of the microprocessor and making the technologies of the digital age feasible.
+Transistors and other semiconductor devices come in a wide variety of types capable of performing many different functions when linked together with other elements into electronic circuits.
+The most important of these other elements are resistors, which impede the flow of electrons and regulate voltages and currents; conductors, which connect different circuits or different circuit elements together; and capacitors, which store electrical charges.
+Smaller electronics like netbooks - portable personal computers - are possible because of significantly smaller circuit mechanisms.
+Ethan Miller/Getty Images
+The functions that such circuits perform are generally of two broad types: logic circuits transform or process information carried by electronic signals, while memory circuits and devices store the information.
+Logic circuits are built up out of identical components that perform elementary manipulations on each piece of information, called a bit.
+A bit consists of either a 1 or a 0.
+Sometimes another unit of information, known as a byte, or eight bits, is also used.
+There are three basic types of logic circuits: AND, OR, and NOT.
+NOT circuits are combined with AND and OR circuits to make NAND and NOR circuits.
+Put together, these simple circuits can perform any logical or arithmetic operation that can be defined in a finite number of steps.
+The fastest memory circuits are built up from arrays of transistors, as are logic circuits.
+In memory circuits, a transient impulse - the information to be stored - is directed to a particular unit, or address, in the array.
+This impulse changes the electrical state of a simple circuit in such a way that the change is stable once the impulse has passed.
+Information can be obtained from complex arrays of such circuits by various means in which the transistor signals to external circuits whether it is in a conducting or a nonconducting state.
+Such arrays are termed random-access memory (RAM) because each of the addresses can be accessed in any order.
+Other types of memory circuits include read-only memory (ROM).
+In ROM the data is permanently stored in the array at the time of its manufacture.
+RAM (random-access memory) chip.
+RAM allows a computer to access memory contents in any order.
+Shutterstock.com
+Modern electronic circuits are not made up of individual, separated components as was once the case.
+Instead, millions of tiny circuits are embedded in a single complex piece of silicon and other materials called an integrated circuit (IC).
+The primary circuit board connects all the basic components of a computer.
+Shown is a detail of the Intel® Desktop Board D915GUX.
+At center-right is the computer’s microprocessor, an integrated circuit that contains many millions of transistors.
+Integrated circuits are the key element of most modern electronic devices.
+Copyright Intel Corporation
+The manufacture of integrated circuits begins with a simple circular wafer of silicon several inches across.
+Designers produce drawings of exactly where each element in each part of the circuit is to go.
+A photograph of each diagram is then reduced in size many times to produce a tiny photolithographic mask.
+A circular disc called a silicon wafer forms the basis for the manufacture of the integrated circuit.
+Shutterstock.com
+The silicon wafer is coated with a material called a photoresist that undergoes a chemical change when exposed to ultraviolet light.
+Ultraviolet light shone through the mask onto the photoresist creates the same pattern on the wafer as that on the mask.
+Solvents then etch away the parts of the resist that were exposed, leaving the other parts intact.
+Another layer of material (e.g., silicon doped with some impurities) is laid down on top of the wafer, and another pattern is etched in by the same technique.
+The result of hundreds of such operations is a multilayered circuit, with many millions of tiny transistors, resistors, and conductors created in the wafer.
+The wafer is then broken apart along prestressed lines into hundreds of identical square or rectangular chips: the finished integrated circuits.
+During the late 20th century, advancing technology continually reduced the size of individual circuit elements, so the number of elements that could fit on a chip doubled about every couple of years.
+This rapid increase in the power of the chips and the simultaneous rise in their speed allowed the development of microprocessors.
+A microprocessor - the heart of the personal computer - packs the same computing power into a tiny chip much smaller than a postage stamp that in the 1950s and 1960s would have been provided by a computer that filled a whole room and cost many millions of dollars.
+Some computers in the 1960s were so large that they filled an entire room and cost several million dollars.
+Pictorial Parade/Archive Photos/Getty Images
+Individual chips are mounted on carriers with connector leads emerging from them.
+These, in turn, are soldered together onto printed circuit boards.
+In large computers, the boards themselves are mounted into large racks and connected together.
+THE FUTURE OF COMPUTERS
+A major technology breakthrough was made in 2003 by Sun Microsystems, Inc. The integrated circuit has enabled millions of transistors to be combined in one manufacturing process on a silicon chip, but Sun has taken the next step to wafer-scale integration.
+Rather than producing hundreds of microprocessors on each silicon wafer, cutting them into separate chips, and attaching them to a circuit board, Sun figured out how to manufacture different chips edge-to-edge on a single wafer.
+When introduced into full-scale manufacturing, this process promises to eliminate circuit boards, speed up data transfer between different elements by a hundredfold, and substantially reduce the size of computer hardware.
+One exotic computer research direction involves the use of biological genetic material.
+In a form of computing known as DNA computing, the biological cell is regarded as an entity that resembles a sophisticated computer.
+Millions of strands of DNA are used to test possible solutions to a problem, with various chemical methods used to gradually winnow out false solutions.
+Demonstrations on finding the most efficient routing schedules have already shown great promise.
+More efficient laboratory techniques need to be developed, however, before DNA computing becomes practical.
+As exciting as these hardware developments are, they are nevertheless dependent on well-conceived and well-written software.
+Software controls the hardware and forms an interface between the computer and the user.
+Software is becoming increasingly user-friendly (easy to use by nonprofessional computer users) and intelligent (able to adapt to a specific user’s personal habits).
+A few word-processing programs learn their user’s writing style and offer suggestions.
+Some game programs even learn by experience and become more difficult opponents the more they are played.
+Future programs promise to adapt themselves to their user’s personality and work habits so that the term personal computing will take on an entirely new meaning.
+By the early 21st century, integrated circuits made with the most advanced technology could carry hundreds of millions of individual transistors, each only 50 nanometers or smaller on a side. (
+A nanometer is a millionth of a millimeter, or about 0.00000004 inch.)
+Many electrical engineers and scientists believe that the ultimate limits of size in these circuits might soon be reached.
+But the overall size of electronic components may still continue to decrease as wafer-scale integration, in which various components are produced edge-to-edge on a single wafer, is perfected and the need for circuit boards reduced.
+A small computer, often contained in no more than a few small semiconductor chips, is a microprocessor.
+It has many applications, including use in digital watches, microwave oven controls, automobile emission control and timing devices, video games, telephone switching systems, thermal controls in the home, security systems, and, of course, in calculators and other types of computers.
+Microprocessors were made possible by advanced integrated-circuit miniaturization techniques, which can combine many electronic functions and large memory storage on a single chip much smaller than a postage stamp.
+A microprocessor is made of integrated circuits, or semiconductor chips (or may consist of a single such chip).
+Each chip normally consists of active devices, such as transistors, diodes, or logic circuits, combined with passive components, such as resistors and capacitors.
+Most microprocessors use standard, mass-produced chips with the specific program built in by the manufacturer as software.
+These microprocessors are much cheaper to produce than are specially designed, single-purpose microprocessors.
+The Nintendo 3DS, a handheld gaming system, is controlled by a tiny computer called a microprocessor.
+Bloomberg via Getty Images
+Every effort is made to integrate as many electronic and logic components as possible within the chip and thus reduce external connections.
+Such connections are the parts in a microprocessor that are most prone to failure.
+The key process in the development of increasingly compact chips is microlithography.
+In this process the circuits are laid out, usually with the help of computers, and then photographically reduced to a size where individual circuit lines are less than one thousandth the width of a human hair.
+Early miniaturization techniques, which were referred to as large-scale integration (LSI), resulted in the production of the popular 256-Kb (kilobit, or thousand-bit) memory chip.
+A 256-Kb chip actually has a storage capacity of 262,144 bits, with each bit being a binary digit, either a 1 or a 0.
+Today, as a result of ultra-large-scale integration (ULSI), chips can be made that contain more than 100 million transistors in an area the size of a postage stamp.
+These chips can each store as much as 512 Mb (megabits, or million bits) of data.
+As in large computers, the heart of the microprocessor system is the central processing unit (CPU).
+The CPU performs three functions: it directs and monitors the system’s operation; it performs the required algebraic or logical operations; and it serves as the primary memory, storing information that is to be processed.
+A microprocessor itself may act as the CPU for a larger computer.
+Frequently, additional storage memory is required.
+This can be provided by another chip on the same printed circuit board as the CPU.
+Because all operations must be synchronized (i.e., they must work together in the correct sequence) a crystal oscillator clock is also installed to regulate the timing.
+Microprocessors use different numbers of bits to represent a symbol (a word, number, or command).
+Word length is the term used to indicate the number of bits that are coupled to form a symbol - the greater the word length, the greater the number of different bit patterns available for use.
+The first microprocessors were 4-bit processors - they could recognize groups of four bits, or 24 = 16 different binary combinations of 0s and 1s.
+They therefore could respond to 16 different operating instructions.
+These early units were used in simple control and security applications.
+Next came 8-bit processors, which were the basic components of early personal computers, followed by 16-bit processors.
+Today, 32-bit microprocessors are common, and 64-bit processors are available, with nearly 20 million trillion possible binary-digit combinations per word.
+The increasing bit storage capacity of chips blurs the distinction between microprocessors and minicomputers.
+In fact, many current microprocessors are more powerful than the minicomputers designed in the late 1970s.
+A microprocessor stores its information in different ways, depending on how it is to be handled.
+Information that can be altered by the user is stored in a RAM portion of the chip.
+The actual operating program is normally stored in ROM or in a permanent logic array because the user does not need to change this program.
+Information stored in RAM is lost when the power supply is disconnected, while information stored in ROM is retained even if power is lost.
+Each type of microprocessor has a particular set of instructions that it understands.
+An instruction consists of two parts: an operating code (op code) and an operand.
+The op code states the operation to be carried out, while the operand specifies the data to be used and indicates where they should be stored.
+Within the processor these instructions operate in machine language, or in binary form consisting of only patterns of 1s and 0s.
+To increase programming efficiency and simplify use, however, most programs are written in a high-level language, such as BASIC, FORTRAN, or Java, which uses commands based on words and mathematical notation.
+These programs are then translated in the processor into the machine language that the unit understands and can execute.
+High-level language programs can also be readily transferred from one computer to another.
+Microprocessor applications have grown rapidly since the 1970s.
+Most of this growth has resulted from improvements in the manufacturing of chips, especially in lithography.
+The typical production process begins with a thin wafer of silicon, known as the substrate, that is covered with a thin metallic coating.
+A photosensitive polymer, called resist, is then applied as a very thin film.
+Placed over it is a microphotographic pattern of the circuit lines to be formed, called a mask.
+After exposure to ultraviolet light, the wafer is developed.
+The exposed resist, which is not protected by the mask, dissolves, and the wafer beneath is etched to remove the metallic film.
+This leaves only metal circuit lines on the silicon substrate.
+The narrower these lines, the more elements that will fit in a given area and the less time required for a signal to travel from one component to the next - thus the faster the processor.
+A similar lithographic process is used to deposit other materials in specified layers at exact locations.
+ An integrated circuit, or microchip, is made in a sequence of operations. (
+One type, called an n-channel metal-oxide semiconductor transistor, requires about a dozen steps.)
+First, a clean p-type silicon wafer is oxidized to produce a thin layer of silicon dioxide and is coated with a radiation-sensitive film called a resist (a).
+The wafer is masked by lithography to expose it selectively to ultraviolet light, which causes the resist to become soluble (b).
+Light-exposed areas are dissolved, exposing parts of the silicon dioxide layer, which are removed by an etching process (c).
+The remaining resist material is removed in a liquid bath.
+The areas of silicon exposed by the etching process are changed from p-type (pink) to n-type (yellow) by exposure to either arsenic or phosphorus vapor at high temperatures (d).
+Areas covered by silicon dioxide remain p-type.
+The silicon dioxide is removed (e), and the wafer is oxidized again (f).
+An opening is etched down to the p-type silicon using a reverse mask with the lithography/etching process (g).
+Another oxidation cycle forms a thin layer of silicon dioxide on the p-type region of the wafer (h).
+Windows are etched in the n-type silicon areas in preparation for metal deposits (i).
+Copyright Encyclopædia Britannica, Inc.; rendering for this edition by Rosen Educational Services
+Every few years the wavelength of the ultraviolet light used in producing computer chips has been decreased.
+This reduction has allowed engineers to etch smaller and smaller circuit lines on the chips - and thus generally has corresponded to a jump in the number of transistors that can be packed onto each chip.
+Much of the manufacturing cost of integrated circuits depends on the production volume.
+Chips must be mounted in a carrier, which has pins to provide electrical connections, through sockets or soldering to other components of the system.
+A large number of pins may complicate assembly of the printed circuit board.
+As a result, with the aid of robots, modern board assembly has been largely automated for more efficient production.
+The evolution of the microprocessor traces that of the electronic computer.
+It was only with the miniaturization of integrated semiconductor circuits in the 1960s, however, that the modern microprocessor became possible.
+The development of large-scale (and later very-large-scale and ultra-large-scale) techniques after 1970 reduced circuit size and allowed for more complex circuitry.
+With this, the microprocessor gained widespread use in electronic equipment and popular acceptance in the office and home.
+A microprocessor mounted on an assembly-line robot can direct its movements from instructions stored in the computer’s memory.
+Bill Pugliano/Getty Images
+In manufacturing, the first computer applications were in the control of machine tools.
+The techniques that direct the precise motions of a tool can also be used to direct the motions of a robotic device, and it is in this application that the microprocessor excels.
+A microprocessor can be mounted directly on a robot, instructing it to carry out operations stored in the computer’s memory.
+As a result, microprocessor-controlled robotic devices revolutionized assembly-line techniques.
+ROBOTICS
+The image usually conjured up by the word “robot” is that of a mechanical being, more or less human in shape.
+Common in science fiction, robots are generally depicted as working in the service of humanity, but often escaping the control of their human masters and doing them harm.
+The word “robot” comes from the Czech writer Karel Čapek’s 1921 play R.U.R. (which stands for Rossum’s Universal Robots), in which mechanical beings manufactured to be slaves for humanity rise up in rebellion and kill their creators.
+Thus the fictional image of robots can be dramatic and troubling, expressing the fears that people may have of a mechanized world over which they cannot maintain control.
+The history of real robots is not nearly as dramatic, but where developments in robotics may lead remains to be seen.
+Electronic devices are used in a great many applications.
+Integrated circuits are extremely versatile because a single basic design can be made to perform a myriad of different functions, depending on the wiring of the circuits and the electronic programs or instructions that are fed into them.
+Most integrated circuits perform calculations or logic manipulations in devices ranging from handheld calculators to ultrafast supercomputers that can perform trillions of calculations per second.
+Electronic circuitry enables the functioning of a vast array of consumer devices.
+In radio receivers, for example, a primary function of circuits is the amplification of weak signals received by the antenna.
+In amplification a small signal is magnified to a large signal that is used to drive other circuits, such as the speakers of a radio.
+Integrated circuits are used in electronic devices, including the basic handheld calculator.
+Shutterstock.com
+In many cases this amplification is performed with the help of oscillator circuits.
+Such a circuit has a natural period, or cycle, of electrical current, similar to the natural beat of a pendulum.
+When driven by external signals of the same period, such as the transmission from a particular radio channel, the oscillator circuit increases its amplitude of oscillation.
+MP3 player.
+Cate Gillon/Getty Images
+To tune out other radio stations also received by a single antenna, filter circuits are frequently used.
+Such filters strongly reduce the signals at all but a single frequency, preventing interference among channels in a receiver.
+Consumer electronics, a field that was first developed in the 19th century with the invention of the phonograph, now includes satellite radios, high-definition television sets, digital video disc (DVD) players, MP3 digital music players, smartphones (essentially handheld computers integrated with a cell phone), video games, and tablet computers (computers in which a touch screen replaces a keyboard) such as Apple’s iPad.
+Most of these devices contain one or more integrated circuits.
+Electronic controls have also been added to many electrical appliances such as dishwashers, washing machines, ovens, and food processors.
+In industry and trade, the computer, made up of from one to several thousand integrated circuits, has become an invaluable tool, controlling industrial operations and keeping track of voluminous business records.
+ELECTRONIC GAMES
+A hugely popular form of entertainment, electronic games are games run by computer technology.
+They are also called video games.
+The appeal of electronic games has grown as the technology used to produce them has advanced, offering players increasingly sophisticated graphics and sound.
+Electronic games are played on personal computers, home video consoles connected to television sets, arcade consoles, handheld devices, and even cell phones.
+There are thousands of electronic games in many genres, the most popular of which include action, adventure, and sports.
+Many games are played by one person against the machine.
+Some games, such as simulated sports contests, can be played by two or more people competing against each other.
+Other games allow thousands of people to play at once over the Internet.
+Theoretical and experimental studies of electricity during the 18th and 19th centuries led to the development of the first electrical machines and the beginning of the widespread use of electricity.
+In the early 20th century, vacuum tubes were developed that could detect and amplify radio signals.
+Semiconducting devices later largely replaced these early tubes and became the key elements for most of today’s electronic systems, including communications, consumer, data-processing, and industrial-control equipment.
+The working principles of electronics can be demonstrated by tracing the history of radio tubes and photoelectric cells.
+This history began in 1883, when American inventor Thomas Edison found that the heated filament in his incandescent lamp gave off material that blackened the inside of the bulb.
+This was called the Edison effect, and it led to the development of the modern radio tube.
+In the Edison effect, also called thermionic emission, heat supplies some electrons in the filament with at least the minimal energy to overcome the attractive forces holding them in the structure of the metal.
+This discharge of electrons is widely used as a source of electrons in conventional electron tubes - for example, in television picture tubes.
+Thomas Edison invented the tinfoil phonograph.
+U.S. Department of the Interior, National Park Service.
+Edison National Historic Site
+In 1887 Heinrich Hertz of Germany, while trying to prove the existence of radio waves, discovered the photoelectric effect.
+If polished metal is given a negative charge and then is flooded with ultraviolet radiation, it steadily loses the charge.
+Some chemical elements such as cesium and selenium are sensitive to visible light.
+This discovery led to photoelectric cells.
+The development of the radio tube began in 1904, when John A. Fleming of England produced the Fleming valve, which today is called a diode, meaning “two electrodes.”
+He started by heating a filament in a vacuum tube with a current (called the “A-circuit” current).
+The heat drove electrons out of the filament and into surrounding space.
+If nothing more happened, the first electrons to escape would soon have formed a negative space charge that would have kept others from being driven out because like charges repel.
+Fleming avoided this by placing a plate in the tube and connecting the plate and filament through an outside “B circuit.”
+The electrons driven from the filament then crossed the tube to the plate and followed the circuit back to the filament.
+Heinrich Hertz.
+Hulton Archive/Getty Images
+John Fleming invented the Fleming valve, or diode, which had two electrodes.
+SSPL via Getty Images
+Fleming next placed a battery in the B circuit.
+The battery was used to supply electrons - that is, negative charges - to the filament, or cathode, and draw them from the plate, or anode, leaving a positive charge.
+Electrical heating drove electrons steadily from the filament and sent a strong current through the B, or plate, circuit.
+The strength of the current depends partly upon the heat and partly upon the voltage from the battery.
+This device could be used as a radio detector.
+The changing voltages created by radio signals in an antenna circuit are placed on the filament and plate.
+The changes produce corresponding changes in the strength of the plate current, which is used to reproduce the signal in the receiving apparatus.
+In 1906 American inventor Lee De Forest transformed the diode into a device that he called an audion, the modern name of which is triode (“three electrodes”).
+He did this by inserting a grid of fine wire mesh between the filament and the plate.
+If variable voltages from an antenna circuit are placed on the filament and the grid, they cause variations in the flow of electrons to the plate.
+Moreover, the variations in current are much stronger than those caused by the voltage of the incoming signal acting alone.
+Thus the triode amplifies, or strengthens, the signal.
+Although important in the history of electronics, the diode and triode have largely been replaced by semiconducting devices.
+Copyright Encyclopædia Britannica, Inc.; rendering for this edition by Rosen Educational Services
+Because the tube uses free electrons only and has no mechanical moving parts, it responds within a few microseconds, or millionths of a second, to any change placed upon it.
+It can be made sensitive to changes of less than a millionth of a volt.
+Resulting changes in the plate current can be amplified by passing the signal through more tubes.
+FASTER, SMALLER, AND MORE-POWERFUL PCS
+By 1990 some personal computers had become small enough to be completely portable.
+They included laptop computers, also known as notebook computers, which were about the size of a notebook, and less powerful pocket-sized computers known as personal digital assistants (PDAs).
+At the high end of the PC market, multimedia personal computers equipped with DVD players and digital sound systems allowed users to handle animated images and sound (in addition to text and still images) that were stored on high-capacity DVD-ROMs.
+Personal computers were increasingly interconnected with each other and with larger computers in networks for the purpose of gathering, sending, and sharing information electronically.
+The uses of personal computers continued to multiply as the machines became more powerful and their application software proliferated.
+As this volume has shown, the field of electronics encompasses an exceptionally broad range of technology.
+Today, many scientific and technical disciplines deal with different aspects of electronics.
+Research in these fields has led to the development of such important devices as transistors, integrated circuits, lasers, and optical fibers.
+These in turn have made it possible to manufacture a wide array of electronic consumer, industrial, and military products.
+Indeed, it can be said that the world is in the midst of an electronic revolution at least as significant as the Industrial Revolution of the 19th century.
+The extent to which electronic devices now influence people’s lives is difficult to overstate, and that influence only continues to grow.
+One survey conducted in 2010 reported the most popular consumer electronic products among Americans to be - in order of popularity - the cell phone, the desktop computer, the laptop computer, the MP3 player, the video game console, the electronic book (e-book) reader, and the tablet computer.
+The survey revealed that 85 percent of Americans older than the age of 18 owned a cell phone and that 96 percent of those aged 18–29 had one.
+In addition, about three-fourths of Americans had either a desktop or a laptop computer.
+Such findings underscored the reality that, for the overwhelming majority of people, electronic devices of all kinds played an increasing role in their everyday lives and would continue to do so for the foreseeable future.

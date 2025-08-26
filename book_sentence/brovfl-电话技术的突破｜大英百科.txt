@@ -1,0 +1,1367 @@
+The telephone has proven to be one of the fastest, most personal ways for people to connect when they are separated by distance.
+Information that once took weeks to convey now takes seconds.
+Advances in telephone technology also have opened even more avenues of electronic communication.
+Breakthroughs in Telephone Technology explains, in detail, the composition and intricate operation of telephone instruments, and illustrates how phones have changed over time.
+The text takes readers through the history of the telephone, and points toward its possible future applications.
+A comprehensive study of the telephone should begin with an understanding of how the instrument works.
+The device must have a direct-current power source, which is supplied by the local phone company’s switching office through a circuit called the local loop. (
+Cordless phones are an exception, drawing power from an internal battery.)
+Next is the switch hook, which connects and disconnects the phone to the loop.
+The dialer transmits pulses or dual-tone signals that indicate the number being called.
+The ringer is always connected to the loop, ready to announce an incoming call.
+The transmitter converts sound vibrations into electric current, which is received on the other end of the line.
+The receiver does the opposite, translating current into audible sound that mimics speech.
+An anti-sidetone circuit prevents the user’s own voice from transmitting back to his or her own receiver.
+The telephone went through a number of experimental iterations before the current operating instrument came to fruition.
+Throughout the 19th century, inventors were searching for a way to transmit sound over long distances.
+In 1861, German Johann Philipp Reis created a device that could transmit sound, but not speech.
+In the 1870s, Elisha Gray and Alexander Graham Bell conceived similar electrical sound-transmitting devices and receivers that used metal diaphragms to reproduce sound.
+Bell had not yet built the transmitter for his model on Feb. 14, 1886, the day both he and Gray went to the U.S. Patent Office.
+Nevertheless, Bell’s patent application won out over Gray’s caveat, a sort of prelude to a patent, and Bell became the official inventor of the telephone.
+Transmitting sound that duplicated the human voice was the next hurdle to overcome.
+Using a design that was again similar to Gray’s, Bell created a successful transmitter using a pair of metal rods in an acidic solution, one of which moved in relation to the other when activated by sound waves, thus causing changes in an electric current that was transmitted to a receiver.
+In March 1876, this “liquid” transmitter enabled the first voice message, from Bell to his assistant, Thomas Watson, to be sent.
+A decade later, Thomas Edison invented a refined transmitter using granulated charcoal.
+This design would be used for nearly a hundred years.
+Each individual telephone instrument must be part of a network that enables users to connect with one another.
+The network has three main functions: switching, signaling and transmitting.
+Switching refers to the connection of one line to another.
+As one phone cannot be directly connected to all other phones, a switching station handles the numerous connections.
+In the early days of telephone use switching was done manually, wherein an operator at a station, or telephone exchange office, physically connected one line to another by plugging a two-ended cord into the appropriate jacks.
+Stations could handle several hundred lines before a transfer to another station was required.
+An increase in the number of telephone installations led to a more automated system.
+The crossbar switch - invented in 1913 by Western Electric and first installed in 1938 by AT&T - could connect 10 calls at once.
+By the mid-1970s, electronic switching had replaced the crossbar, nearly doubling station capabilities.
+Digital switches of the 1970s “multiplexed” numerous calls over individual circuits, using both space-division and time-division, which, again, greatly increased capacity.
+To signal a station, early telephones were outfitted with a single button that alerted the operator.
+Rotary dialing replaced the button in 1896; by 1910, a standard rotary dial was in place.
+Callers turned the dial a set distance for each digit in the number they were calling.
+The return of the dial to its original position sent coded pulses to the switching office, to indicate the number desired.
+Push-button dialing, which replaced the rotary dial in the 1960s, used touch-tone signals to make connections.
+This new signaling system was more efficient, and offered the additional buttons pound (#) and star (*), used for automated telephone answering systems today.
+Changes in transmission took place over the course of the 20th century as well.
+At first telephone-call transmission took place over single wires looped from poles, like telegraph wires, but this setup soon proved to lack the power needed for this higher-frequency form of communication.
+Doubling the wires and changing the material to copper improved transmission, but problems remained.
+Interference between lines, or cross-talk, was eliminated by simply twisting the wires at intervals.
+The problem of attenuation, or weakening of transmissions, was not as simple to solve, particularly as it pertained to long-distance calls.
+Amplification systems using vacuum tubes were effective but expensive.
+Multiplexing, or using one circuit for multiple transmissions, allowed long-distance capacity to expand exponentially between 1900 and 1927.
+The conversion from analog to digital transmission, along with more multiplexing techniques, further improved the speed and quality of long-distance transmission.
+Long-distance coaxial cables were first used in the United States in 1946, shortly thereafter joined by transmission via microwave links.
+For overseas calls, radio transmission was quickly replaced by undersea cables, which were increased in number and capacity from the 1950s to the 1980s.
+Fibre optic cables, first used for telephone transmission in 1979, offered greater bandwidth and reliability, as well as lower cost.
+Satellite connections, once thought promising, have proven to be inferior to cables, but satellites are still used to support voice and data services.
+The vibrations of the human voice create an analog signal, which must be converted to a digital signal for the most reliable and efficient transmission.
+The conversion from analog to digital begins with sampling, where the bandwidth, or frequency range, is determined.
+Next, the signal is quantized, or spaced out evenly.
+Once the conversion of the signal is complete, it can be modified for accuracy.
+Source encoding reduces the redundancy in bits transmitted so that as little bandwidth as possible may be used.
+Modulation is another step in the process of transmission.
+In modulation a carrier wave is changed, or modulated, by the information signal in some manner that allows the carrier wave to travel through the system more efficiently and transmit the information more accurately.
+For analog signals, either the amplification or frequency of the carrier wave may be changed.
+In digital transmissions, several changes may occur.
+Amplitude-shift keying signals the ones and zeroes of the binary code by alternating between two signal amplitudes.
+Frequency-shift keying uses two different frequencies for the ones and zeroes.
+Phase-shift keying assigns opposing polarities to the ones and zeroes.
+More advanced modulation methods are applied to cellular systems.
+Multiplexing, which is any one of numerous techniques for combining signals so that multiple users can share a single line, is a key to handling the large number of calls placed around the world at any given moment.
+In frequency-division multiplexing, users are assigned specific frequencies of a carrier signal, and multiple carrier signals are grouped together and used in turn to modulate specific frequencies of a group carrier wave.
+Assigned frequencies are separated by “guard” bands to prevent interference.
+In a digital technique known as time-division multiplexing, a scanner selects sequential slots of data from multiple user signals and interleaves them in a single composite transmission signal.
+At the receiving end the slots are separated and reassembled so quickly that no interruption of the signal is noticed.
+The days of crackling long-distance connections are a thing of the past due, in part, to these and other extremely complex technologies.
+Telephone lines can be used for transmitting text and images as well, as with a fax machine.
+The word “fax” is a phonetic shortening of the word “facsimile,” meaning an exact copy or replica.
+A fax machine scans a printed document, picking up the contrasts between light and dark and converting them to binary code (or bits).
+The fax machine then transmits the information to another machine, which reverses the process to produce a paper copy.
+Older machines used a special thermal paper, but today’s faxes use xerographic technology.
+Faxes can also be sent from one computer to another, with no need for a printout.
+Frederick Bakewell of England sent the first fax in 1851, using the telegraph system connected to cylinders and a conductive stylus, which “wrote” on tinfoil.
+In 1902, the first photo fax was sent in Germany; four years later German newspapers were using faxes regularly to transmit photographs between Munich and Berlin.
+News outlets in New York City used fax technology for much the same purpose beginning in the 1920s.
+In the 1970s, the International Telegraph and Telephone Consultative Committee (CCITT) set communication standards for fax machines, known as Group 1.
+Today, fax machines meet Group 3 standards at a minimum; some also conform to Group 4.
+Fax machines use a device known as a modem to transmit data.
+The modem gets its name from the telephone terms “modulate” and “demodulate.”
+Modems convert digital data into analog signals for transmission, and reverse the process to receive data.
+They support text, photo, video, and sound transmission.
+The first voiceband modems used some of the same modulating methods discussed previously with regard to telephones, such as frequency-shift keying.
+During the last half of the 20th century, data transmission speeds increased exponentially.
+Modern modems operate using both analog and digital technologies.
+Cable modems, which are entirely digital and are not connected to a user’s telephone lines, separate and convert data that are received simultaneously with television service in a user’s home.
+DSL modems handle data that are transmitted over the user’s telephone lines, along with voice communication.
+Today, traditional telephones compete with cell phones for dominance in telecommunications.
+A “cell” is an area served by a base station for mobile devices.
+As a caller moves, he or she is transferred from cell to cell, with little to no interruption in service.
+The cells reassign frequencies from phone to phone, and can divide themselves when they reach their capacity.
+The first mobile phones weren’t cellular; they provided a direct connection to an operator, who placed a call for the user.
+True “cell” phones came into existence in the 1980s, and demand was high.
+Within five years of starting service, 2 million users had signed on.
+Several methods were attempted to increase capacity; the code-division multiple access (CDMA) model proved to be the most effective, providing 10 to 20 times the existing capacity.
+The first generation of cell phones, referred to as 1G, were analog; the next generation, 2G phones, were digital.
+In 2001, the advent of 3G phones and networks created conditions for a new generation of cell phones that enabled the user to send and receive voice, text, and Internet data.
+These “smartphones” are best described as telephones combined with a personal computer.
+The next generation of cell phone technology, 4G, has begun to enter the marketplace, and promises to be even faster, thus accelerating the trend toward mobile communication.
+Videophones utilize a combination of technologies - two-way telephone voice capability with two-way video signals.
+Early videophones operated using closed-circuit loops, but by the 1950s, signals could be transmitted over telephone circuits.
+Videophones them followed the same path that phones did, from analog to digital.
+Refinements and advances to videophone technology led to videoconferencing, which typically takes place over the Internet.
+Voice over Internet Protocol (VoIP) converts sound to a digital signal, which is then sent over a high-speed Internet connection to another device that converts the signal back to sound, thus bypassing traditional telephone services.
+Critics point out the technology’s downsides, such as interrupted connections, occasionally questionable sound quality, and lack of attached address for emergency 911-type calls.
+However, VoIP is a popular telecommunications tool.
+With the exploding popularity of cellular phones, will the landline become obsolete?
+It seems unlikely, given that other telecommunications technologies rely on an infrastructure created by the telephone network, as well as the reluctance of many cell users to give up their landlines.
+Yet technology changes rapidly: the essential can become obsolete; luxuries become necessities.
+One can only speculate as to what the further evolution of the telephone, and telecommunications technology, might bring.
+The word telephone, from the Greek roots tēle, “far,” and phonē, “sound,” was applied as early as the late 17th century to the string telephone familiar to children - sound waves traveling over string pulled taut and capped on either end by tin cans or paper cups.
+The term was later used to refer to the megaphone and the speaking tube.
+In modern usage, however, it refers solely to electrical devices derived from the inventions of Alexander Graham Bell and others in the late 19th century.
+Business telephone, c. 2000.
+© Corbis
+Within 20 years of the 1876 Bell patent, the telephone instrument, as modified by Thomas Watson, Emil Berliner, Thomas Edison, and others, acquired a functional design that has not changed fundamentally in more than a century.
+Metal wiring and other heavy hardware have been replaced by lightweight and compact microcircuitry, and digital signaling has allowed the introduction of a number of “smart” features such as automatic redialing, call-number identification, wireless transmission, and visual display.
+Such advances supplement the basic telephone design, but they do not replace it.
+As it has since its early years, the telephone instrument is made up of numerous functional components.
+These include a power source, a switch hook, a dialer, a ringer, a transmitter, a receiver, and an anti-sidetone circuit.
+In the first experimental telephones, the electric current that powered the telephone circuit was generated at the transmitter by means of an electromagnet activated by the speaker’s voice.
+Such a system could not generate enough voltage to produce audible speech in distant receivers, so every transmitter since Bell’s patented design has operated on a direct current supplied by an independent power source.
+The first sources were batteries located in the telephone instruments themselves, but since the 1890s current has been generated at the local switching office.
+The current is supplied through a two-wire circuit called the local loop.
+The standard voltage is 48 volts.
+Cordless telephones represent a return to individual power sources in that their low-wattage radio transmitters are powered by a small (e.g., 3.6-volt) battery located in the portable handset.
+When the telephone is not in use, the battery is recharged through contacts with the base unit.
+The base unit is powered by a transformer connection to a standard electric outlet.
+A woman uses a cordless telephone.
+The two metal strips visible at the bottom of the handset connect with contact strips in the phone’s base to recharge the unit’s battery.
+Comstock Images/Thinkstock
+The switch hook connects the telephone instrument to the direct current supplied through the local loop.
+In early telephones the receiver was hung on a hook that operated the switch by opening and closing a metal contact.
+This system is still common, though the hook has been replaced by a cradle to hold the combined handset, enclosing both receiver and transmitter.
+In some modern electronic instruments, the mechanical operation of metal contacts has been replaced by a system of transistor relays.
+When the telephone is “on hook,” contact with the local loop is broken.
+When it is “off hook” (i.e., when the handset is lifted from the cradle), contact is restored and current flows through the loop.
+The switching office signals restoration of contact by transmitting a low-frequency “dial tone” - actually two simultaneous tones of 350 and 440 hertz.
+The dialer is used to enter the number of the party that the user wishes to call.
+Signals generated by the dialer activate switches in the local office, which establish a transmission path to the called party.
+The traditional rotary dialer, invented in the 1890s, has been replaced by push-button dialing, introduced in the 1960s.
+In push-button dialing, the pressing of each button on a keypad generates a “dual-tone” signal that is specific to the number being entered.
+The tones can travel through the telephone system so that push-button telephones can be used to activate automated functions at the other end of the line.
+In both rotary and push-button systems, a capacitor and resistor prevent dialing signals from passing into the ringer circuit.
+The ringer alerts the user to an incoming call by emitting an audible tone or ring.
+Ringers are of two types, the traditional mechanical or the modern electronic.
+Both types are activated by a 20-hertz, 75-volt alternating current generated by the switching office.
+In North America the ringer is activated in two-second pulses, each pulse separated by a pause of four seconds.
+In Europe it is common to hear two short, half-second pulses, each pair of pulses followed by a pause of two seconds.
+The traditional mechanical ringer was introduced with the early Bell telephones.
+It consisted of two closely spaced bells, a metal clapper, and a magnet.
+Passage of alternating current through a coil of wire produced alternations in the magnetic attraction exerted on the clapper, so it vibrated rapidly and loudly against the bells.
+Volume could be muted by a switch that placed a mechanical damper against the bells.
+In modern electronic ringers, introduced in the 1980s, the ringer current is passed through an oscillator, which adjusts the current to the precise frequency required to activate a piezoelectric transducer - a device made of a crystalline material that vibrates in response to an electric current.
+The transducer may be coupled to a small loudspeaker, which can be adjusted for volume.
+The ringer circuit remains connected to the local loop even when the telephone is on hook.
+A larger voltage is necessary to activate the ringer because the ringer circuit is made with a high electrical impedance in order to avoid draining power from the transmitter-receiver circuit when the telephone is in use.
+A capacitor prevents direct current from passing through the ringer once the handset has been lifted off the switch hook.
+The transmitter is essentially a tiny microphone located in the mouthpiece of the telephone’s handset.
+It converts the vibrations of the speaker’s voice into variations in the direct current flowing through the set from the power source.
+In traditional carbon transmitters, developed in the 1880s, a thin layer of carbon granules separated a fixed electrode from a diaphragm-activated electrode.
+Electric current flowed through the carbon against a certain resistance.
+The diaphragm, vibrating in response to the speaker’s voice, forced the movable electrode to exert a fluctuating pressure on the carbon layer.
+Fluctuations in the carbon layer created fluctuations in its electrical resistance, which in turn produced fluctuations in the electric current.
+Voice vibrations travel through the small mouthpiece opening at the bottom of telephone handsets (as seen on these Japanese mobile units) to the transmitter within.
+Toru Yamanaka/AFP/Getty Images
+In modern electret transmitters, developed in the 1970s, the carbon layer is replaced by a thin plastic sheet that has been given a conductive metallic coating on one side.
+The plastic separates that coating from another metal electrode and maintains an electric field between them.
+Vibrations caused by speech produce fluctuations in the electric field, which in turn produce small variations in voltage.
+The voltages are amplified for transmission over the telephone line.
+The receiver is located in the earpiece of the telephone’s handset.
+Operating on electromagnetic principles that were known in Bell’s day, it converts fluctuating electric current into sound waves that reproduce human speech.
+Fundamentally, it consists of two parts: a permanent magnet, having pole pieces wound with coils of insulated fine wire, and a diaphragm driven by magnetic material that is supported near the pole pieces.
+Speech currents passing through the coils vary the attraction of the permanent magnet for the diaphragm, causing it to vibrate and produce sound waves.
+Through the years the design of the electromagnetic system has been continuously improved.
+In the most common type of receiver, introduced in the Bell system in 1951, the diaphragm, consisting of a central cone attached to a ring-shaped armature, is driven as a piston to obtain efficient response over a wide frequency range.
+Telephone receivers are designed to have an accurate response to tones with frequencies of 350 to 3,500 hertz - a dynamic range that is narrower than the capabilities of the human ear but sufficient to reproduce normal speech.
+The anti-sidetone circuit is an assemblage of transformers, resistors, and capacitors that perform a number of functions.
+The primary function is to reduce sidetone, which is the distracting sound of the speaker’s own voice coming through the receiver from the transmitter.
+The anti-sidetone circuit accomplishes this reduction by interposing a transformer between the transmitter circuit and the receiver circuit and by splitting the transmitter signals along two paths.
+When the divided signals, having opposite polarities, meet at the transformer, they almost entirely cancel each other in crossing to the receiver circuit.
+The speech signal coming from the other end of the line, on the other hand, arrives at the transformer along a single, undivided path and crosses the transformer unimpeded.
+The anti-sidetone circuit also matches the low electrical impedance of the telephone instrument’s circuits to the higher electrical impedance of the telephone line.
+Impedance matching allows a more efficient flow of current through the system.
+The working components of a telephone were not invented in a historical vacuum.
+Rather, they came out of a period of fierce competition that began in the early 19th century, when inventors launched a series of attempts (most of them unsuccessful) to transmit sound by electric means.
+The first inventor to suggest that sound could be transmitted electrically was a Frenchman, Charles Bourseul, who indicated that a diaphragm making and breaking contact with an electrode might be used for this purpose.
+By 1861 Johann Philipp Reis of Germany had designed several instruments for the transmission of sound.
+The transmitter Reis employed consisted of a membrane with a metallic strip that would intermittently contact a metallic point connected to an electrical circuit.
+As sound waves impinged on the membrane, making the membrane vibrate, the circuit would be connected and interrupted at the same rate as the frequency of the sound.
+The fluctuating electric current thus generated would be transmitted by wire to a receiver, which consisted of an iron needle that was surrounded by the coil of an electromagnet and connected to a sounding box.
+The fluctuating electric current would generate varying magnetic fields in the coil, and these in turn would force the iron needle to produce vibrations in the sounding box.
+Reis’s system could thus transmit a simple tone, but it could not reproduce the complex waveforms that make up speech.
+<Caption> One of Johann Reis’s voice transmission units, complete with “sounding box,” protruding mouthpiece, and coiled transmission wire.
+SSPL via Getty Images
+JOHANN REIS’S “PHILOSOPHICAL TOYS”
+Johann Philipp Reis, born Jan. 7, 1834, in Gelnhausen, Hesse-Kassel (now in Germany), was educated at Frankfurt am Main, became a merchant for a few years, and in 1858 began teaching in Friedrichsdorf, near Frankfurt.
+While there he experimented with electricity and worked on the development of hearing aids.
+This research led to his interest in the electrical transmission of sound, and by 1861 he had designed several transmitters and receivers.
+In Reis’s instruments, a contact in an electrical circuit was established between a metal point and a metal strip resting on a membrane in the transmitter.
+It was Reis’s theory that, as the membrane vibrated, the metal point would bounce up and down, producing intermittent contact and intermittent current synchronous with the vibrations, and that, furthermore, the height of the bounce, the force of its return, and the amplitude of the current pulse would vary with the intensity of the sound.
+Thus, he expected that something of the quality as well as the intensity of the sound would be conveyed.
+Reis believed that simple musical tones could be transmitted by the apparatus - which he called a telephone - and in fact such demonstrations with his instruments were common.
+In addition, though, there were several reports of successful speech transmission.
+These reports were subsequently discounted in court cases upholding the patents of Alexander Graham Bell, largely because it was recognized that speech transmission would have been impossible if the instruments had operated as Reis believed they did.
+Nevertheless, it is a fact that, if the sound entering a Reis transmitter is not too strong, contact between the metal point and the metal strip will not be broken.
+Instead, the pressure of the former on the latter will fluctuate with the sound, causing fluctuations in the electrical resistance and therefore in the current.
+Similarly, the receiver will respond to continuously fluctuating as well as to intermittent currents (but not by magnetostriction).
+The sensitivity, however, is extremely low - so low that it is not unreasonable to question the validity of the limited testimony regarding successful voice transmission in the 1860s.
+There is no evidence that Reis himself thought of his devices as more than “philosophical toys,” good for lecture demonstrations to illustrate the nature of sound.
+He authorized their reproduction, and numerous copies were sold for this purpose.
+Johann Reis died on Jan. 14, 1874, in Friedrichsdorf.
+In the 1870s two American inventors, Elisha Gray and Alexander Graham Bell, each independently designed devices that could transmit speech electrically.
+Gray’s first device made use of a harmonic telegraph, the transmitter and receiver of which consisted of a set of metallic reeds tuned to different frequencies.
+An electromagnetic coil was located near each of the reeds.
+When a reed in the transmitter was vibrated by sound waves of its resonant frequency - for example, 400 hertz - it induced an electric current of corresponding frequency in its matching coil.
+This coil was connected to all the coils in the receiver, but only the reed tuned to the transmitting reed’s frequency would vibrate in response to the electric current.
+Thus, simple tones could be transmitted.
+In the spring of 1874 Gray realized that a receiver consisting of a single steel diaphragm in front of an electromagnet could reproduce any of the transmitted tones.
+However, he was initially unable to conceive of a transmitter that would transmit complex speech vibrations and instead chose to demonstrate the transmission of tones via his telegraphic device in the summer of 1874.
+Bell, meanwhile, also had considered the transmission of speech using the harmonic telegraph concept, and in the summer of 1874 he conceived of a membrane receiver similar to Gray’s.
+However, since Bell, too, had no transmitter, the membrane device was never constructed.
+Following some earlier experiments, Bell postulated that, if two membrane receivers were connected electrically, a sound wave that caused one membrane to vibrate would induce a voltage in the electromagnetic coil that would in turn cause the other membrane to vibrate.
+Working with a young machinist, Thomas Augustus Watson, Bell had two such instruments constructed in June 1875.
+The device was tested on June 3, 1875, and, although no intelligible words were transmitted, “speechlike” sounds were heard at the receiving end.
+An application for a U.S. patent on Bell’s work was filed on Feb. 14, 1876.
+Several hours later that same day, Gray filed a caveat on the concept of a telephone transmitter and receiver.
+A caveat was a confidential, formal declaration by an inventor to the U.S. Patent Office of an intent to file a patent on an idea yet to be perfected; it was intended to prevent the idea from being used by other inventors.
+At this point neither Gray nor Bell had yet constructed a working telephone that could convey speech.
+On the basis of its earlier filing time, Bell’s patent application was allowed over Gray’s caveat.
+On March 7, 1876, Bell was awarded U.S. patent 174,465.
+This patent is often referred to as the most valuable ever issued by the U.S. Patent Office, as it described not only the telephone instrument but also the concept of a telephone system.
+Alexander Graham Bell’s sketch of a telephone.
+He filed the patent for his telephone at the U.S. Patent Office on Feb. 14, 1876 - just two hours before a rival, Elisha Gray, filed a declaration of intent to file a patent for a similar device.
+© Photos.com/Jupiterimages
+Gray had earlier come up with an idea for a transmitter in which a moving membrane was attached to an electrically conductive rod immersed in an acidic solution.
+Another conductive rod was immersed in the solution, and, as sound waves impinged on the membrane, the two rods would move with respect to each other.
+Variations in the distance between the two rods would produce variations in electric resistance and, hence, variations in the electric current.
+In contrast to the magnetic coil type of transmitter, the variable-resistance transmitter could actually amplify the transmitted sound, permitting use of longer cables between the transmitter and the receiver.
+Again, Bell also worked on a similar “liquid” transmitter design.
+It was this design that permitted the first transmission of speech, on March 10, 1876, by Bell to Watson: “Mr. Watson - come here - I want you.”
+The first public demonstrations of the telephone followed shortly afterward, featuring a design similar to earlier magnetic coil membrane units.
+One of the earliest demonstrations occurred in June 1876 at the Centennial Exposition in Philadelphia.
+Further tests and refinement of equipment followed shortly afterward.
+On Oct. 9, 1876 Bell conducted a two-way test of his telephone over a 5-km (2-mile) distance between Boston and Cambridgeport, Mass. In May 1877 the first commercial application of the telephone took place with the installation of telephones in offices of customers of the E.T. Holmes burglar alarm company.
+ALEXANDER GRAHAM BELL
+Alexander Bell (“Graham” was not added until he was 11) was born on March 3, 1847, in Edinburgh, Scot.,
+the second of the three sons of Alexander Melville Bell and Eliza Grace Symonds Bell.
+For two generations his family had been recognized as leading authorities in elocution and speech correction, and Alexander and his two brothers were trained to continue the family profession.
+In 1868 Alexander became his father’s assistant in London and assumed full charge while the senior Bell lectured in America.
+The shock of the sudden death of his older brother from tuberculosis, which had also struck down his younger brother, and the strain of his professional duties soon took their toll on young Bell.
+Concern for their only surviving son prompted his parents to move the family to Canada in August 1870, where, after settling near Brantford, Ont.,
+Bell’s health rapidly improved.
+In 1871 Bell spent several weeks in Boston, lecturing and demonstrating the system of his father’s Visible Speech, published in 1866, as a means of teaching speech to the deaf.
+Each phonetic symbol indicated a definite position of the organs of speech such as lips, tongue, and soft palate and could be used by the deaf to imitate the sounds of speech in the usual way.
+Young A. Graham Bell, as he now preferred to be known, showed, using his father’s system, that speech could be taught to the deaf.
+In 1873 he became professor of vocal physiology at Boston University.
+Alexander Graham Bell demonstrating his telephone in 1876.
+The Bettmann Archive
+Never adept with his hands, Bell had the good fortune to discover and inspire Thomas Watson, a young repair mechanic and model maker, who assisted him enthusiastically in devising an apparatus for transmitting sound by electricity.
+Their long nightly sessions began to produce tangible results.
+The fathers of George Sanders and Mabel Hubbard, two deaf students whom Bell helped, were sufficiently impressed with the young teacher to assist him financially in his scientific pursuits.
+In September 1875 he began to write the specifications for the telephone, and on March 7, 1876, the United States Patent Office granted to Bell patent no.
+174,465, covering “The method of, and apparatus for, transmitting vocal or other sounds telegraphically…by causing electrical undulations, similar in form to the vibrations of the air accompanying the said vocal or other sounds.”
+Ironically, the telephone - until then all too often regarded as a joke and its creator-prophet as, at best, an eccentric - was the subject of the most involved patent litigation in history.
+The two most celebrated of the early actions were the Dowd and Drawbaugh cases, wherein the fledgling Bell Telephone Company successfully challenged two subsidiaries of the giant Western Union Telegraph Company for patent infringement.
+The charges and accusations were especially painful to Bell, but the outcome of all the litigation, which persisted throughout the life of his patents, was that Bell’s claims were upheld as the first to conceive and apply the undulatory current.
+In 1877 Bell married Mabel Hubbard, 10 years his junior.
+A resident of Washington, D.C., Bell continued his experiments in communication, which culminated in the invention of the photo-phone, transmission of sound on a beam of light; in medical research; and in the Graphophone, a wax cylinder sound recording device.
+In 1885 Bell acquired land on Cape Breton Island in Nova Scotia.
+There, in surroundings reminiscent of his early years in Scotland, he established a summer home, Beinn Bhreagh, complete with research laboratories.
+He died there on Aug. 2, 1922.
+THOMAS AUGUSTUS WATSON
+Thomas Watson was born on Jan. 18, 1854, in Salem, Mass. Leaving school at the age of 14, he began work in an electrical shop in Boston, where he met Alexander Graham Bell.
+He worked with Bell on his telephone experiments, and on March 10, 1876, through a receiver connected by wire to a transmitting instrument located in another room, Watson heard Bell’s famous first telephone call, which Bell transcribed in his lab notes as “Mr. Watson - come here - I want to see you.” (
+In his later years, Watson recalled a slightly shorter call: “Mr. Watson - come here - I want you.”)
+Over the next year Watson joined Bell in demonstrating the powers of the new invention in several spectacular and widely reported exhibitions.
+In 1877, when the Bell Telephone Company was formed, Watson received a share in the business and became its head of research and technical development.
+After leaving Bell in 1881, Watson, made independently wealthy by his share of the royalties on the telephone, traveled through Europe, married, started a family, and made an unsuccessful attempt at farming along the Weymouth Fore River in East Braintree, Mass., southeast of Boston.
+In 1885, having opened a machine shop in a building on his farm property, he started a new business, the Fore River Engine Company, in partnership with his assistant, Frank O. Wellington.
+The two partners at first constructed marine engines, and then in 1896 they received their first government contract for two destroyers.
+During the following eight years, Watson moved the shipyard to nearby Quincy, Mass., changed the growing company’s name to the Fore River Ship & Engine Company, and took on contracts to build lightships, cruisers, battleships, schooners, and other vessels.
+Following his retirement from shipbuilding in 1904, Watson led a restless and peripatetic existence.
+He and his wife studied geology; he acted in a Shakespearean company; and in 1926 he published an autobiography, Exploring Life.
+On Jan. 25, 1915, he rejoined Bell in making the first transcontinental telephone call, between New York City and San Francisco.
+Watson died on Dec. 13, 1934, at his winter home on Passagrille Key, Fla.
+The poor performance of early telephone transmitters prompted a number of inventors to pursue further work in this area.
+Among them was Thomas Alva Edison, whose 1886 design for a voice transmitter consisted of a cavity filled with granules of carbonized anthracite coal.
+The carbon granules were confined between two electrodes through which a constant electric current was passed.
+One of the electrodes was attached to a thin iron diaphragm, and, as sound waves forced the diaphragm to vibrate, the carbon granules were alternately compressed and released.
+As the distance across the granules fluctuated, resistance to the electric current also fluctuated, and the resulting variations in current were transmitted to the receiver.
+Edison’s carbon transmitter was sufficiently simple, effective, cheap, and durable that it became the basis for standard telephone transmitter design through the 1970s.
+The telephone instrument continued to evolve over time.
+The concept of mounting both the transmitter and the receiver in the same handle appeared in 1878 in instruments designed for use by telephone operators in a New York City exchange.
+The earliest telephone instrument to see common use was introduced by Charles Williams, Jr., in 1882.
+Designed for wall mounting, this instrument consisted of a ringer, a hand-cranked magneto (for generating a ringing voltage in a distant instrument), a hand receiver, a switch hook, and a transmitter.
+Various versions of this telephone instrument remained in use throughout the United States as late as the 1950s.
+The telephone dial originated with automatic telephone switching systems in 1896.
+WESTERN ELECTRIC
+The Western Electric Company was founded in Cleveland, Ohio, in 1869 as an electric-equipment shop under the name of Gray & Barton.
+In the same year, the founders, Elisha Gray (whose caveat on the concept of a telephone had been preempted by Bell’s patent application in 1876) and Enos N. Barton, moved the firm to Chicago.
+By 1872, when it was incorporated as the Western Electric Manufacturing Company, it was beginning its successful career of manufacturing a number of new inventions, including the world’s first commercial typewriters and incandescent lamps.
+In 1878–79, when Western Union and Bell Telephone were battling in and out of court for control of the burgeoning telephone industry, Western Electric was Western Union’s major ally and supplier.
+But in 1881, after winning the patent war, Bell Telephone bought a controlling interest in Western Electric.
+In the following year the company was reincorporated as Western Electric Company and became a part of the Bell company that came to be known as the American Telephone and Telegraph Company (AT&T).
+Western Electric was the major manufacturer of a broad range of telephone equipment for AT&T: telephones, wires and cables, electronic devices and circuits, power equipment, transmission systems, communications satellites, and so on.
+The company was also a prime defense contractor for such products as radar, aerospace guidance and communications systems, missile systems, and nuclear weapons.
+Western Electric was dissolved as a separate subsidiary in 1983 with the breakup of AT&T, though the Western Electric brand name continued to be used by AT&T Technologies.
+Western Electric disappeared as a distinct brand when AT&T Technologies was restructured in 1996 as Lucent Technologies.
+Desk instruments were first constructed in 1897.
+Patterned after the wall-mounted telephone, they usually consisted of a separate receiver and transmitter.
+In 1927, however, the American Telephone & Telegraph Company (AT&T) introduced the E1A handset, which employed a combined transmitter-receiver arrangement.
+The ringer and much of the telephone electronics remained in a separate box, on which the transmitter-receiver handle was cradled when not in use.
+The first telephone to incorporate all the components of the station apparatus into one instrument was the so-called combined set of 1937.
+Some 25 million of these instruments were produced until they were superseded by a new design in 1949.
+The 1949 telephone was totally new, incorporating significant improvements in audio quality, mechanical design, and physical construction.
+Push-button versions of this set became available in 1963.
+Modern telephone instruments are largely electronic.
+Wire coils that performed multiple functions in older sets have been replaced by integrated circuits that are powered by the line voltage.
+Mechanical bell ringers have given way to electronic ringers.
+The carbon transmitter dating from Edison’s time has been replaced by electret microphones, in which sound waves cause a thin, metal-coated plastic diaphragm to vibrate, producing variations in an electric field across a tiny air gap between the diaphragm and an electrode.
+The telephone dial has given way to the keypad, which can usually be switched to generate either pulses similar to those of the dial mechanism or dual-tone signals as in AT&T’s Touch-Tone system.
+Finally, a number of other features have become available on the telephone instrument, including last-number recall, dialing from contact lists, and conference calling.
+Cordless telephones are devices that take the place of a telephone instrument within a home or office and permit very limited mobility - up to 100 metres (approximately 109 yards).
+Because they communicate with a base unit that is plugged directly into an existing telephone jack, they essentially serve as a wireless extension to existing home or office wiring.
+The first cordless phones employed analog modulation methods and operated over a pair of frequencies, 1.7 megahertz and 49 megahertz.
+Beginning in the 1980s, cordless phones operated over a pair of frequencies in the 46and 49-megahertz bands, and in the late 1990s phones operating in the 902–928-megahertz band began to appear.
+These phones employed either analog modulation, digital modulation, or spread-spectrum modulation.
+Some digital cordless telephones now operate in the gigahertz region - for example, 5.8 gigahertz.
+Generally speaking, each successive generation of cordless phones has offered improved quality and range to the consumer.
+In today’s world of mobile phones and Internet voice service, the traditional public switched telephone network, or PSTN, is frequently referred to condescendingly as the “plain old telephone system,” or POTS.
+Nevertheless, in order to understand the many principles still active in today’s wireless and mobile communications, it is helpful to review the processes that take place in the making of a single call on a traditional landline telephone.
+To make a call, a telephone subscriber begins by taking the telephone “off hook” - in the process, signaling the local central office that service is requested.
+The central office, which has been monitoring the telephone line continuously (a process known as attending), responds with a dial tone.
+Upon receiving the dial tone, the customer enters the called party’s telephone number.
+The central office stores the entered number, translates the number into an equipment location and a path to that location, and tests whether the called party’s line is already in use (or “busy”).
+The called party’s number may lie in the same central office (in which case the call is designated intraoffice), or it may lie in another central office (requiring an interoffice call).
+If the call is intraoffice, the central office switch will handle the entire call process.
+If the call is interoffice, it will be directed either to a nearby central office or to a distant central office via a long-distance network.
+In the case of interoffice calls, a separate signaling network is employed to coordinate the call progression through a multitude of switches and telephone trunks.
+Assuming, however, that the call is an intraoffice call, if the called party’s line is busy, the telephone switch will return a busy signal until the calling party returns to the “on hook” condition.
+If the called party’s line is not busy, it will be alerted, or “rung.”
+At the same time that the line is rung, an audible signal will be returned to the calling party to indicate that ringing is taking place.
+If the called party answers by going off hook, ringing will be discontinued and a voice path will be established through the switching system to both the calling and called parties.
+The voice path is maintained until either party goes back on hook.
+At that moment the voice path is disconnected, and call charging is recorded.
+Given this example, it is evident that telephone systems consist of three major components: 1.
+Switching, between telephone sets and between trunks, as required.
+2.
+Signaling, between the telephone sets and the central offices as well as between central offices when needed.
+3.
+Transmission, between the central switching office and subscribers’ telephone sets and also between central offices.
+Switching is the collection of equipment and techniques for enabling any station in a communications system to be connected with any other station.
+From the first manual switching to today’s digital packet switching, it has been essential to telephone communication since the first public systems were put in place.
+From the earliest days of the telephone, it was clear that connecting different telephone instruments by running wires from each instrument to a central switching point, or telephone exchange, was more practical than to run wires between all the instruments.
+In 1878 the first telephone exchange was installed in New Haven, Conn., permitting up to 21 customers to reach one another by means of a manually operated central switchboard.
+A manual central switchboard in an American city, c. 1900.
+Encyclopædia Britannica, Inc.
+The manual switchboard was quickly extended from 21 lines to hundreds of lines.
+Each line was terminated on the switchboard in a socket, called a jack.
+Two lines could thus be interconnected by plugging the ends of a short, flexible circuit called a cord into the appropriate jacks.
+Although the idea of automatic switching appeared as early as 1879, the first fully automatic switch to achieve commercial success was invented in 1889 by Almon B. Strowger, the owner of an undertaking business in Kansas City, Mo. The Strowger switch essentially consisted of two parts: an array of 100 terminals, called the bank, which were arranged 10 rows high and 10 columns wide in a cylindrical arc; and a movable switch, called the brush, which was moved up and down the cylinder by one ratchet mechanism and rotated around the arc by another so that it could be brought to the position of any of the 100 terminals.
+The ratcheting action on the brush gave Strowger’s invention the common name step-by-step switch.
+The stepping movement was controlled directly by pulses from the telephone instrument.
+In the original systems, the caller generated the pulses by rapidly pushing a button switch on the instrument.
+Later, in 1896, Strowger’s associates devised a rotary dial for generating the necessary pulses.
+In 1913 J.N. Reynolds, an engineer with Western Electric (at that time the manufacturing division of AT&T), patented a new type of telephone switch that became known as the crossbar switch.
+The crossbar switch was a grid composed of five horizontal selecting bars and 20 vertical hold bars.
+Input lines were connected to the hold bars and output lines to the selecting bars.
+The five selecting bars could be rotated either upward or downward to make connections with the hold bars, thus effectively providing the switch with 10 horizontal rows.
+With the appropriate movement of the hold and selecting bars, any column could be connected to any row, and up to 10 simultaneous connections could be provided by the switch.
+The first crossbar system was demonstrated by Televerket, the Swedish government-owned telephone company, in 1919.
+The first commercially successful system, however, was the AT&T No.
+1 crossbar system, installed in Brooklyn, N.Y., in 1938.
+A series of improved versions followed the No.
+1 crossbar system, the most notable being the No.
+5 system.
+First deployed in 1948, the No.
+5 crossbar system became the workhorse of the Bell System; by 1978, this system accounted for the largest number of installed lines throughout the world.
+Originally designed to serve 27,000 lines, it was later upgraded to handle 35,000 voice circuits.
+Further revisions of the AT&T crossbar systems continued until 1974, by which time new switching systems had shifted from electromechanical to electronic technology.
+As telephone traffic continued to grow through the years, it was realized that large numbers of common control circuits would be required to switch this traffic and that switches of larger capacity would have to be created to handle it.
+Plans to provide new services via the telephone network also created a demand for innovative switch designs.
+With the advent of the transistor in 1947 and with subsequent advances in memory devices as well as other electronic devices and switches, it became possible to design a telephone switch that was based fundamentally on electronic components rather than on electromechanical switches.
+Between 1960 and 1962, AT&T conducted field trials of a new electronic switching system (ESS) that would employ a variety of devices and concepts.
+The first commercial version, placed in service in 1965, became known as the No.
+1 ESS.
+The No.
+1 ESS employed a special type of reed switch known as a ferreed.
+Normally, a reed switch is constructed of two thin metal strips, or reeds, which are sealed in a glass tube.
+When an electromagnetic coil surrounding the tube is energized, the reeds close, making an electrical contact.
+In a ferreed switch, a magnetic alloy known as Remendur is added to two sides of the reed relay.
+When the coil is energized, the Remendur material retains the magnetism and polarity, thus acting as a switch with a memory.
+In addition to this new switch device, the No.
+1 ESS incorporated a new read-only memory device and a new random-access memory device.
+These innovations allowed the No.
+1 system to serve as many as 65,000 two-way voice circuits, and it permitted hundreds of new features to be handled by the switching equipment.
+The system underwent a number of revisions, including the adoption of semiconductor memory in 1977.
+All automatic telephone switches, both electromechanical and electronic, are classified as space-division switches.
+Space-division switches are characterized by the fact that the speech path through a telephone switch is continuous throughout the exchange.
+That speech path is a metallic circuit, in the sense that it is provided entirely through the metallic contacts of the switch.
+Other forms of switching, however, are made possible by converting the fluctuating electric signal transmitted by the telephone instrument into digital format.
+In one of the first digital systems, known as time-division switching, the digitized speech information is sliced into a sequence of time intervals, or slots.
+Additional voice circuit slots, corresponding to other users, are inserted into this bit stream of data, in effect achieving a “time multiplexing” of several voice circuits.
+Switching essentially consists of interchanging the time position of one user’s slot with that of another user in a determined manner.
+Time-division switches may also employ space-division switching; an appropriate mixture of time-division and space-division switching is advantageous in various circumstances.
+The first time-division switching system to be deployed in the United States was the AT&T-designed No.
+4 ESS, placed into service in 1976.
+The No.
+4 ESS was a toll system capable of serving a maximum of 53,760 two-way trunk circuits.
+It was soon followed by several other time-division systems for switching local calls.
+Among these was the AT&T No.
+5 ESS, improved versions of which could handle 100,000 lines.
+As the telephone network evolved, it became necessary to organize it into a hierarchical system that would permit any customer to call any other customer.
+In order to support such an organization, switching centres in the American telephone system were organized into three classes: local, tandem, and toll.
+A local office (or end office) was a switching centre that connected directly to the customers’ telephone instruments.
+A tandem office was one that served a cluster of local offices.
+Atoll office was involved in switching traffic over long-distance (or toll) circuits.
+During the 1990s the telephone network significantly changed due to a combination of several trends: an increased amount of traffic due to new telephone subscribers and use of the telephone network to access the Internet; the advent of new “packet-switching” techniques; new protocols for voice traffic over data networks; and the availability of a tremendous amount of bandwidth in the long-distance network.
+As a result of these developments, the hierarchical telephone network of the 1950s and ’60s collapsed to mostly two levels of switching.
+End offices are now known as class 5 offices and are owned by the local service operators, or “local exchange carriers.”
+The old toll and tandem offices, now known as class 4 offices, are owned by long-distance service providers, or “interexchange carriers.”
+Even this distinction between local and long-distance providers, however, became less clear with continued deregulation of the telephone industry.
+Two types of telephone switching networks.
+© Encyclopædia Britannica; rendering for this edition by Rosen Educational Services
+While much telephone voice traffic continues to flow through the class 5 and class 4 switches, several alternatives have arisen for switching voice traffic through the telephone network.
+For instance, by digitizing, compressing, and packetizing voice signals, telephone traffic can be sent over conventional packet-switched data networks instead of dedicated circuits.
+Several approaches to packet switching are possible, based on whether variable-length or fixed-length packets are used.
+When variable-length packets are used and Internet Protocol (IP) is the underlying protocol for the data network, the mechanism is called “voice over IP” (VoIP).
+In such a configuration, voice traffic is switched over the Internet using a router, a device consisting of input and output ports from the network, a switching fabric to switch between input and output, and a processor to execute the routing protocols and perform network management.
+When the digitized voice signal is packed into fixed-length packets and sent over an asynchronous transfer mode (ATM) network, the method is known as “Voice over ATM” (VoATM).
+Within the network, ATM switches direct packets from source to destination.
+A major component of any telephone system is signaling, in which electric pulses or audible tones are used for alerting (requesting service), addressing (e.g., dialing the called party’s number at the subscriber set), supervision (monitoring idle lines), and information (providing dial tones, busy signals, and recordings).
+In general, signaling may occur either within the subscriber loop - that is, within the circuit between the individual telephone instrument and the local office - or in circuits between offices.
+The first automatic switching systems, based on the Strowger switch, were activated by a push button on the calling party’s telephone.
+More accurate call dialing was permitted by the advent of the rotary dial in 1896.
+A number of different dial designs were placed in service until 1910, when designs were standardized, and after 1910 the design and operation of the rotary dial did not change in its essentials until it was replaced by push-button keypads.
+In a rotary dial, a number of pulses, or interruptions in current flow, were transmitted to the switching office in proportion to the rotation of the dial.
+When the dial was rotated, a spring was wound, and when the dial was subsequently released, the spring caused the dial to rotate back to its original position.
+Inside the dial a governor device ensured a constant rate of return rotation, and a shaft on the governor turned a cam that opened and closed a switch contact.
+An open switch contact stopped current from flowing into the telephone set, thereby creating a dial pulse.
+Each dial pulse corresponded to one additional digit - i.e.,
+two pulses correspond to the digit 2, three pulses correspond to the digit 3.
+The rotary dial was designed for operating an electromechanical switching system, so the speed of operation of the dial was limited by the operating speed of the switches.
+Within the Bell System the dial pulse period was nominally one-tenth of a second long, permitting a rate of 10 pulses per second.
+Modern telephones are now wired for push-button dialing, but even they can usually generate pulse signals when the push-button pad is operated in conjunction with electronic timing circuits.
+Two methods of call-number signaling, rotary and touch tone.
+© Encyclopædia Britannica; rendering for this edition by Rosen Educational Services
+In the 1950s, after conducting extensive studies, AT&T concluded that push-button dialing was about twice as efficient as rotary dialing.
+Trials had already been conducted of special telephone instruments that incorporated mechanically vibrating reeds, but in 1963 an electronic push-button system, known as Touch-Tone dialing, was offered to AT&T customers.
+Touch-Tone soon became the standard U.S. dialing system, and eventually it became the standard worldwide.
+The Touch-Tone system is based on a concept known as dual-tone multifrequency (DTMF).
+The 10 dialing digits (0 through 9) are assigned to specific push buttons, and the buttons are arranged in a grid with four rows and three columns.
+The pad also has two more buttons, bearing the star (*) and pound (#) symbols, to accommodate various data services and customer-controlled calling features.
+Each of the rows and columns is assigned a tone of a specific frequency, the columns having higher-frequency tones and the rows having tones of lower frequency.
+When a button is pushed, a dual-tone signal is generated that corresponds to the frequencies assigned to the column and row that intersect at that point.
+This signal is translated into a digit at the local office.
+Interoffice signaling also has undergone a notable evolution.
+It has changed from simple “in-band” methods to fully digitized “out-of-band” methods.
+In the earliest days of the telephone network, signaling was provided by means of direct current (DC) between the telephone instrument and the operator.
+As long-distance circuits and automatic switching systems were placed into service, the use of DC became obsolete, since long-distance circuits could not pass the DC signals.
+Hence, alternating current (AC) began to be used over interoffice circuits.
+Until the mid-1970s, interoffice circuits employed what has become known as in-band signaling, in which the same circuits that were used to connect two telephone instruments and serve as the voice path were also used to transmit the AC signals that set up the switches employed in the circuit.
+Single-frequency tones were used in the switching network to signal availability of a trunk.
+Once a trunk line became available, multiple-frequency tones were used to pass the address information between switches.
+Multiple-frequency signaling employed pairs of six tones, similar to the signaling used in Touch-Tone dialing.
+Despite the simplicity of the in-band method, this type of signaling presented a number of problems.
+First, because the in-band signals by necessity fell within the bandwidth of speech signals, speech signals could at times interfere with the in-band signals.
+Second, in-band signaling did not always make efficient use of the available telephone circuits.
+For example, if a called party’s telephone instrument was in use, the called party’s central office would generate a busy signal that was carried by the already established voice path through the public switched telephone network to the calling party’s handset.
+Hence, a full voice-circuit path through the network would be tied up merely to convey a busy signal.
+In order to overcome these issues and to speed the call set-up process in long-distance calls, another form of interoffice signaling, known as common channel signaling (CCS), was developed.
+In CCS an “out-of-band” circuit (that is, a separate circuit from that used to establish the voice connection) is dedicated to serve as a data link, carrying address information and certain other information signals between the microprocessors employed in telephone switches.
+The first version of CCS was developed between 1964 and 1968 by the International Telegraph and Telephone Consultative Committee (CCITT), a predecessor of the Telecommunication Standardization Sector of the International Telecommunication Union.
+The first system was standardized internationally as CCITT-6 signaling; within North America, CCITT-6 was modified by AT&T and became known as common channel interoffice signaling, CCIS.
+CCIS was first installed in the Bell System in 1976.
+Although CCITT-6 was standardized by an international body, it was never universally deployed.
+Recognizing this shortcoming as well as the still-growing amount of international traffic within the worldwide telephone network, the CCITT between 1980 and 1991 developed a successor version known as CCITT-7.
+Within North America, CCITT-7 was implemented as Signaling System 7, or SS7.
+Transmission is the sending and receiving of data via traditional telephone lines, coaxial or fibre-optic cables, or radio waves.
+Ordinary telephone circuits are designed to pass signals that fall within the very narrow frequency range of the human voice, but the PTSN, which transmits huge amounts of data in addition to voice communication, deploys transmission media of far greater “bandwidth.”
+The first telephone lines employed the same type of outdoor circuits as telegraph lines - namely, a single non-insulated iron or steel wire supported by wooden poles with glass insulators.
+Since electric signals require two wires, the second “wire” was a ground return through the earth.
+Unfortunately, the use of a single wire made the telephone circuit extremely susceptible to interference by other signals.
+This problem was addressed by the use of a two-wire, or “metallic,” circuit; the first demonstration of such a system occurred in 1881 on a telephone line between Providence, R.I., and Boston.
+As the distances between telephone instruments began to increase beyond those served by local exchange offices, a number of technical problems arose that had not been experienced in earlier telegraph systems.
+Even with the two-wire system, it soon became apparent that telephone signals could be transmitted only a fraction of the distance of telegraph signals because of the greater attenuation in iron and steel of the higher frequencies of telephone signals.
+The principal difference between telegraph systems and the telephone system was that the frequencies of the signals carried by telephone lines were as much as 30 times greater than those of telegraph signals.
+Several individuals noted that copper wire greatly improved the situation, but manufacturing techniques produced brittle wire that was not self-supporting over the spans between poles.
+The problem was solved in 1877 with the invention of hard-drawn copper wire.
+The first test of hard-drawn copper wire for long-distance telephone service was conducted between New York City and Boston in 1884.
+Two-wire copper circuits did not solve all the problems of long-distance telephony, however.
+As the number of lines grew, interference (or cross talk) from adjacent lines on the same crossarm of the telephone pole became significant.
+It was found that transposing the wires by twisting them at specified intervals canceled the cross talk.
+Another major problem was caused by distance: over the lengths of long-distance lines, even the two-wire copper circuit attenuated the telephone signal significantly.
+In a series of theoretical papers published in book form in 1892, English physicist Oliver Heaviside developed the theory behind the transmission of signals over two-wire circuits.
+In the United States, Michael I. Pupin of Columbia University and George A. Campbell of AT&T each read Heaviside’s papers and realized that introducing inductive coils (loading coils) at regular intervals along the length of the telephone line could significantly reduce the attenuation of signals within the voice band (i.e., at frequencies less than 3.5 kilohertz).
+Both Campbell and Pupin applied for a patent on the concept of loading coils; after extended patent interference proceedings, the patent was finally awarded to Pupin in 1904.
+The first long-distance application of loading coils occurred in 1900, over a 40-km (24-mile) circuit in Boston.
+It was followed later that year by a test over a 1,000-km (600-mile) circuit.
+By 1925 approximately 1.25 million loading coils were in use over 3 million km (1.8 million miles) of wire circuits.
+Even with the use of loading coils, telephone communication across countries as large as the United States was not possible without some form of amplification.
+A mechanical amplifier, which made use of an electromagnet receiver and a carbon transmitter, was installed in a commercial circuit between New York City and Chicago in 1904.
+Yet it was not until the patenting of the vacuum tube by Lee De Forest in 1907 that truly transcontinental telephone communication was possible.
+In 1915 the first transcontinental line, between New York City and San Francisco, was placed in service.
+Although this system was commercially viable, its cost and limited capacity (only one two-way circuit) prevented substantial growth of transcontinental telephony until carrier multiplexing techniques were introduced beginning in 1918.
+With carrier multiplexing, four or more two-way voice channels could be transmitted simultaneously over two-wire or four-wire circuits.
+By 1927 more than 5 million km (3 million miles) of long-distance circuits covered the entire United States - more than 10 times the circuitry present in 1900.
+Until the early 1980s, the bulk of long-distance transmission was provided by analog systems in which individual telephone conversations were stacked in 4-kilohertz intervals across the transmission band - a process known as frequency-division multiplexing (FDM).
+However, particularly with the development of fibre optics, these analog systems were rapidly replaced by digital systems.
+In digital transmission, which may also be carried over the coaxial and microwave systems, the telephone signals are first converted from an analog format to a quantized, discrete time format.
+The signals are then multiplexed together using time-division multiplexing (TDM), a method in which each digitized telephone signal is assigned a specific slot within a fixed time frame.
+In order to provide standard interfaces between transmission and switching equipment, multiplexed signals are further combined or aggregated in hierarchical arrangements.
+DSL
+DSL, or digital subscriber line, is a networking technology that provides broadband (high-speed) Internet connections over conventional telephone lines.
+DSL technology has its roots in work done by Bell Communications Research, Inc., in the late 1980s to explore the feasibility of sending broadband signals over the American telecommunications network.
+The first efforts in this area resulted in another high-speed Internet technology, called integrated services digital network (ISDN).
+In the early 1990s the first variety of DSL, high-bitrate DSL (HDSL), was rolled out with the intent of being used for on-demand television.
+Initial efforts looked promising, but the rapidly growing number of channels provided by cable television companies made setting up an on-demand service financially less attractive.
+Soon after, DSL was repurposed for connecting devices to the Internet.
+Other varieties of DSL soon followed the creation of HDSL, including the most common type: asynchronous DSL (ADSL).
+Asynchronous refers to the way that more bandwidth is given to downstream traffic, which comes to the user from the Internet, than to upstream traffic, which goes from the user to the Internet.
+Traffic on DSL is transmitted over normal telephone lines through a DSL terminal adapter, also known as a DSL modem, which connects a computer or local computer network to the DSL line.
+Each DSL user has a dedicated telephone line, so unlike its closest competitor, cable Internet, signing up more neighbourhood customers does not degrade service.
+However, DSL is limited by distance.
+A user has to be within about 8 km (5 miles) of a telephone switching office for DSL to work, and signal strength degrades even within that distance.
+Depending on distance from the switching office, wire gauge, and other factors, DSL speeds range from about 1.5 to 6 Mbps (1.5 to 6 million bits per second) downstream and from about 16 to 640 Kbps (16,000 to 640,000 bits per second) upstream.
+The higher downstream bit rates are sufficient to stream motion-picture video to a home computer through the residence’s telephone service.
+Long-distance coaxial cable systems were introduced in the United States in 1946.
+Employing analog FDM methods, the first coaxial system could support 1,800 two-way voice circuits by bundling together three working pairs of cable, each pair transmitting 600 voice signals simultaneously.
+In the last analog coaxial system, deployed in 1978, each pair of cables transmitted 13,200 voice signals, and the cable bundle contained 10 working pairs; this combination supported 132,000 two-way voice circuits.
+Digital coaxial systems were introduced into the U.S. long-distance network beginning in 1962.
+TDM, a digital cable system first deployed in 1975, can support up to 40,320 two-way voice circuits over 10 working pairs of coaxial cable.
+Long-distance transmission also has been provided by radio link in the form of point-to-point microwave systems.
+First employed in 1950, microwave transmission has the advantage of not requiring access to all contiguous land along the path of the system.
+Because microwave systems are line-of-sight media, radio towers must be spaced approximately every 42 km (25 miles) along the route.
+Point-to-point microwave systems generally operate in the frequency ranges of 3.7–4.2 gigahertz or 5.925–6.425 gigahertz; some systems operate at 11 or 18 gigahertz.
+Following the trend of coaxial cable systems, the first microwave links were analog systems.
+Early systems had a capacity of 2,400 two-way voice circuits, and later systems could support 61,800 two-way circuits.
+Beginning in 1981, digital microwave systems began to be deployed in the U.S. system that could support the wide range of digital services available over the PSTN.
+Cutaway drawings of (top) multipair cable and (bottom) coaxial cable, showing direction of current flow and propagation of electric and magnetic fields.
+© Encyclopædia Britannica; rendering for this edition by Rosen Educational Services
+Because of their great bandwidth, reliability, and low cost, optical fibres became the preferred medium in both short-haul and long-haul transmission systems following their first deployment in 1979.
+Since 1990 there has been significant progress in the development of fibre optics, permitting transmission at ever higher data rates.
+Several different technologies have been essential in this development: so-called nonzero-dispersion optical fibres, which permit the transmission of multiple wavelengths of light at high data rates; erbium-doped fibre amplifiers, which use a laser pump source to amplify optical signals over long distances; and “tunable” lasers, which generate light at several frequencies, thereby permitting transmission of multiple wavelengths over a single optical fibre.
+(Left) Cutaway drawing of an optical fibre cable, showing bundled fibres and protective sheathing; (right) schematic drawing of three types of optical fibres, showing propagation of light rays and refractive indexes.
+© Encyclopædia Britannica; rendering for this edition by Rosen Educational Services
+Multiple wavelength transmission, known as wave division multiplexing (WDM), allows higher data rates to be achieved over a single fibre.
+When 40 or more different wavelengths are multiplexed, the technique is known as dense wave division multiplexing (DWDM).
+DWDM technology has permitted data transmission at rates of 400 Gbps (400 gigabits, or 400 billion bits, per second), each wavelength supporting approximately 10 Gbps.
+These data rates are equivalent to some 6,000,000 voice circuits per fibre and 150,000 voice circuits per wavelength.
+Long-distance carriers in the developed world make use of optical fibre technology at a variety of data rates.
+Most systems employ the standardized hierarchy of digital transmission rates known as the synchronous optical network (SONET) or optical carrier (OC) in the United States and as the synchronous digital hierarchy (SDH) elsewhere.
+The extension of telephone service to other countries and continents was a goal set in the earliest days of telephone systems.
+In North America, service to Canada and Mexico was a natural extension of the long-distance methods used within the United States, but transmission across the ocean to Europe called for a significant amount of ingenuity.
+While transatlantic telegraph cables had been in service since 1866, these same cables could not be used for voice transmission because of bandwidth limitations.
+Instead, the first transatlantic telephone service made use of radio.
+Regular service via radio between the United States and Europe was first established in 1927 using long-wave frequencies in the range of 58.5 to 61.5 kilohertz.
+Within the first year this system supported 11,000 calls.
+By 1929 additional circuits were added in the range of 6–25 megahertz.
+It soon became clear that the number of transatlantic telephone calls would rapidly outgrow available radio spectrum.
+Accordingly, transoceanic cable technology was developed that made use of amplifiers or repeaters placed at regular intervals along the length of the cable.
+Early deployment of undersea cables had been accomplished previously in 1921, with a 184-km-long (114-mile-long) cable between Cuba and Key West, Fla. The first transatlantic cable was laid in 1956 between Canada and Scotland - specifically, between Clarenville, Nfld.,
+Can.,
+and Oban, Scot.,
+a distance of 3,584 km (2,226 miles).
+This system made use of two coaxial cables, one for each direction, and used analog FDM to carry 36 two-way voice circuits.
+With the availability of the cable system, transatlantic telephone traffic increased dramatically, from 1.7 million calls in 1955 to 3.7 million in 1960.
+Six additional coaxial cables, representing four successive generations of cable design, were laid across the Atlantic Ocean between 1956 and 1983.
+Each generation of cable system supported a greater number of voice circuits - the last supporting 4,200.
+In order to improve the voice channel capacity of transoceanic cable systems, a method of voice data reduction known as time assignment speech interpolation, or TASI, was introduced.
+In TASI the natural pauses occurring in speech were used to carry other speech conversations.
+In this way a coaxial cable system designed for 4,200 two-way voice circuits could support 10,500 circuits.
+Developments in fibre optics also had a significant effect on the deployment of undersea cable.
+From 1989 to 2001 a total of 15 new transatlantic optical fibre cables were deployed, along with a similar number of transpacific cables.
+Many other short-segment undersea cables were deployed to connect various countries within a continent.
+Since 1996 many of these optical cables have employed erbium-doped fibre amplifiers and wave division multiplexing, permitting the highest-quality data transmission at very high rates.
+The TAT-14, one of the more ambitious programs at the turn of the 21st century, connects the United States, France, Germany, Denmark, and the United Kingdom with a 15,428-km (9,581-mile) undersea cable.
+As deployed in 2001, the cable has four fibre pairs and has a protected capacity of 640 gigabits per second, corresponding to roughly 9.6 million voice circuits.
+Owing to such capacity, TASI is no longer needed to increase the number of voice circuits over undersea cable.
+American-built Telstar 1 communications satellite, launched July 10, 1962, which relayed the first transatlantic television signals.
+NASA
+About the same time that transatlantic cables were being installed, another transmission method, satellite communication, was being investigated.
+In 1962 AT&T in conjunction with the National Aeronautics and Space Administration (NASA) launched the communication satellite Telstar into an elliptical medium Earth orbit, its apogee, or farthest distance from Earth, being some 5,600 km (3,500 miles).
+Telstar 1 served as a repeater in the sky; that is, it simply translated all frequencies within its receiving bandwidth in the six-gigahertz band to frequencies in its four-gigahertz transmitting band.
+The 32-megahertz transmission bandwidth of Telstar 1 could support one one-way television signal or multiple two-way telephone conversations.
+Because of its low orbit, Telstar was not always in view of the communications ground stations.
+This problem was solved in July 1963 with the launch of the first geostationary communication satellite, Syncom 2, which followed a circular path some 35,900 km (22,300 miles) above Earth.
+Syncom 2 was followed by a series of geostationary satellites, each providing a capacity greater than the previous generation.
+For instance, the Intelsat 17 satellite, launched Nov. 26, 2010, which orbits above the Equator at longitude 66° E (over the Indian Ocean), uses Cand Ku-band transponders to relay digital data over Africa, Europe, the Middle East, Russia, and Asia.
+Unfortunately, because of their great distance above Earth, geostationary satellites introduce a quarter-second signal delay, sometimes making two-way voice conversation difficult.
+For this reason, and also because of the availability of high-capacity undersea cables, geostationary satellites are no longer used for common-carrier telephone communication in much of the world.
+However, since optical-fibre connections are not available everywhere, geostationary satellites continue to be launched to support voice as well as data traffic.
+Modern telecommunication centres on the problems involved in transmitting large volumes of information over long distances without damaging loss due to noise and interference.
+The basic components of a modern digital telecommunications system must be capable of transmitting not only voice but also data, radio, and television signals.
+Digital transmission is employed in order to achieve high reliability, and because the cost of digital switching systems is much lower than the cost of analog systems.
+In order to use digital transmission, however, analog signals must be subjected to a process of analog-to-digital conversion. (
+In data transmission this step is bypassed because the signals are already in digital form.
+Voice communication, however, generates analog signals that must be digitized, and much radio and television communication is also analog.)
+In many cases, the digitized signal is passed through a source encoder, which employs a number of formulas to reduce redundant binary information.
+After source encoding, the digitized signal is processed in a channel encoder, which introduces redundant information that allows errors to be detected and corrected.
+The encoded signal is made suitable for transmission by modulation onto a carrier wave and may be made part of a larger signal in a process known as multiplexing.
+The multiplexed signal is then sent into a multiple-access transmission channel.
+After transmission, the process is reversed at the receiving end, and the information is extracted.
+Block diagram of a digital telecommunications system.
+© Encyclopædia Britannica; rendering for this edition by Rosen Educational Services
+In transmission of speech, audio, or video information, the object is high fidelity - that is, the best possible reproduction of the original message without the degradations imposed by signal distortion and noise.
+The basis of relatively noise-free and distortion-free telecommunication is the binary signal.
+The simplest possible signal of any kind that can be employed to transmit messages, the binary signal consists of only two possible values.
+These values are represented by the binary digits, or bits, 1 and 0.
+Unless the noise and distortion picked up during transmission are great enough to change the binary signal from one value to another, the correct value can be determined by the receiver so that perfect reception can occur.
+Basic steps in analog-to-digital conversion.
+© Encyclopædia Britannica; rendering for this edition by Rosen Educational Services
+If the information to be transmitted is already in binary form (as in data communication), there is no need for the signal to be digitally encoded.
+But ordinary voice communications taking place by way of a telephone are not in binary form; neither is much of the information gathered for transmission from a space probe or the television or radio signals gathered for transmission through a satellite link.
+Such signals, which continually vary among a range of values, are said to be analog, and in digital communications systems, analog signals must be converted to digital form.
+The process of making this signal conversion is called analog-to-digital (A/D) conversion.
+In this type of conversion, an analog signal is sampled at regular intervals.
+The amplitude at each interval is quantized, or assigned a value, and the values are mapped into a series of binary digits, or bits.
+The information is transmitted as a digital signal to the receiver, where it is decoded and the analog signal reconstituted.
+Analog-to-digital conversion begins with sampling, or measuring the amplitude of the analog waveform at equally spaced discrete instants of time.
+The fact that samples of a continually varying wave may be used to represent that wave relies on the assumption that the wave is constrained in its rate of variation.
+Because a communications signal is actually a complex wave - essentially the sum of a number of component sine waves, all of which have their own precise amplitudes and phases - the rate of variation of the complex wave can be measured by the frequencies of oscillation of all its components.
+The difference between the maximum rate of oscillation (or highest frequency) and the minimum rate of oscillation (or lowest frequency) of the sine waves making up the signal is known as the bandwidth (B) of the signal.
+Bandwidth thus represents the maximum frequency range occupied by a signal.
+In the case of a voice signal having a minimum frequency of 300 hertz and a maximum frequency of 3,300 hertz, the bandwidth is 3,000 hertz, or 3 kilohertz.
+Audio signals generally occupy about 20 kilohertz of bandwidth, and standard video signals occupy approximately 6 million hertz, or 6 megahertz.
+The concept of bandwidth is central to all telecommunication.
+In analog-to-digital conversion, there is a fundamental theorem that the analog signal may be uniquely represented by discrete samples spaced no more than one over twice the bandwidth (1/2B) apart.
+This theorem is commonly referred to as the sampling theorem, and the sampling interval (1/2B seconds) is referred to as the Nyquist interval (after the Swedish-born American electrical engineer Harry Nyquist).
+As an example of the Nyquist interval, in past telephone practice the bandwidth, commonly fixed at 3,000 hertz, was sampled at least every 1/6,000 second.
+In current practice 8,000 samples are taken per second, in order to increase the frequency range and the fidelity of the speech representation.
+In order for a sampled signal to be stored or transmitted in digital form, each sampled amplitude must be converted to one of a finite number of possible values, or levels.
+For ease in conversion to binary form, the number of levels is usually a power of 2 - that is, 8, 16, 32, 64, 128, 256, and so on, depending on the degree of precision required.
+In digital transmission of voice, 256 levels are commonly used because tests have shown that this provides adequate fidelity for the average telephone listener.
+The input to the quantizer is a sequence of sampled amplitudes for which there are an infinite number of possible values.
+The output of the quantizer, on the other hand, must be restricted to a finite number of levels.
+Assigning infinitely variable amplitudes to a limited number of levels inevitably introduces inaccuracy, and inaccuracy results in a corresponding amount of signal distortion. (
+For this reason quantization is often called a “lossy” system.)
+The degree of inaccuracy depends on the number of output levels used by the quantizer.
+More quantization levels increase the accuracy of the representation, but they also increase the storage capacity or transmission speed required.
+Better performance with the same number of output levels can be achieved by judicious placement of the output levels and the amplitude thresholds needed for assigning those levels.
+This placement in turn depends on the nature of the waveform that is being quantized.
+Generally, an optimal quantizer places more levels in amplitude ranges where the signal is more likely to occur and fewer levels where the signal is less likely.
+This technique is known as nonlinear quantization.
+Nonlinear quantization can also be accomplished by passing the signal through a compressor circuit, which amplifies the signal’s weak components and attenuates its strong components.
+The compressed signal, now occupying a narrower dynamic range, can be quantized with a uniform, or linear, spacing of thresholds and output levels.
+In the case of the telephone signal, the compressed signal is uniformly quantized at 256 levels, each level being represented by a sequence of eight bits.
+At the receiving end, the reconstituted signal is expanded to its original range of amplitudes.
+This sequence of compression and expansion, known as companding, can yield an effective dynamic range equivalent to 13 bits.
+HARRY NYQUIST
+Harry Nyquist was born in Nilsby, Sweden, on Feb. 7, 1889, and moved to the United States in 1907.
+He earned a B.S. (1914) and an M.S. (1915) in electrical engineering from the University of North Dakota.
+In 1917, after earning a Ph.D. in physics from Yale University, he joined the American Telephone and Telegraph Company (AT&T).
+There he remained until his retirement in 1954, working in the research department and then (from 1934) at Bell Laboratories.
+Some of Nyquist’s best-known work was done in the 1920s and was inspired by telegraph communication problems of the time.
+Because of the elegance and generality of his writings, much of it continues to be cited and used.
+In 1924 he published “Certain Factors Affecting Telegraph Speed,” an analysis of the relationship between the speed of a telegraph system and the number of signal values used by the system.
+His 1928 paper “Certain Topics in Telegraph Transmission Theory” refined his earlier results and established the principles of sampling continuous signals to convert them to digital signals.
+The Nyquist sampling theorem showed that the sampling rate must be at least twice the highest frequency present in the sample in order to reconstruct the original signal.
+These two papers by Nyquist, along with one by R.V.L. Hartley, are cited in the first paragraph of Claude Shannon’s classic essay “The Mathematical Theory of Communication” (1948), where their seminal role in the development of information theory is acknowledged.
+In 1927 Nyquist provided a mathematical explanation of the unexpectedly strong thermal noise studied by J.B. Johnson.
+The understanding of noise is of critical importance for communications systems.
+Thermal noise is sometimes called Johnson noise or Nyquist noise because of their pioneering work in this field.
+In 1932 Nyquist discovered how to determine when negative feedback amplifiers are stable.
+His criterion, generally called the Nyquist stability theorem, is of great practical importance.
+During World War II it helped control artillery employing electromechanical feedback systems.
+In addition to Nyquist’s theoretical work, he was a prolific inventor and is credited with 138 patents relating to telecommunications.
+He continued to serve as a government consultant on military communications well after his retirement.
+He died on April 4, 1976, at Harlingen, Texas.
+In the next step in the digitization process, the output of the quantizer is mapped into a binary sequence.
+An encoding table that might be used to generate the binary sequence is as follows:
+It is apparent that 8 levels require three binary digits, or bits; 16 levels require four bits; and 256 levels require eight bits.
+In general 2n levels require n bits.
+In the case of 256-level voice quantization, where each level is represented by a sequence of 8 bits, the overall rate of transmission is 8,000 samples per second times 8 bits per sample, or 64,000 bits per second.
+All 8 bits must be transmitted before the next sample appears.
+In order to use more levels, more binary samples would have to be squeezed into the allotted time slot between successive signal samples.
+The circuitry would become more costly, and the bandwidth of the system would become correspondingly greater.
+Some transmission channels (telephone wires are one example) may not have the bandwidth capability required for the increased number of binary samples and would distort the digital signals.
+Thus, although the accuracy required determines the number of quantization levels used, the resultant binary sequence must still be transmitted within the bandwidth tolerance allowed.
+Any available telecommunications medium has a limited capacity for data transmission.
+This capacity is commonly measured by the parameter called bandwidth.
+Since the bandwidth of a signal increases with the number of bits to be transmitted each second, an important function of a digital communications system is to represent the digitized signal by as few bits as possible - that is, to reduce redundancy.
+Redundancy reduction is accomplished by a source encoder, which often operates in conjunction with the analog-to-digital converter.
+In general, fewer bits on the average will be needed if the source encoder takes into account the probabilities at which different quantization levels are likely to occur.
+A simple example will illustrate this concept.
+Assume a quantizing scale of only four levels: 1, 2, 3, and 4.
+Following the usual standard of binary encoding, each of the four levels would be mapped by a two-bit code word.
+But also assume that level 1 occurs 50 percent of the time, that level 2 occurs 25 percent of the time, and that levels 3 and 4 each occur 12.5 percent of the time.
+Using variable-bit code words might cause more efficient mapping of these levels to be achieved.
+The variable-bit encoding rule would use only one bit 50 percent of the time, two bits 25 percent of the time, and three bits 25 percent of the time.
+On average it would use 1.75 bits per sample rather than the 2 bits per sample used in the standard code.
+Thus, for any given set of levels and associated probabilities, there is an optimal encoding rule that minimizes the number of bits needed to represent the source.
+This encoding rule is known as the Huffman code, after the American D.A. Huffman, who created it in 1952.
+Even more efficient encoding is possible by grouping sequences of levels together and applying the Huffman code to these sequences.
+The design and performance of the Huffman code depends on the designers’ knowing the probabilities of different levels and sequences of levels.
+In many cases, however, it is desirable to have an encoding system that can adapt to the unknown probabilities of a source.
+A very efficient technique for encoding sources without needing to know their probable occurrence was developed in the 1970s by the Israelis Abraham Lempel and Jacob Ziv.
+The Lempel-Ziv algorithm works by constructing a codebook out of sequences encountered previously.
+For example, the codebook might begin with a set of four 12-bit code words representing four possible signal levels.
+If two of those levels arrived in sequence, the encoder, rather than transmitting two full code words (of length 24), would transmit the code word for the first level (12 bits) and then an extra two bits to indicate the second level.
+The encoder would then construct a new code word of 12 bits for the sequence of two levels so that even fewer bits would be used thereafter to represent that particular combination of levels.
+The encoder would continue to read quantization levels until another sequence arrived for which there was no code word.
+In this case the sequence without the last level would be in the codebook, but not the whole sequence of levels.
+Again, the encoder would transmit the code word for the initial sequence of levels and then an extra two bits for the last level.
+The process would continue until all 4,096 possible 12-bit combinations had been assigned as code words.
+In practice, standard algorithms for compressing binary files use code words of 12 bits and transmit 1 extra bit to indicate a new sequence.
+Using such a code, the Lempel-Ziv algorithm can compress transmissions of English text by about 55 percent, whereas the Huffman code compresses the transmission by only 43 percent.
+Certain signal sources are known to produce “runs,” or long sequences of only 1s or 0s.
+In these cases it is more efficient to transmit a code for the length of the run rather than all the bits that represent the run itself.
+One source of long runs is the fax machine.
+A fax machine works by scanning a document and mapping very small areas of the document into either a black pixel (picture element) or a white pixel.
+The document is divided into a number of lines (approximately 100 per inch), with 1,728 pixels in each line (at standard resolution).
+If all black pixels were mapped into 1s and all white pixels into 0s, then the scanned document would be represented by 1,857,600 bits (for a standard American 11-inch page).
+At older modem transmission speeds of 4,800 bits per second, it would take 6 minutes 27 seconds to send a single page.
+If, however, the sequence of 0s and 1s were compressed using a run-length code, significant reductions in transmission time would be made.
+The code for fax machines is actually a combination of a run-length code and a Huffman code; it can be explained as follows: A run-length code maps run lengths into code words, and the codebook is partitioned into two parts.
+The first part contains symbols for runs of lengths that are a multiple of 64; the second part is made up of runs from 0 to 63 pixels.
+Any run length would then be represented as a multiple of 64 plus some remainder.
+For example, a run of 205 pixels would be sent using the code word for a run of length 192 (3 × 64) plus the code word for a run of length 13.
+In this way the number of bits needed to represent the run is decreased significantly.
+In addition, certain runs that are known to have a higher probability of occurrence are encoded into code words of short length, further reducing the number of bits that need to be transmitted.
+Using this type of encoding, typical compressions for facsimile transmission range between 4 to 1 and 8 to 1.
+Coupled to higher modem speeds, these compressions reduce the transmission time of a single page to between 48 seconds and 1 minute 37 seconds.
+One purpose of the source encoder is to eliminate redundant binary digits from the digitized signal.
+The strategy of the channel encoder, on the other hand, is to add redundancy to the transmitted signal - in this case so that errors caused by noise during transmission can be corrected at the receiver.
+The process of encoding for protection against channel errors is called error-control coding.
+Error-control codes are used in a variety of applications, including satellite communication, deep-space communication, mobile radio communication, and computer networking.
+There are two commonly employed methods for protecting electronically transmitted information from errors.
+One method is called forward error control (FEC).
+In this method information bits are protected against errors by the transmitting of extra redundant bits so that if errors occur during transmission, the redundant bits can be used by the decoder to determine where the errors have occurred and how to correct them.
+The second method of error control is called automatic repeat request (ARQ).
+In this method redundant bits are added to the transmitted information and are used by the receiver to detect errors.
+The receiver then signals a request for a repeat transmission.
+Generally, the number of extra bits needed simply to detect an error, as in the ARQ system, is much smaller than the number of redundant bits needed both to detect and to correct an error, as in the FEC system.
+One simple, but not usually implemented, FEC method is to send each data bit three times.
+The receiver examines the three transmissions and decides by majority vote whether a 0 or 1 represents a sample of the original signal.
+In this coded system, called a repetition code of block-length three and rate one-third, three times as many bits per second are used to transmit the same signal as are used by an uncoded system; hence, for a fixed available bandwidth only one-third as many signals can be conveyed with the coded system as compared with the uncoded system.
+The gain is that now at least two of the three coded bits must be in error before a reception error occurs.
+Another simple example of an FEC code is known as the Hamming code.
+This code is able to protect a four-bit information signal from a single error on the channel by adding three redundant bits to the signal.
+Each sequence of seven bits (four information bits plus three redundant bits) is called a code word.
+The first redundant bit is chosen so that the sum of ones in the first three information bits plus the first redundant bit amounts to an even number. (
+This calculation is called a parity check, and the redundant bit is called a parity bit.)
+The second parity bit is chosen so that the sum of the ones in the last three information bits plus the second parity bit is even, and the third parity bit is chosen so that the sum of ones in the first, second, and fourth information bits and the last parity bit is even.
+This code can correct a single channel error by recomputing the parity checks.
+A parity check that fails indicates an error in one of the positions checked, and the two subsequent parity checks, by process of elimination, determine the precise location of the error.
+The Hamming code thus can correct any single error that occurs in any of the seven positions.
+If a double error occurs, however, the decoder will choose the wrong code word.
+The Hamming code is called a block code because information is blocked into bit sequences of finite length to which a number of redundant bits are added.
+When k information bits are provided to a block encoder, n − k redundancy bits are appended to the information bits to form a transmitted code word of n bits.
+The entire code word of length n is thus completely determined by one block of k information bits.
+In another channel-encoding scheme, known as convolutional encoding, the encoder output is not naturally segmented into blocks but is instead an unending stream of bits.
+In convolutional encoding, memory is incorporated into the encoding process so that the preceding M blocks of k information bits, together with the current block of k information bits, determine the encoder output.
+The encoder accomplishes this by shifting among a finite number of “states,” or “nodes.”
+There are several variations of convolutional encoding, but the simplest example may be seen in what is known as the (n,1) encoder, in which the current block of k information bits consists of only one bit.
+At each given state of the (n,1) encoder, when the information bit (a 0 or a 1) is received, the encoder transmits a sequence of n bits assigned to represent that bit when the encoder is at that current state.
+At the same time, the encoder shifts to one of only two possible successor states, depending on whether the information bit was a 0 or a 1.
+At this successor state, in turn, the next information bit is represented by a specific sequence of n bits, and the encoder is again shifted to one of two possible successor states.
+In this way, the sequence of information bits stored in the encoder’s memory determines both the state of the encoder and its output, which is modulated and transmitted across the channel.
+At the receiver, the demodulated bit sequence is compared to the possible bit sequences that can be produced by the encoder.
+The receiver determines the bit sequence that is most likely to have been transmitted, often by using an efficient decoding algorithm called Viterbi decoding (after its inventor, A.J. Viterbi).
+In general, the greater the memory (i.e., the more states) used by the encoder, the better the error-correcting performance of the code - but only at the cost of a more complex decoding algorithm.
+In addition, the larger the number of bits (n) used to transmit information, the better the performance - at the cost of a decreased data rate or larger bandwidth.
+Coding and decoding processes such as these are employed in trellis coding, a coding scheme used in high-speed modems.
+However, instead of the sequence of bits that is produced by a convolutional encoder, a trellis encoder produces a sequence of modulation symbols.
+At the transmitter, the channel-encoding process is coupled with the modulation process, producing a system known as trellis-coded modulation.
+At the receiver, decoding and demodulating are performed jointly in order to optimize the performance of the error-correcting algorithm.
+In many telecommunications systems, it is necessary to represent an information-bearing signal with a waveform that can pass accurately through a transmission medium.
+This assigning of a suitable waveform is accomplished by modulation, which is the process by which some characteristic of a carrier wave is varied in accordance with an information signal, or modulating wave.
+The modulated signal is then transmitted over a channel, after which the original information-bearing signal is recovered through a process of demodulation.
+Modulation is applied to information signals for a number of reasons.
+Many transmission channels are characterized by limited passbands - that is, they will pass only certain ranges of frequencies without seriously attenuating them (reducing their amplitude).
+Modulation methods must therefore be applied to the information signals in order to “frequency translate” the signals into the range of frequencies that are permitted by the channel.
+Examples of channels that exhibit passband characteristics include alternating-current-coupled coaxial cables, which pass signals only in the range of 60 kilohertz to several hundred megahertz, and fibre-optic cables, which pass light signals only within a given wavelength range without significant attenuation.
+In these instances frequency translation is used to “fit” the information signal to the communications channel.
+In many instances a communications channel is shared by multiple users.
+In order to prevent mutual interference, each user’s information signal is modulated onto an assigned carrier of a specific frequency.
+When the frequency assignment and subsequent combining is done at a central point, the resulting combination is a frequency-division multiplexed signal, as is discussed in Multiplexing.
+Frequently there is no central combining point, and the communications channel itself acts as a distributed combine.
+An example of the latter situation is the broadcast radio bands (from 540 kilohertz to 600 megahertz), which permit simultaneous transmission of multiple AM radio, FM radio, and television signals without mutual interference as long as each signal is assigned to a different frequency band.
+Even when the communications channel can support direct transmission of the information-bearing signal, there are often practical reasons why this is undesirable.
+A simple example is the transmission of a three-kilohertz (i.e., voiceband) signal via radio wave.
+In free space the wavelength of a three-kilohertz signal is 100 km (60 miles).
+Since an effective radio antenna is typically as large as half the wavelength of the signal, a three-kilohertz radio wave might require an antenna up to 50 km in length.
+In this case translation of the voice frequency to a higher frequency would allow the use of a much smaller antenna.
+As previously noted, voice signals are inherently analog in form.
+In most modern systems these signals are digitized prior to transmission, but in some systems the analog signals are still transmitted directly without converting them to digital form.
+There are two commonly used methods of modulating analog signals.
+One technique, called amplitude modulation, varies the amplitude of a fixed-frequency carrier wave in proportion to the information signal.
+The other technique, called frequency modulation, varies the frequency of a fixed-amplitude carrier wave in proportion to the information signal.
+In order to transmit computer data and other digitized information over a communications channel, an analog carrier wave can be modulated to reflect the binary nature of the digital baseband signal.
+The parameters of the carrier that can be modified are the amplitude, the frequency, and the phase.
+Three methods of digital signal modulation: amplitude-shift keying, frequency-shift keying, and phase-shift keying.
+A digital signal, representing the binary digits 0 and 1 by a series of on and off amplitudes, is impressed onto an analog carrier wave of constant amplitude and frequency.
+In amplitude-shift keying (ASK), the modulated wave represents the series of bits by shifting abruptly between high and low amplitude.
+In frequency-shift keying (FSK), the bit stream is represented by shifts between two frequencies.
+In phase-shift keying (PSK), amplitude and frequency remain constant; the bit stream is represented by shifts in the phase of the modulated signal.
+© Encyclopædia Britannica; rendering for this edition by Rosen Educational Services
+If amplitude is the only parameter of the carrier wave to be altered by the information signal, the modulating method is called amplitude-shift keying (ASK).
+ASK can be considered a digital version of analog amplitude modulation.
+In its simplest form, a burst of radio frequency is transmitted only when a binary 1 appears and is stopped when a 0 appears.
+In another variation, the 0 and 1 are represented in the modulated signal by a shift between two preselected amplitudes.
+If frequency is the parameter chosen to be a function of the information signal, the modulation method is called frequency-shift keying (FSK).
+In the simplest form of FSK signaling, digital data is transmitted using one of two frequencies, whereby one frequency is used to transmit a 1 and the other frequency to transmit a 0.
+Such a scheme was used in the Bell 103 voiceband modem, introduced in 1962, to transmit information at rates up to 300 bits per second over the public switched telephone network.
+In the Bell 103 modem, frequencies of 1,080 +/100 hertz and 1,750 +/100 hertz were used to send binary data in both directions.
+When phase is the parameter altered by the information signal, the method is called phase-shift keying (PSK).
+In the simplest form of PSK a single radio frequency carrier is sent with a fixed phase to represent a 0 and with a 180° phase shift - that is, with the opposite polarity - to represent a 1.
+PSK was employed in the Bell 212 modem, which was introduced about 1980 to transmit information at rates up to 1,200 bits per second over the public switched telephone network.
+In addition to the elementary forms of digital modulation, there exist more advanced methods that result from a superposition of multiple modulating signals.
+An example of the latter form of modulation is quadrature amplitude modulation (QAM).
+QAM signals actually transmit two amplitude-modulated signals in phase quadrature (i.e., 90° apart), so four or more bits are represented by each shift of the combined signal.
+Communications systems that employ QAM include digital cellular systems in the United States and Japan as well as most voiceband modems transmitting above 2,400 bits per second.
+A form of modulation that combines convolutional codes with QAM is known as trellis-coded modulation (TCM), which is described in Channel Encoding.
+Trellis-coded modulation forms an essential part of most of the modern voiceband modems operating at data rates of 9,600 bits per second and above, including V.32 and V.34 modems.
+Because of the installation cost of a communications channel, such as a microwave link or a coaxial cable link, it is desirable to share the channel among multiple users.
+Provided that the channel’s data capacity exceeds that required to support a single user, the channel may be shared through the use of multiplexing methods.
+Multiplexing is the sharing of a communications channel through local combining of signals at a common point.
+Two types of multiplexing are commonly employed: frequency-division multiplexing and time-division multiplexing.
+In frequency-division multiplexing (FDM), the available bandwidth of a communications channel is shared among multiple users by frequency translating, or modulating, each of the individual users onto a different carrier frequency.
+Assuming sufficient frequency separation of the carrier frequencies that the modulated signals do not overlap, recovery of each of the FDM signals is possible at the receiving end.
+In order to prevent overlap of the signals and to simplify filtering, each of the modulated signals is separated by a guard band, which consists of an unused portion of the available frequency spectrum.
+Each user is assigned a given frequency band for all time.
+While each user’s information signal may be either analog or digital, the combined FDM signal is inherently an analog waveform.
+Therefore, an FDM signal must be transmitted over an analog channel.
+Examples of FDM are found in some of the old long-distance telephone transmission systems, including the American Nand L-carrier coaxial cable systems and analog point-to-point microwave systems.
+In the L-carrier system a hierarchical combining structure is employed in which 12 voiceband signals are frequency-division multiplexed to form a group signal in the frequency range of 60 to 108 kilohertz.
+Five group signals are multiplexed to form a supergroup signal in the frequency range of 312 to 552 kilohertz, corresponding to 60 voiceband signals, and 10 supergroup signals are multiplexed to form a master group signal.
+In the L1 carrier system, deployed in the 1940s, the master group was transmitted directly over coaxial cable.
+For microwave systems, it was frequency modulated onto a microwave carrier frequency for point-to-point transmission.
+In the L4 system, developed in the 1960s, six master groups were combined to form a jumbo group signal of 3,600 voiceband signals.
+Analog multiplexing, as employed in the North American telephone system.
+© Encyclopædia Britannica; rendering for this edition by Rosen Educational Services
+Multiplexing also may be conducted through the interleaving of time segments from different signals onto a single transmission path - a process known as time-division multiplexing (TDM).
+Time-division multiplexing of multiple signals is possible only when the available data rate of the channel exceeds the data rate of the total number of users.
+While TDM may be applied to either digital or analog signals, in practice it is applied almost always to digital signals.
+The resulting composite signal is thus also a digital signal.
+In a representative TDM system, data from multiple users are presented to a time-division multiplexer.
+A scanning switch then selects data from each of the users in sequence to form a composite TDM signal consisting of the interleaved data signals.
+Each user’s data path is assumed to be time-aligned or synchronized to each of the other users’ data paths and to the scanning mechanism.
+If only one bit were selected from each of the data sources, then the scanning mechanism would select the value of the arriving bit from each of the multiple data sources.
+In practice, however, the scanning mechanism usually selects a slot of data consisting of multiple bits of each user’s data; the scanner switch is then advanced to the next user to select another slot, and so on.
+Each user is assigned a given time slot for all time.
+Digital multiplexing, as employed in the North American telephone system.
+© Encyclopædia Britannica; rendering for this edition by Rosen Educational Services
+Most modern telecommunications systems employ some form of TDM for transmission over long-distance routes.
+The multiplexed signal may be sent directly over cable systems, or it may be modulated onto a carrier signal for transmission via radio wave.
+Examples of such systems include the North American T carriers as well as digital point-to-point microwave systems.
+In T1 systems, introduced in 1962, 24 voiceband signals (or the digital equivalent) are time-division multiplexed together.
+The voiceband signal is a 64-kilobit-per-second data stream consisting of 8-bit symbols transmitted at a rate of 8,000 symbols per second.
+The TDM process interleaves 24 8-bit time slots together, along with a single frame-synchronization bit, to form a 193-bit frame.
+The 193-bit frames are formed at the rate of 8,000 frames per second, resulting in an overall data rate of 1.544 megabits per second.
+For transmission over more recent T-carrier systems, T1 signals are often further multiplexed to form higher-data-rate signals - again using a hierarchical scheme.
+Multiplexing is defined as the sharing of a communications channel through local combining at a common point.
+In many cases, however, the communications channel must be efficiently shared among many users that are geographically distributed and that sporadically attempt to communicate at random points in time.
+Three schemes have been devised for efficient sharing of a single channel under these conditions; they are called frequency-division multiple access (FDMA), time-division multiple access (TDMA), and code-division multiple access (CDMA).
+These techniques can be used alone or together in telephone systems, and they are well illustrated by the most advanced mobile cellular systems.
+In FDMA the goal is to divide the frequency spectrum into slots and then to separate the signals of different users by placing them in separate frequency slots.
+The difficulty is that the frequency spectrum is limited and that there are typically many more potential communicators than there are available frequency slots.
+In order to make efficient use of the communications channel, a system must be devised for managing the available slots.
+In the advanced mobile phone system (AMPS), the cellular system employed in the United States, different callers use separate frequency slots via FDMA.
+When one telephone call is completed, a network-managing computer at the cellular base station reassigns the released frequency slot to a new caller.
+A key goal of the AMPS system is to reuse frequency slots whenever possible in order to accommodate as many callers as possible.
+Locally within a cell, frequency slots can be reused when corresponding calls are terminated.
+In addition, frequency slots can be used simultaneously by multiple callers located in separate cells.
+The cells must be far enough apart geographically that the radio signals from one cell are sufficiently attenuated at the location of the other cell using the same frequency slot.
+In TDMA the goal is to divide time into slots and separate the signals of different users by placing the signals in separate time slots.
+The difficulty is that requests to use a single communications channel occur randomly, so that on occasion, the number of requests for time slots is greater than the number of available slots.
+In this case information must be buffered, or stored in memory, until time slots become available for transmitting the data.
+The buffering introduces delay into the system.
+In the IS54 cellular system, three digital signals are interleaved using TDMA and then transmitted in a 30-kilohertz frequency slot that would be occupied by one analog signal in AMPS.
+Buffering digital signals and interleaving them in time causes some extra delay, but the delay is so brief that it is not ordinarily noticed during a call.
+The IS54 system uses aspects of both TDMA and FDMA.
+In CDMA, signals are sent at the same time in the same frequency band.
+Signals are either selected or rejected at the receiver by recognition of a user-specific signature waveform, which is constructed from an assigned spreading code.
+The IS95 cellular system employs the CDMA technique.
+In IS95 an analog speech signal that is to be sent to a cell site is first quantized and then organized into one of a number of digital frame structures.
+In one frame structure, a frame of 20 milliseconds’ duration consists of 192 bits.
+Of these 192 bits, 172 represent the speech signal itself, 12 form a cyclic redundancy check that can be used for error detection, and 8 form an encoder “tail” that allows the decoder to work properly.
+These bits are formed into an encoded data stream.
+After interleaving of the encoded data stream, bits are organized into groups of six.
+Each group of six bits indicates which of 64 possible waveforms to transmit.
+Each of the waveforms to be transmitted has a particular pattern of alternating polarities and occupies a certain portion of the radio-frequency spectrum.
+Before one of the waveforms is transmitted, however, it is multiplied by a code sequence of polarities that alternate at a rate of 1.2288 megahertz, spreading the bandwidth occupied by the signal and causing it to occupy (after filtering at the transmitter) about 1.23 megahertz of the radio-frequency spectrum.
+At the cell site one user can be selected from multiple users of the same 1.23-megahertz bandwidth by its assigned code sequence.
+CDMA is sometimes referred to as spread-spectrum multiple access (SSMA) because the process of multiplying the signal by the code sequence causes the power of the transmitted signal to be spread over a larger bandwidth.
+Frequency management, a necessary feature of FDMA, is eliminated in CDMA.
+When another user wishes to use the communications channel, it is assigned a code and immediately transmits instead of being stored until a frequency slot opens.
+The principles of telecommunications systems are well illustrated in the fax and the modem.
+These two common technologies were invented within the context of the telephone system.
+Fax (or, in full, facsimile) is the transmission and reproduction of documents by wire or radio wave.
+The most common fax machines scan printed textual and graphic material and then transmit the information through the telephone network to similar machines, where facsimiles are reproduced close to the form of the original documents.
+Because of their low cost and their reliability, speed, and simplicity of operation, fax machines, revolutionized business and personal correspondence beginning in the 1980s.
+They continue to present an alternative to government-run postal services and private couriers.
+Most office and home fax machines conform to the Group 3 standard, which was adopted in 1980 in order to ensure the compatibility of digital machines operating through public telephone systems worldwide.
+As a standard letter-size sheet is fed through a machine, it is scanned repeatedly across its width by a charge-coupled device (CCD), a solid-state scanner that has 1,728 photosensors in a single row.
+Each photosensor in turn generates a low or high variation in voltage, depending on whether the scanned spot is black or white.
+Since there normally are four scan lines per mm (100 scan lines per inch), the scanning of a single sheet can generate almost 2 million variations in voltage.
+The high/low variations are converted to a stream of binary digits, or bits, and the bit stream is subjected to a source encoder, which reduces or “compresses” the number of bits required to represent long runs of white or black spots.
+The encoded bit stream can then be modulated onto an analog carrier wave by a voiceband modem and transmitted through the telephone network.
+With source encoding, the number of bits required to represent a typewritten sheet can be reduced from two million to less than 400,000.
+As a result, at standard fax modem speeds - up to 56 Kbps (56,000 bits per second), though usually less - a single page can be transmitted in as little as 15 seconds.
+<Caption> Fax machines send and receive information using a telephone line.
+Thinkstock/Jupiterimages
+Communication between a transmitting and a receiving fax machine opens with the dialing of the telephone number of the receiving machine.
+This begins a process known as the “handshake,” in which the two machines exchange signals that establish compatible features such as modem speed, source code, and printing resolution.
+The page information is then transmitted, followed by a signal that indicates no more pages are to be sent.
+The called machine signals receipt of the message, and the calling machine signals to disconnect the line.
+Digital fax transmission and reception, using a scanner and printer connected by modem to the public switched telephone network.
+© Encyclopædia Britannica; rendering for this edition by Rosen Educational Services
+At the receiving machine, the signal is demodulated, decoded, and stored for timed release to the printer.
+In older fax machines the document was reproduced on special thermally sensitive paper, using a print head that had a row of fine wires corresponding to the photosensors in the scanning strip.
+In modern machines it is reproduced on plain paper by a xerographic process, in which a minutely focused beam of light from a semiconductor laser or a light-emitting diode, modulated by the incoming data stream, is swept across a rotating, electrostatically charged drum.
+The drum picks up toner powder in charged spots corresponding to black spots on the original document and transfers the toner to the paper.
+Group 3 facsimile transmission can be conducted through all telecommunications media, whether they be copper wire, optical fibre, microwave radio, or cellular radio.
+In addition, personal computers (PCs) with the proper hardware and software can send files directly to fax machines without printing and scanning.
+Conversely, documents from a remote fax machine may be received by a computer for storage in its memory and eventual reproduction on a desktop printer of transmission directly by e-mail between PCs.
+The concepts of facsimile transmission were developed in the 19th century using contemporary telegraph technology.
+Widespread employment of the method, however, did not take place until the 1980s, when inexpensive means of adapting digitized information to telephone circuits became common.
+The long and ultimately fruitful history of fax technology is traced in this section.
+Facsimile transmission over wires traces its origins to Alexander Bain, a Scottish mechanic.
+In 1843, less than seven years after the invention of the telegraph by American Samuel F.B. Morse, Bain received a British patent for “improvements in producing and regulating electric currents and improvements in timepieces and in electric printing and signal telegraphs.”
+Bain’s fax transmitter was designed to scan a two-dimensional surface (Bain proposed metal type as the surface) by means of a stylus mounted on a pendulum.
+The invention was never demonstrated.
+Frederick Bakewell, an English physicist, was the first to actually demonstrate facsimile transmission.
+The demonstration took place in London at the Great Exhibition of 1851.
+Bakewell’s system differed somewhat from Bain’s in that images were transmitted and received on cylinders - a method that was widely practiced through the 1960s.
+At the transmitter the image to be scanned was written with varnish or some other nonconducting material on tinfoil, wrapped around the transmitter cylinder, and then scanned by a conductive stylus that, like Bain’s stylus, was mounted to a pendulum.
+The cylinder rotated at a uniform rate by means of a clock mechanism.
+At the receiver a similar pendulum-driven stylus marked chemically treated paper with an electric current as the receiving cylinder rotated.
+The first commercial facsimile system was introduced between Lyon and Paris, France, in 1863 by Giovanni Caselli, an Italian inventor.
+The first successful use of optical scanning and transmission of photographs was demonstrated by Arthur Korn of Germany in 1902.
+Korn’s transmitter employed a selenium photocell to sense an image wrapped on a transparent glass cylinder; at the receiver the transmitted image was recorded on photographic film.
+By 1906 Korn’s equipment was put into regular service for transmission of newspaper photographs between Munich and Berlin via telegraph circuits.
+Scottish mechanic Alexander Bain, who is credited with designing the first facsimile transmitter and whose work predated the invention of the telephone.
+SSPL via Getty Images
+Further deployment of fax transmission had to await the development of improved long-distance telephone service.
+Between 1920 and 1923 the American Telephone & Telegraph Company (AT&T) worked on telephone facsimile technology, and in 1924 the telephotography machine was used to send pictures from political conventions in Cleveland, Ohio, and Chicago to New York City for publication in newspapers.
+The telephotography machine employed transparent cylindrical drums, which were driven by motors that were synchronized between transmitter and receiver.
+At the transmitter a positive transparent print was placed on the drum and was scanned by a vacuum-tube photoelectric cell.
+The output of the photocell modulated a 1,800-hertz carrier signal, which was subsequently sent over the telephone line.
+At the receiver an unexposed negative was progressively illuminated by a narrowly focused light beam, the intensity of which corresponded to the output of the photoelectric cell in the transmitter.
+The AT&T fax system was capable of transmitting a 12.7-by-17.8-cm (5-by-7-inch) photograph in seven minutes with a resolution of 4 lines per mm (100 lines per inch).
+Further advancements in fax technology occurred during the 1930s and ’40s.
+In 1948 Western Union introduced its desk-fax service, which was based on a small office machine.
+Some 50,000 desk-fax units were built until the service was discontinued in the 1960s.
+Over the years, different manufacturers adopted operability standards that allowed their machines to communicate with one another, but there was no worldwide standard that enabled American machines, for example, to connect to European fax machines.
+In 1974 the International Telegraph and Telephone Consultative Committee (CCITT) issued its first worldwide fax standard, known as Group 1 fax.
+Group 1 fax machines were capable of transmitting a one-page document in about six minutes with a resolution of 4 lines per mm using an analog signal format.
+This standard was followed in 1976 by a CCITT Group 2 fax standard, which permitted transmission of a one-page document in about three minutes using an improved modulation scheme.
+Although the Group 2 fax machines proved to be successful in business applications where electronic transmission of documents containing nontextual information such as drawings, diagrams, and signatures was required, the slow transmission rate and the cost of the terminals ultimately limited the growth of fax services.
+In response, the CCITT developed standards for a new class of fax machine, now known as Group 3, which would use digital transmission of images through modems.
+With the encoding of a scanned image into binary digits, or bits, various image-compression methods (also known as source encoding or redundancy reduction) could be employed to reduce the number of bits required to represent the original image.
+By coupling a good source code with a high-speed modem, a Group 3 fax machine could reduce the time required to transmit a single page to less than one minute - a threefold improvement in transmission time over the older Group 2 fax machines.
+The Group 3 standard was adopted by the CCITT in 1980.
+Originally, Group 3 fax was intended for transmission at data rates between 2.4 Kbps (2,400 and 9,600 bits per second).
+With advances in voiceband modem technology, data transmission rates of 28.8 Kbps and above became common.
+Between 1981 and 1984 the CCITT sponsored the development of a high-speed fax service that was adopted as the Group 4 standard in 1984.
+Group 4 fax was intended to supplant Group 3 fax by permitting error-free transmission of documents over digital networks, such as the Integrated Services Digital Network (ISDN), at speeds up to 64 Kbps.
+At such rates, transmission time for a single page could be reduced to less than 10 seconds.
+Group 4 fax has been deployed in areas of the world where ISDN lines are readily available (e.g., Japan and France).
+However, since other areas (e.g., the United States) do not have many ISDN lines installed in the local telephone loop, Group 4 fax machines must also support Group 3 fax for transmission over analog lines.
+BITS AND BYTES
+In communication and information theory, a bit, or “binary digit,” is the smallest increment of information.
+It is equivalent to the result of a choice between only two possible alternatives, as between 1 and 0 in the binary number system generally used in digital computers.
+The rate at which computers and transmission systems can transfer data is measured in bits per second - or, more commonly, in kilobits per second (Kbps; thousands of bits per second) and megabits per second (Mbps; millions of bits per second).
+A byte, on the other hand, consists of 8 adjacent bits.
+The string of bits making up a byte is processed as a unit by a computer; bytes are the smallest operable units of storage in computer technology.
+A byte can represent the equivalent of a single character, such as the letter B, a comma, or a percentage sign; or it can represent a number from 0 to 255.
+Because a byte contains so little information, the processing and storage capacities of computer hardware are usually given in kilobytes (thousands of bytes) or megabytes (millions of bytes).
+Still larger capacities are expressed in gigabytes (billions of bytes) and terabytes (trillions of bytes).
+A modem (from “modulator/demodulator”) is an electronic device that converts data signals into modulated signals suitable for transmission over telecommunications circuits.
+A modem also receives modulated signals and demodulates them, recovering the data for the end user.
+Modems thus make it possible for established telecommunications media to support a wide variety of data communication, such as e-mail between personal computers, facsimile transmission between fax machines, or the downloading of audio-video files from a World Wide Web server to a home computer.
+An asymmetric digital subscriber line (ADSL) modem, which, unlike a cable modem, uses a dedicated phone line so that all available bandwidth is delivered to the customer from the customer office.
+iStockphoto/Thinkstock
+The most basic modem is the “voiceband” modem for dial-up Internet access - i.e.,
+a modem that enables digital terminal equipment such as a personal computer to “call” an Internet service provider (ISP) over traditional analog telephone channels, which are designed around the narrow bandwidth requirements of the human voice.
+Voiceband modems also allow fax machines to call one another over telephone lines and then transmit streams of data that can be used to reproduce facsimiles of original documents.
+In addition to voiceband modems, there are various modems for broadband connection.
+DSL modems, for example, modulate and demodulate signals for transmission over high-speed digital subscriber lines leased from the telephone system.
+Cable modems, on the other hand, are not connected to the telephone system at all.
+Instead, they support the transmission of data over hybrid fibre-coaxial channels, which were originally designed to provide high-bandwidth television service.
+Both voiceband and broadband modems are marketed as freestanding, book-sized modules that plug into a telephone or cable outlet and a port on a personal computer.
+In addition, voiceband modems are installed as circuit boards directly into computers and fax machines.
+Voiceband modems can be thought of as the interface between digital data equipment and analog telephone lines.
+Digital data signals consist of multiple alternations between two values, represented by the binary digits, or bits, 0 and 1.
+Analog telephone signals, on the other hand, consist of time-varying, wavelike fluctuations in value, much like the tones of the human voice.
+In order to represent binary data, the fluctuating values of the analog wave (i.e., its frequency, amplitude, and phase) must be modified, or modulated, in such a manner as to represent the sequences of bits that make up the data signal.
+This is the job of the modem.
+Each modified element of the modulated carrier wave (for instance, a shift from one frequency to another or a shift between two phases) is known as a baud.
+In early voiceband modems beginning in the early 1960s, one baud represented one bit, so a modem operating, for instance, at 300 bauds per second (or, more simply, 300 baud) transmitted data at 300 bits per second.
+In modern modems a baud can represent many bits, so the more accurate measure of transmission rate is bits per second.
+During the course of their development, modems have risen in throughput from 300 bits per second (bps) to 56,000 bits per second (56 kilobits, or 56 Kbps) and beyond. (
+DSL and cable modems achieve a throughput of several million bits per second [megabits per second; Mbps].)
+At the highest bit rates, channel-encoding schemes must be employed in order to reduce transmission errors.
+In addition, various source-encoding schemes can be used to “compress” the data into fewer bits, increasing the rate of information transmission without raising the bit rate.
+Voiceband modems operate in part by communicating with each other, and to do this they must follow matching protocols, or operating standards.
+Worldwide standards for voiceband modems are established by the V-series of recommendations published by the Telecommunication Standardization sector of the International Telecommunication Union (ITU).
+Among other functions, these standards establish the signaling by which modems initiate and terminate communication, establish compatible modulation and encoding schemes, and arrive at identical transmission speeds.
+Modems have the ability to “fall back” to lower speeds in order to accommodate slower modems. “
+Full-duplex” standards allow simultaneous transmission and reception, which is necessary for interactive communication. “
+Half-duplex” standards also allow two-way communication, but not simultaneously; such modems are sufficient for facsimile transmission.
+Although not strictly related to digital data communication, early work on telephotography machines (predecessors of modern fax machines) by the Bell System during the 1930s did lead to methods for overcoming certain signal impairments inherent in telephone circuits.
+Among these developments were equalization methods for overcoming the smearing of fax signals as well as methods for translating fax signals to a 1,800-hertz carrier signal that could be transmitted over the telephone line.
+The first development efforts on digital modems appear to have stemmed from the need to transmit data for North American air defense during the 1950s.
+By the end of that decade, data was being transmitted at 750 bits per second over conventional telephone circuits.
+The first modem to be made commercially available in the United States was the Bell 103 modem, introduced in 1962 by the American Telephone & Telegraph Company (AT&T).
+The Bell 103 permitted full-duplex data transmission over conventional telephone circuits at data rates up to 300 bps.
+In order to send and receive binary data over the telephone circuit, two pairs of frequencies (one pair for each direction) were employed.
+A binary 1 was signaled by a shift to one frequency of a pair, while a binary 0 was signaled by a shift to the other frequency of the pair.
+This type of digital modulation is known as frequency-shift keying, or FSK.
+Another modem, known as the Bell 212, was introduced shortly after the Bell 103.
+Transmitting data at a rate of 1.2 Kbps over full-duplex telephone circuits, the Bell 212 made use of phase-shift keying, or PSK, to modulate a 1,800-hertz carrier signal.
+In PSK, data is represented as phase shifts of a single carrier signal.
+Thus, a binary 1 might be sent as a zero-degree phase shift, while a binary 0 might be sent as a 180-degree phase shift.
+Between 1965 and 1980, significant efforts were put into developing modems capable of even higher transmission rates.
+These efforts focused on overcoming the various telephone line impairments that directly limited data transmission.
+In 1965 Robert Lucky at Bell Laboratories developed an automatic adaptive equalizer to compensate for the smearing of data symbols into one another because of imperfect transmission over the telephone circuit.
+Although the concept of equalization was well known and had been applied to telephone lines and cables for many years, older equalizers were fixed and often manually adjusted.
+The advent of the automatic equalizer permitted the transmission of data at high rates over the public switched telephone network (PSTN) without any human intervention.
+Moreover, while adaptive equalization methods compensated for imperfections within the nominal three-kilohertz bandwidth of the voice circuit, advanced modulation methods permitted transmission at still higher data rates over this bandwidth.
+One important modulation method was quadrature amplitude modulation, or QAM.
+In QAM, binary digits are conveyed as discrete amplitudes in two phases of the electromagnetic wave, each phase being shifted by 90 degrees with respect to the other.
+The frequency of the carrier signal was in the range of 1,800 to 2,400 hertz.
+QAM and adaptive equalization permitted data transmission of 9.6 Kbps over four-wire circuits.
+Further improvements in modem technology followed, so that by 1980 there existed commercially available first-generation modems that could transmit at 14.4 Kbps over four-wire leased lines.
+Beginning in 1980, a concerted effort was made by the International Telegraph and Telephone Consultative Committee (CCITT; a predecessor of the ITU) to define a new standard for modems that would permit full-duplex data transmission at 9.6 Kbps over a single-pair circuit operating over the PSTN.
+Two breakthroughs were required in this effort.
+First, in order to fit high-speed full-duplex data transmission over a single telephone circuit, echo cancellation technology was required so that the sending modem’s transmitted signal would not be picked up by its own receiver.
+Second, in order to permit operation of the new standard over unconditioned PSTN circuits, a new form of coded modulation was developed.
+In coded modulation, error-correcting codes form an integral part of the modulation process, making the signal less susceptible to noise.
+The first modem standard to incorporate both of these technology breakthroughs was the V.32 standard, issued in 1984.
+This standard employed a form of coded modulation known as trellis-coded modulation, or TCM.
+Seven years later an upgraded V.32 standard was issued, permitting 14.4-Kbps full-duplex data transmission over a single PSTN circuit.
+In mid-1990 the CCITT began to consider the possibility of full-duplex transmission over the PSTN at even higher rates than those allowed by the upgraded V.32 standard.
+This work resulted in the issuance in 1994 of the V.34 modem standard, allowing transmission at 28.8 Kbps.
+The engineering of modems from the Bell 103 to the V.34 standard was based on the assumption that transmission of data over the PSTN meant analog transmission - i.e.,
+that the PSTN was a circuit-switched network employing analog elements.
+The theoretical maximum capacity of such a network was estimated to be approximately 30 Kbps, so the V.34 standard was about the best that could be achieved by voiceband modems.
+In fact, the PSTN evolved from a purely analog network using analog switches and analog transmission methods to a hybrid network consisting of digital switches, a digital “backbone” (long-distance trunks usually consisting of optical fibres), and an analog “local loop” (the connection from the central office to the customer’s premises).
+Furthermore, many Internet service providers (ISPs) and other data services access the PSTN over a purely digital connection, usually via a T1 or T3 wire or an optical-fibre cable.
+With analog transmission occurring in only one local loop, transmission of modem signals at rates higher than 28.8 Kbps is possible.
+In the mid-1990s several researchers noted that data rates up to 56 Kbps downstream and 33.6 Kbps upstream could be supported over the PSTN without any data compression.
+This rate for upstream (subscriber to central office) transmissions only required conventional QAM using the V.34 standard.
+The higher rate in the downstream direction (that is, from central office to subscriber), however, required that the signals undergo “spectral shaping” (altering the frequency domain representation to match the frequency impairments of the channel) in order to minimize attenuation and distortion at low frequencies.
+In 1998 the ITU adopted the V.90 standard for 56-Kbps modems.
+Because various regulations and channel impairments can limit actual bit rates, all V.90 modems are “rate adaptive.”
+Finally, in 2000 the V.92 modem standard was adopted by the ITU, offering improvements in the upstream data rate over the V.90 standard.
+The V.92 standard made use of the fact that, for dial-up connections to ISPs, the loop is essentially digital.
+Through the use of a concept known as precoding, which essentially equalizes the channel at the transmitter end rather than at the receiver end, the upstream data rate was increased to above 40 Kbps.
+The downstream data path in the V.92 standard remained the same 56 Kbps of the V.90 standard.
+A cable modem connects to a cable television system at the subscriber’s premises and enables two-way transmission of data over the cable system, generally to an ISP.
+The cable modem is usually connected to a personal computer or router using an Ethernet connection that operates at line speeds of 10 or 100 Mbps.
+At the “head end,” or central distribution point of the cable system, a cable modem termination system (CMTS) connects the cable television network to the Internet.
+Because cable modem systems operate simultaneously with cable television systems, the upstream (subscriber to CMTS) and downstream (CMTS to subscriber) frequencies must be selected to prevent interference with the television signals.
+Two-way capability was fairly rare in cable services until the mid-1990s, when the popularity of the Internet increased substantially and there was significant consolidation of operators in the cable television industry.
+Cable modems were introduced into the marketplace in 1995.
+At first all were incompatible with one another, but with the consolidation of cable operators the need for a standard arose.
+In North and South America a consortium of operators developed the Data Over Cable Service Interface Specification (DOCSIS) in 1997.
+The DOCSIS 1.0 standard provided basic two-way data service at 27–56 Mbps downstream and up to 3 Mbps upstream for a single user.
+The first DOCSIS 1.0 modems became available in 1999.
+The DOCSIS 1.1 standard released that same year added Voice over Internet Protocol (VoIP) capability, thereby permitting telephone communication over cable television systems.
+DOCSIS 2.0, released in 2002 and standardized by the ITU as J.122, offers improved upstream data rates on the order of 30 Mbps.
+All DOCSIS 1.0 cable modems use QAM in a six-megahertz television channel for the downstream.
+Data is sent continuously and is received by all cable modems on the hybrid coaxial-fibre branch.
+Upstream data is transmitted in bursts, using either QAM or quadrature phase-shift keying (QPSK) modulation in a two-megahertz channel.
+In phase-shift keying (PSK), digital signals are transmitted by changing the phase of the carrier signal in accordance with the transmitted information.
+In binary phase-shift keying, the carrier takes on the phases +90° and −90° to transmit one bit of information; in QPSK, the carrier takes on the phases +45°, +135°, −45°, and −135° to transmit two bits of information.
+Because a cable branch is a shared channel, all users must share the total available bandwidth.
+As a result, the actual throughput rate of a cable modem is a function of total traffic on the branch; that is, as more subscribers use the system, total throughput per user is reduced.
+Cable operators can accommodate greater amounts of data traffic on their networks by reducing the total span of a single fibre-coaxial branch.
+As noted, the maximum data rate that can be transmitted over the local telephone loop is about 56 Kbps.
+This assumes that the local loop is to be used only for direct access to the long-distance PSTN.
+However, if digital information is intended to be switched not through the telephone network but rather over other networks, then much higher data rates may be transmitted over the local loop using purely digital methods.
+These purely digital methods are known collectively as digital subscriber line (DSL) systems.
+DSL systems carry digital signals over the twisted-pair local loop using methods analogous to those used in the T1 digital carrier system to transmit 1.544 Mbps in one direction through the telephone network.
+The first DSL was the Integrated Services Digital Network (ISDN), developed during the 1980s.
+In ISDN systems a 160-Kbps signal is transmitted over the local loop using a four-level signal format known as 2B1Q, for “two bits per quaternary signal.”
+The 160-Kbps signal is broken into two “B” channels of 64 Kbps each, one “D” channel of 16 Kbps, and one signaling channel of 16 Kbps to permit both ends of the ISDN local loop to be initialized and synchronized.
+ISDN systems are deployed in many parts of the world.
+In many cases they are used to provide digital telephone services, although these systems may also provide 64-Kbps or 128-Kbps access to the Internet with the use of an adapter card.
+However, because such data rates are not significantly higher than those offered by 56-Kbps V.90 voiceband modems, ISDN is not widely used for Internet access.
+High-bit-rate DSL, or HDSL, was developed in about 1990, employing some of the same technology as ISDN.
+HDSL uses 2B1Q modulation to transmit up to 1.544 Mbps over two twisted-pair lines.
+In practice, HDSL systems are used to provide users with low-cost T1-type access to the telephone central office.
+Both ISDN and HDSL systems are symmetric; i.e., the upstream and downstream data rates are identical.
+Asymmetric DSL, or ADSL, was developed in the early 1990s, originally for video-on-demand services over the telephone local loop.
+Unlike HDSL or ISDN, ADSL is designed to provide higher data rates downstream than upstream - hence the designation “asymmetric.”
+In general, downstream rates range from 1.5 to 9 Mbps and upstream rates from 16 to 640 Kbps, using a single twisted-pair wire.
+ADSL systems are currently most often used for high-speed access to an Internet service provider (ISP), though regular telephone service is also provided simultaneously with the data service.
+At the local telephone office, a DSL access multiplexer, or DSLAM, statistically multiplexes the data packets transmitted over the ADSL system in order to provide a more efficient link to the Internet.
+At the customer’s premises, an ADSL modem (also called a transceiver or terminal unit) usually provides one or more Ethernet jacks capable of line rates of either 10 Mbps or 100 Mbps.
+Because the downstream signal is in a digital format, the ADSL modem does not perform the analog-to-digital conversion performed by a voiceband modem.
+However, it must still demodulate the incoming signal in order to extract the data and use it to modulate a signal that can communicate with the subscriber’s digital equipment.
+In 1999 the ITU standardized two ADSL systems.
+The first system, designated G.991.1 or G.DMT, specifies data delivery at rates up to 8 Mbps on the downstream and 864 Kbps on the upstream.
+The modulation method is known as discrete multitone (DMT), a method in which data is sent over a large number of small individual carriers, each of which uses QAM modulation.
+By varying the number of carriers actually used, DMT modulation may be made rate-adaptive, depending upon the channel conditions.
+G.991.1 systems require the use of a “splitter” at the customer’s premises to filter and separate the analog voice channel from the high-speed data channel.
+Usually the splitter has to be installed by a technician; to avoid this expense a second ADSL standard was developed, variously known as G.991.2, G.lite, or splitterless ADSL.
+This second standard also uses DMT modulation to achieve the same rates as G.991.1.
+In place of the splitter, user-installable filters are required for each telephone set in the home.
+Unlike cable modems, ADSL modems use a dedicated telephone line between the customer and the central office, so the delivered bandwidth equals the bandwidth actually available.
+However, ADSL systems may be installed only on local loops less than 5,400 metres (18,000 feet) long and therefore are not available to homes located farther from a central office.
+Other versions of DSL have been announced to provide even higher rate services over shorter local loops.
+For instance, very high data rate DSL, or VDSL, can provide up to 15 Mbps over a single twisted wire pair up to 1,500 metres (5,000 feet) long.
+A mobile telephone is any portable device that connects to a telecommunications network in order to transmit and receive the human voice - video and other data may be transmitted as well.
+Mobile phones have become a global phenomenon.
+In 2010 the International Telecommunication Union estimated that there were some 5.3 billion mobile telephone subscriptions in the world and that some 90 percent of the world’s population lived in areas covered by mobile phone service.
+In some developed countries the rate of mobile-phone subscription now exceeds 100 percent (that is, there are more mobile-phone subscriptions than there are people).
+Even in the developing world, where cell-phone coverage reaches only about two-thirds of the population, subscriptions are growing at a faster rate than in developed countries.
+More than 1.5 billion mobile phones were purchased in 2010, and more than half of those purchases were made in the developing world.
+Some 20 percent of mobile-phone purchases are of smartphones - handheld telephones that can access the Internet and can download and run computer-like applications.
+A rising number of smartphones access the Internet through latest-generation broadband wireless connections that are comparable to fixed DSL and cable connections for personal computers.
+Broadband connections, whether wireless or fixed-wire, enable smartphones and computers to bypass telephone networks entirely and communicate by voice and video over the Internet.
+Cellular telephones are portable devices that may be used in motor vehicles or by pedestrians.
+Communicating by radio waves, they permit a significant degree of mobility within a defined serving region that may range in area from a few city blocks to hundreds of square kilometres.
+The first mobile and portable subscriber units for cellular systems were large and heavy.
+With significant advances in component technology, though, the weight and size of portable transceivers have been significantly reduced.
+Teenage girl using a laptop computer and a cellular telephone, c. 2007.
+© Goodshoot/Jupiterimages
+All cellular telephone systems exhibit several fundamental characteristics, as summarized in the following: 1.
+The geographic area served by a cellular system is broken up into smaller geographic areas, or cells.
+Uniform hexagons most frequently are employed to represent these cells on maps and diagrams; in practice, though, radio waves do not confine themselves to hexagonal areas, so the actual cells have irregular shapes.
+2.
+All communication with a mobile or portable instrument within a given cell is made to a base station that serves the cell.
+3.
+Because of the low transmitting power of battery-operated portable instruments, specific sending and receiving frequencies assigned to a cell may be reused in other cells within the larger geographic area.
+Thus, the spectral efficiency of a cellular system (that is, the uses to which it can put its portion of the radio spectrum) is increased by a factor equal to the number of times a frequency may be reused within its service area.
+4.
+As a mobile instrument proceeds from one cell to another during the course of a call, a central controller automatically reroutes the call from the old cell to the new cell without a noticeable interruption in the signal reception.
+This process is known as handoff.
+The central controller, or mobile telephone switching office (MTSO), thus acts as an intelligent central office switch that keeps track of the movement of the mobile subscriber.
+5.
+As demand for the radio channels within a given cell increases beyond the capacity of that cell (as measured by the number of calls that may be supported simultaneously), the overloaded cell is “split” into smaller cells, each with its own base station and central controller.
+The radio-frequency allocations of the original cellular system are then rearranged to account for the greater number of smaller cells.
+Operation of a cellular telephone system.
+Frequency reuse between discontiguous cells and the splitting of cells as demand increases are the concepts that distinguish cellular systems from other wireless telephone systems.
+They allow cellular providers to serve large metropolitan areas that may contain hundreds of thousands of customers.
+In the United States, interconnection of mobile transmitters and receivers with the PSTN began in 1946, with the introduction of mobile telephone service (MTS) by the American Telephone & Telegraph Company (AT&T).
+In the U.S. MTS system, a user who wished to place a call from a mobile phone had to search manually for an unused channel before placing the call.
+The user then spoke with a mobile operator, who actually dialed the call over the PSTN.
+The radio connection was simplex - i.e.,
+only one party could speak at a time, the call direction being controlled by a push-to-talk switch in the mobile handset.
+In 1964 AT&T introduced the improved mobile telephone service (IMTS).
+This provided full duplex operation, automatic dialing, and automatic channel searching.
+Initially 11 channels were provided, but in 1969 an additional 12 channels were made available.
+Since only 11 (or 12) channels were available for all users of the system within a given geographic area (such as the metropolitan area around a large city), the IMTS system faced a high demand for a very limited channel resource.
+Moreover, each base-station antenna had to be located on a tall structure and had to transmit at high power in order to provide coverage throughout the entire service area.
+Because of these high power requirements, all subscriber units in the IMTS system were motor-vehicle-based instruments that carried large storage batteries.
+<Caption> Cell phone towers are tall so that there is less chance of their high-power signals being disrupted.
+Towers are designed to operate over a wide coverage area.
+iStockphoto/Thinkstock
+During this time a truly cellular system, known as the advanced mobile phone system, or AMPS, was developed primarily by AT&T and Motorola, Inc. AMPS was based on 666 paired voice channels, spaced every 30 kilohertz in the 800-megahertz region.
+The system employed an analog modulation approach - frequency modulation, or FM - and was designed from the outset to support subscriber units for use both in automobiles and by pedestrians.
+It was publicly introduced in Chicago in 1983 and was a success from the beginning.
+At the end of the first year of service, there were a total of 200,000 AMPS subscribers throughout the United States; five years later there were more than 2,000,000.
+In response to expected service shortages, the American cellular industry proposed several methods for increasing capacity without requiring additional spectrum allocations.
+One analog FM approach, proposed by Motorola in 1991, was known as narrowband AMPS, or NAMPS.
+In NAMPS systems each existing 30-kilohertz voice channel was split into three 10-kilohertz channels.
+Thus, in place of the 832 channels available in AMPS systems, the NAMPS system offered 2,496 channels.
+A second approach, developed by a committee of the Telecommunications Industry Association (TIA) in 1988, employed digital modulation and digital voice compression in conjunction with a time-division multiple access (TDMA) method; this also permitted three new voice channels in place of one AMPS channel.
+Finally, in 1994 there surfaced a third approach, developed originally by Qualcomm, Inc., but also adopted as a standard by the TIA.
+This third approach used a form of spread spectrum multiple access known as code-division multiple access (CDMA) - a technique that, like the original TIA approach, combined digital voice compression with digital modulation.
+The CDMA system offered 10 to 20 times the capacity of existing AMPS cellular techniques.
+All of these improved-capacity cellular systems were eventually deployed in the United States, but, since they were incompatible with one another, they supported rather than replaced the older AMPS standard.
+Although AMPS was the first cellular system to be developed, a Japanese system was the first cellular system to be deployed, in 1979.
+Other systems that preceded AMPS in operation include the Nordic Mobile Telephone (NMT) system, deployed in 1981 in Denmark, Finland, Norway, and Sweden, and the Total Access Communication System (TACS), deployed in the United Kingdom in 1983.
+A number of other cellular systems were developed and deployed in many more countries in the following years.
+All of them were incompatible with one another.
+In 1988 a group of government-owned public telephone bodies within the European Community announced the digital Global System for Mobile (GSM) communications, the first such system that would permit any cellular user in one European country to operate in another European country with the same equipment.
+GSM soon became ubiquitous throughout Europe.
+The analog cellular systems of the 1980s are now referred to as “first-generation” (or 1G) systems, and the digital systems that began to appear in the late 1980s and early ’90s are known as the “second generation” (2G).
+After the introduction of 2G cell phones, various enhancements were made in order to provide data services and applications such as Internet browsing, two-way text messaging, still-image transmission, and mobile access by personal computers.
+Even as 2G systems spread around the world, a study group of the Geneva-based International Telecommunication Union began to consider specifications for Future Public Land Mobile Telephone Systems (FPLMTS).
+These specifications eventually became the basis for a set of “third-generation” (3G) cellular standards, known collectively as IMT2000.
+The 3G standards were based loosely on several attributes: the use of CDMA technology; the ability eventually to support three classes of users (vehicle-based, pedestrian, and fixed); and the ability to support voice, data, and multimedia services.
+The world’s first 3G service began in Japan in October 2001 with a system offered by NTT DoCoMo.
+Soon 3G service was being offered by a number of different carriers in Japan, South Korea, the United States, and other countries.
+Several new types of service compatible with the higher data rates of 3G systems became commercially available, including full-motion video transmission, image transmission, location-aware services (through the use of Global Positioning System [GPS] technology), and high-rate data transmission.
+Such capabilities would only increase with the fourth generation (4G) cellular standards, which were based on an initiative launched in 2002 by the ITU and labeled IMT-Advanced.
+4G was intended to bring broadband Internet connectivity to the wireless market, the goal being to achieve 100 Mbps for mobile receivers such as cell phones (as well as 1 Gpbs, or 1 billion bits per second, for fixed receivers such as personal computers).
+The first 4G cellular network in the United States was a dual-purpose network introduced in 2010 by Clearwire Corp., a company that provided wireless Internet service by means of the new Worldwide Interoperability for Microwave Access (WiMAX) technology.
+WiMAX was a means for delivering high-speed Internet service to large geographical areas.
+A single WiMax tower would provide coverage over about 8,000 square km (3,000 square miles) and also connect to other towers via a line-of-sight microwave link to broaden coverage further.
+A roof-mounted antenna dish would receive information at the fastest data-transfer rates, or an internal receiver chip in a personal computer, mobile telephone, or other device would communicate without a line of sight at lower speeds.
+Under optimal conditions, WiMax would offer data-transfer rates of up to 75 Mbps, which is superior to conventional cable-modem and DSL connections.
+However, the bandwidth would be split among multiple users and thus yield lower speeds in practice.
+For typical cell-phone users, the average data-transmission speed would be 3 to 6 Mbps, which was three to six times faster than the average speed of existing 3G cellular networks and still comparable to speeds available through cable and DSL services.
+Ultimately, WiMax proponents hoped to establish a global area network in which signals could reach, for instance, the entire continental United States, including the many rural and suburban areas to which land-based broadband providers did not run cable.
+CUL8R: TEXTING
+Text messaging is the act of sending short messages by cell phone using the Short Messaging Service (SMS), which has a limit of 160 characters per message.
+SMS was developed in the United Kingdom in the late 1980s, and the first text message was sent on Dec. 3, 1992.
+An SMS commercial service was launched in the United Kingdom in 1995.
+Text messaging did not take off, however, until it became possible to send messages between the four main British cellular telephone networks in 1998.
+The number of messages sent in the United Kingdom grew from 1 billion in 1999 to some 30 billion in 2005.
+In the United States text messaging emerged later but expanded rapidly.
+From 30 million messages sent in the United States in June 2001, the monthly traffic grew to about 7.3 billion in 2005 and 14 billion in 2008.
+Because typing text into a telephone keypad is cumbersome and the number of characters in a text message is limited, a form of shorthand has evolved, especially among young people.
+This includes such shortcuts as UR for “your” or “you’re,” IMHO for “in my humble opinion,” BTW for “by the way,” and CUL8R for “see you later,” as well as the employment of “emoticons,” or “smileys,” to express emotions.
+Even the plots of major literary works are being condensed into short text messages for use as a study aid.
+Meanwhile, educators have attempted to ban cell phones from the classroom to discourage cheating, and there is growing concern that standards of English will drop as text abbreviations entered the mainstream.
+None of these concerns seem to deter texters, however.
+Worldwide, the number of text messages sent in 2010 exceeded 6 trillion (200,000 per second), and the major wireless companies report that users now do more texting than talking on their cell phones.
+With so many messages being sent, it comes as no surprise that overactive texters around the world are developing a form of repetitive-strain injury.
+The American Society of Hand Therapists has warned that overuse of handheld devices could lead to carpal tunnel syndrome and tendinitis and has advised users to switch hands frequently and take hourly breaks.
+A smartphone is a mobile telephone with a display screen (typically a liquid crystal display, or LCD), built-in personal information management programs (such as an electronic calendar and address book) typically found in a personal digital assistant (PDA), and an operating system (OS) that allows other computer software to be installed for Web browsing, e-mail, music, video, and other applications.
+A smartphone may be thought of as a handheld computer integrated within a mobile telephone.
+The first smartphone was designed by IBM and sold by BellSouth (formerly part of the AT&T Corporation) in 1993.
+It included a touchscreen interface for accessing its calendar, address book, calculator, and other functions.
+As the market matured and solid-state computer memory and integrated circuits became less expensive over the following decade, smartphones became more computer-like, and more more-advanced services, such as Internet access, became possible.
+Advanced services became ubiquitous with the introduction of the so-called third-generation (3G) mobile phone networks in 2001.
+Before 3G, most mobile phones could send and receive data at a rate sufficient for telephone calls and text messages.
+Using 3G, communication takes place at bit-rates high enough for sending and receiving photographs, video clips, music files, e-mails, and more.
+Most smartphone manufacturers license an operating system, such as Microsoft Corporation’s Windows Mobile OS, Symbian OS, Google’s Android OS, or Palm OS.
+Research in Motion’s BlackBerry and Apple Inc.’s iPhone have their own proprietary systems.
+Unlike some other smartphones, the BlackBerry has its own proprietary operating system.
+Adek Berry/AFP/Getty Images
+Smartphones contain either a keyboard integrated with the telephone number pad or a standard “QWERTY” keyboard for text messaging, e-mailing, and using Web browsers. “
+Virtual” keyboards can be integrated into a touch-screen design.
+Smartphones often have a built-in camera for recording and transmitting photographs and short videos.
+In addition, many smartphones can access Wi-Fi “hot spots” so that users can access VoIP (Voice over Internet Protocol) rather than pay cellular telephone transmission fees.
+The growing capabilities of handheld devices and transmission protocols have enabled a growing number of inventive applications - for instance, “augmented reality,” in which a smartphone’s Global Positioning System (GPS) location chip can be used to overlay the phone’s camera view of a street scene with local tidbits of information, such as the identity of stores, points of interest, or real estate listings.
+In order to augment ground-based mobile telephone systems, several enterprises have attempted to put satellite-based systems into operation.
+The goal of these systems is to permit ready connection to the PSTN from anywhere on Earth’s surface, especially in areas not covered by cell-phone service.
+A form of satellite-based mobile communication has been available for some time in airborne cellular systems that utilize Inmarsat satellites.
+However, the Inmarsat satellites are geostationary, remaining approximately 35,000 km (22,000 miles) above a single location on Earth’s surface.
+Because of this high-altitude orbit, Earth-based communication transceivers require high transmitting power, large communication antennas, or both in order to communicate with the satellite.
+In addition, such a long communication path introduces a noticeable delay, on the order of a quarter-second, in two-way voice conversations.
+One viable alternative to geostationary satellites would be a larger system of satellites in low Earth orbit (LEO).
+Orbiting less than 1,600 km (1,000 miles) above Earth, LEO satellites would not be geostationary and therefore could not provide constant coverage of specific areas on Earth.
+Nevertheless, by allowing radio communications with a mobile instrument to be handed off between satellites, an entire constellation of satellites, at least in theory, could assure that no call would be dropped simply because a single satellite had moved out of range.
+THE IPHONE
+The introduction of the Apple iPhone, which was really a handheld computer running a version of the Macintosh operating system (OS), was easily the biggest event of 2007 for electronics consumers.
+Two years in development, the iPhone combined an Apple iPod, touch-screen controls, and a cellular telephone in one sleek, appealing package.
+The iPhone went on sale in the United States at the end of June, and in less than three months more than one million units were sold.
+It was released in Europe later that year and in Asia in 2008.
+The most revolutionary element of Apple’s first mobile smartphone was its touch-sensitive multisensor interface.
+The touch screen allowed users to manipulate all programs and telephone functions with their fingertips rather than a stylus or physical keys, creating a tactile, physical experience.
+The iPhone also featured Internet browsing, music and video playback, a digital camera, visual voice mail, and a tabbed contact list.
+For its innovative design in the handheld computing market, the iPhone was named invention of the year in 2007 by Time magazine.
+In addition to functioning as a cellular telephone, Apple’s touch-screen iPhone, released in 2007, has a built-in Web browser for viewing Internet content over wireless telephone networks and WiFi connections.
+The iPhone also can be used as a multimedia playback device for listening to music or viewing videos.
+Courtesy of Apple
+The first iPhone models were only available in conjunction with AT&T’s wireless service and could not be used over the latest third-generation (3G) wireless networks.
+Apple rectified the latter limitation in 2008 with the release of the iPhone 3G, or iPhone 2.0, which also included support for the Global Positioning System (GPS).
+Like other smartphones such as the BlackBerry, from the Canadian company Research in Motion, the new iPhone included features geared toward business users.
+In particular, the storage memory in the units could be remotely “wiped” if the unit were lost.
+As with the original iPhone, demand was very high, and the new iPhone 3G sold one million units in the first three days after its introduction.
+By June 19, 2009, when Apple released the iPhone 3GS, the company’s share of the smartphone market had reached about 20 percent (compared with about 55 percent for the BlackBerry).
+In addition to hardware changes such as a 3-megapixel digital camera that can also record digital videos and an internal digital compass (capable of working with various mapping software), the iPhone 3GS included a new operating system, the iPhone OS 3.0.
+The new system included support for voice-activated controls and peer-to-peer (P2P) play of electronic games with other iPhone users over Wi-Fi Internet connections.
+The latter feature was part of Apple’s strategy to compete in the portable gaming market with the Nintendo Company’s DS and the Sony Corporation’s PSP.
+The iPhone 4, released in 2010.
+Courtesy of Apple
+In 2010 Apple suffered a major embarrassment when, prior to the introduction of its iPhone 4, an Apple employee lost a prototype of one of the devices.
+The iPhone 4’s features, which included a video-chat camera, a noise-canceling feature, and improved screen resolution, had been a major corporate secret, but the lost phone was subsequently found and publicized on a technology Web site, Gizmodo.
+This robbed Apple of the air of mystery and excitement that had typically surrounded its new-product announcements.
+Officially unveiled two months later, the iPhone 4 was thinner than its predecessor and offered improved battery life as well as a 5-megapixel camera.
+The iPhone 4 ran on iOS 4, a multiplatform operating system that allowed users to run multiple apps simultaneously.
+The first LEO system intended for commercial service was the Iridium system, designed by Motorola, Inc., and owned by Iridium LLC, a consortium made up of corporations and governments from around the world.
+The Iridium concept employed a constellation of 66 satellites orbiting in six planes around Earth.
+They were launched from May 1997 to May 1998, and commercial service began in November 1998.
+Each satellite, orbiting at an altitude of 778 km (483 miles), had the capability to transmit 48 spot beams to Earth.
+Meanwhile, all the satellites were in communication with one another via 23-gigahertz radio “crosslinks,” thus permitting ready handoff between satellites when communicating with a fixed or mobile user on Earth.
+The crosslinks provided an uninterrupted communication path between the satellite serving a user at any particular instant and the satellite connecting the entire constellation with the gateway ground station to the PSTN.
+In this way, the 66 satellites provided continuous telephone communication service for subscriber units around the globe.
+However, the service was expensive and failed to attract sufficient individual subscribers away from the growing cell-phone services, and Iridium LLC went out of business in March 2000.
+Its assets were acquired by Iridium Satellite LLC, which refocused the communication service on the U.S. Department of Defense as well as business users.
+In order to finance a new generation of satellites, the company merged with an investment firm in 2009 to form a new company, Iridium Communications, Inc.
+Another LEO system, Globalstar, consisted of 48 satellites that were launched about the same time as the Iridium constellation.
+Globalstar began offering service in October 1999, though it, too, went into bankruptcy, in February 2002.
+A reorganized Globalstar LP continued to provide service thereafter.
+However, by 2007 its first generation of satellites was experiencing failures at such a rate that full two-way telephone service was severely compromised.
+Beginning in 2010, a new series of 24 second-generation satellites was launched in stages for full deployment in 2012.
+In addition to the two-way speech transmission traditionally associated with the telephone, for many years there has been an interest in simultaneously transmitting two-way video signals in order to facilitate communication between two parties.
+Traditional telephone-based video systems employ a videophone at each end.
+The videophone incorporates a personal video camera and display, a microphone and speaker, and a data-conversion device.
+The data-conversion device permits transmission of video over telephone circuits through the use of two components: a compression/expansion circuit, which reduces the amount of information contained in the video signal, and a modem, which translates the digital video signal to the analog telephone line format.
+A technician demonstrates how videophones capture and transmit images.
+Videophones allow users to view the person to whom they are speaking by transmitting video over telephone circuits.
+John MacDougall/AFP/Getty Images
+Another form of video transmission over telephone lines is videoconferencing.
+A videoconferencing system is quite similar to a videophone, except that the camera and display at each end are intended to serve a group of people.
+Frequently, the video camera in such a system may focus on either individuals or the group, often under control of the local user or under remote control of the distant party.
+The first public demonstration of a one-way videophone occurred on April 7, 1927, between Herbert Hoover (then U.S. secretary of commerce) in Washington, D.C., and officials of the American Telephone & Telegraph Company (AT&T) in New York City.
+This was followed by the first public demonstration of a two-way videophone, on April 9, 1930, between AT&T’s Bell Laboratories and its corporate headquarters, both in New York City.
+This two-way system employed early television equipment and a closed circuit; by 1956 Bell Labs had developed a videophone that could be employed over existing telephone circuits.
+Further studies led to the development of the first complete experimental videophone system, known as Picturephone, in 1963.
+By 1968 Bell engineers had developed a second-generation Picturephone, which was put into public service in 1971.
+The second-generation Picturephone was designed as a complete system.
+All aspects of the system - such as terminal equipment, local loop transmission, switching, long-distance transmission, and private branch exchange - were designed and developed to support two-way video communication over telephone circuits.
+Picturephone employed analog black-and-white video transmission similar to that used in television broadcasting.
+The crucial difference lay in the bandwidth of the video signals.
+Conventional television employed a 4.5-megahertz signal, which could transmit the information required to trace the standard American analog television picture of 525 lines per frame at a rate of 60 frames per second.
+In order to reduce the video signal to 1 megahertz - a bandwidth that could be supported by telephone lines - Picturephone employed a picture frame of approximately 250 lines.
+The screen was 14 by 12.5 cm (5.5 by 5 inches) - a screen size that was deemed to be appropriate for video monitors and was compatible with the resolution of the transmitted signal.
+The Picturephone terminal consisted of a free-standing microphone and a video display unit containing a speaker, an electron-tube camera, and a cathode-ray picture tube.
+Despite the extensive development that went into the AT&T Picturephone system - more than 15 years of engineering effort and $500 million in development costs - market acceptance of Picturephone service was very poor.
+Ultimately, AT&T concluded that the videophone was a “concept looking for a market,” and service was discontinued in the late 1970s.
+In the late 1980s several companies began to develop and sell still-frame videophones that could operate directly over the public switched telephone network (PSTN).
+The still-frame videophone employed a video camera and a frame-capture system to capture a single video frame for transmission.
+Since still-frames exhibited no time dependency, they did not have to be transmitted in real time over the PSTN, permitting the use of standard, commercially available modems to transmit at 2.4 to 9.6 Kbps.
+In 1992 AT&T introduced the VideoPhone 2500, the world’s first colour videophone that could transmit over analog telephone lines.
+Unlike the earlier Picturephones, the VideoPhone 2500 employed digital compression methods to enable a significant reduction of the bandwidth required for full-motion video transmission.
+A V.34 modem was employed to transmit the compressed video signal over an analog telephone line for access to the PSTN, where the signal could be readily circuited through central-office switches.
+Depending on the quality of the telephone line, the VideoPhone 2500 transmitted at either 19.2 or 16.8 Kbps.
+The video compression algorithm employed in the VideoPhone 2500 was licensed to a number of Japanese manufacturers for employment in similar videophones.
+Nevertheless, lack of sales led AT&T to discontinue the VideoPhone 2500 in 1995.
+Other manufacturers in both the United States and Europe, including British Telecommunications and the Marconi Company, developed similar videophone terminals for operation over the PSTN.
+During the late 1990s two new videophone solutions were developed: business videoconferencing and desktop videoconferencing.
+Business videoconferencing employs video cameras, video compression and decompression hardware and software, and interfaces to one or more ISDN lines or an Internet connection in order to provide capture, transmission, and display of synchronized voice and video to one or more locations.
+Typically, these systems are installed in conference rooms to permit meetings to be held without requiring travel by the participants.
+Several companies have developed proprietary transmission protocols and voice and data compression techniques, but most make use of standards developed by the International Telecommunication Union (ITU) in order to permit interoperability of different systems.
+Desktop videoconferencing employs inexpensive cameras connected to or integrated within a personal computer (PC), video-sharing software, and an Internet connection (preferably broadband) between two or more PCs.
+Because of bandwidth limitations, desktop systems are usually of lower quality than business videoconferencing systems.
+Some desktop conferencing software includes application-sharing between two or more PCs, a shared clipboard, file-transfer capability, a “whiteboard” for sharing ideas, and chat service between users.
+VoIP, or Voice over Internet Protocol, is a communications technology for carrying voice telephone traffic over a data network such as the Internet.
+VoIP uses the Internet Protocol (IP) - one half of the Transmission Control Protocol/Internet Protocol (TCP/IP), a global addressing system for sending and receiving packets of data over the Internet.
+VoIP works by converting sound into a digital signal, which is then sent over a data network such as the Internet.
+The conversion is done by a device such as a special VoIP phone or an adapter attached to a traditional telephone, or it is done by any of a number of programs that are installed on a personal computer (PC) or smartphone.
+Regardless of the device used, it must be connected to the Internet through a high-speed, or broadband, connection.
+The digital signal is routed through the network to its destination, usually a second VoIP device, where the signal is converted back to sound.
+A user in Hong Kong communicates with his teacher in mainland China using Skype, a popular VoIP application.
+Skype provides voice, video, and instant message communication over the Internet.
+Richard A. Brooks/AFP/Getty Images
+The principal advantage of VoIP is cost to the consumer.
+Voice communication from PC to PC is frequently free (that is, at no extra charge beyond what the consumer already pays for access to the Internet).
+Most VoIP providers charge a fee for using special Internet phones or for placing a call from a PC to a telephone outside the VoIP network; even in these cases, however, the call usually costs less than it would in standard telephone and long-distance service.
+Another advantage of VoIP, especially when it is used on PCs, is the possibility of combining voice communication with video, instant messaging, and other common PC-based services.
+VoIP also has disadvantages.
+Because of the sometimes fragile nature of Internet connections, calls can be interrupted or their sound quality degraded.
+Another, more persistent, problem arises from the fact that VoIP systems, unlike traditional telephones, are plugged into the electric power grid.
+This means that they often will not work during a power outage (unlike traditional landline telephones, which are powered directly by the PSTN).
+An additional problem with VoIP is connecting to 911-type emergency systems.
+In the United States, the Federal Communications Commission requires VoIP services to provide connections to 911; however, these systems sometimes work differently from conventional 911 systems, and their installation is only optional for the user.
+Several companies provide VoIP service, but the best-known is Skype, which uses computer software of the same name to provide voice, video, and instant message communication over the Internet.
+Luxembourg-based Skype Limited, founded by Niklas Zennström of Sweden and Janus Friis of Denmark, first introduced its VoIP software client in 2003.
+Unlike many VoIP services, Skype used a decentralized, peer-to-peer (P2P) network, in which all connected computers share processing tasks and bandwidth, allowing its capacity to scale in tandem with its user base.
+This P2P technology was retained by Joltid, a company founded by Zennström and Friis, and licensed by the California-based online auction and trading company eBay.
+Because it operated over existing Internet connections and did not require a dedicated network of cables, Skype could offer most core services - including in-network long-distance calling - for free.
+In 2005 Zennström and Friis sold Skype to eBay for $2.5 billion plus an eventual $0.5 billion in incentives.
+Communications services did not fit well within the online auction company’s business, and in 2009 eBay announced plans to sell Skype.
+Zennström and Friis expressed interest in reacquiring the company, but eBay rebuffed their efforts, instead making plans to sell a majority stake in the company to a group of other investors.
+Zennström and Friis quickly filed suit, declaring that the technology behind Skype was only leased to eBay through Joltid and that eBay had violated Joltid’s copyright by making alterations to the source code.
+This threat to the core asset of the service forced eBay to compromise.
+The company agreed to sell 56 percent of Skype to a consortium of buyers and 14 percent to Zennström and Friis for a total of some $2 billion.
+The two founders would receive seats on Skype’s new board of directors, and ownership of the core technology would be transferred from Joltid to Skype.
+Skype is set up with a free software download.
+Customers can use a desktop client, or “softphone,” to make voice and video calls to other Skype users at no charge, using their computer’s speakers and a microphone.
+For a fee, customers may add the capability to call regular telephone numbers or to receive incoming calls from regular phone networks.
+Features such as caller identification, voice mail, and conference calling are available.
+Specialized Skype telephones are available from some manufacturers, and the company has developed software clients to operate on many Internet-enabled smartphones, such as Apple Inc.’s iPhone.
+A Skype user must be connected to the Internet, with the software running, to receive calls, and emergency calling is unavailable.
+There has been one constant in the history of telecommunications - a desire to shrink the distance between two people so as to enable, if not face-to-face communication, then at least voice-to-voice conversation.
+That desire was expressed most concretely by Alexander Graham Bell in the first phone call ever made, in 1876, when he said, “Mr. Watson, come here.
+I want you.”
+Since that time, fewer and fewer Watsons have needed to go physically to their Bells so as to talk or otherwise exchange information.
+Improved telephone sound quality and network speed; the development of such devices as the fax, modem, and videophone; and the spread of smartphones and VoIP have resulted today in large populations being able to communicate by voice or text instantaneously and inexpensively across wide expanses of space.
+What began with a brief phone call more than a century ago has today become a globe-spanning industry focused on bringing one person into contact with another.

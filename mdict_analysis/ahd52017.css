@@ -1,0 +1,137 @@
+.results, .irroots, .idmseg, .pvseg{
+    font-family: Arial, Georgia, Verdana, "Microsoft YaHei","Microsoft JhengHei", sans-serif;
+    line-height: 120%;
+    margin:0em 0em;
+}
+sup{
+    font-family: Arial, Georgia, Verdana, "Microsoft YaHei","Microsoft JhengHei", sans-serif;
+    color:#556;
+    font-size:0.6em;
+    font-weight: normal;
+}
+ol, li{
+    margin:0.2em 0.2em;
+}
+.runseg b{
+    padding:0 0.2em;
+}
+.runseg i{
+    color:#2196f3;
+    font-style: italic;
+}
+.runseg b::before{
+    content:'\274F';
+    font-weight:normal;
+    color:#556;
+    padding-right:0.2em;
+}
+.rtseg b{
+    color:#3F51B5;
+    font-weight:normal;
+    font-size:1.5em;
+    font-family: Georgia, Verdana, Arial, Helvetica, "Microsoft YaHei","Microsoft JhengHei", sans-serif;
+}
+b{
+    color:#3F51B5;
+}
+a{
+    color: purple;
+    text-decoration: none;
+    border-bottom: 1px dotted;
+}
+a.sound, a.arts{
+    border-bottom:none;
+}
+a.sound img{
+    padding:0 0.5em;
+    height:1.2em;
+    width:1.2em;
+    vertical-align: text-bottom;
+}
+a.arts img{
+    max-width: 100%;
+}
+.MinionNew{
+    font-family: "Minion New";
+}
+.idmseg, .pvseg, .notx, .usen, .wrdhst, .etyseg, .syntx{
+    background-color: #fdeef3;
+    margin:0.2em 0.2em;
+    padding:0.2em 0.2em;
+}
+.idmseg{
+    background-color:#FDE6E0;
+}
+.pvseg{
+    background-color:#FFF2E2;
+}
+i{
+    color:#3F51B5;
+    font-style: normal;
+    font-family: Georgia, Verdana, Arial, Helvetica, "Microsoft YaHei","Microsoft JhengHei", sans-serif;
+}
+.usen b i, .notx b i{
+    padding-right:0.2em;    
+}
+.idmseg b i, .pvseg b i{
+    font-family: Georgia, Verdana, Arial, Helvetica, "Microsoft YaHei","Microsoft JhengHei", sans-serif;
+    color:#3F51B5;
+    font-weight:bold;
+    font-style: normal;
+}
+.ds-list i, .ds-single i{
+    color:#3F51B5;
+    padding:0 0.2em;
+    font-style: normal;
+    font-family: Georgia, Arial, "Microsoft YaHei","Microsoft JhengHei", sans-serif;
+
+}
+.syntx i{
+    font-style: normal;
+    font-family: Georgia, Arial, "Microsoft YaHei","Microsoft JhengHei", sans-serif;
+}
+.sds-list{
+    margin-left:0.5em;
+}
+.subject{
+    color:#8b0000;
+    font-style: normal;
+    font-family: Verdana, Arial, Georgia, "Microsoft YaHei","Microsoft JhengHei", sans-serif;
+    border-radius: 0.2em;
+    border:1px solid #8b0000;
+    padding: 0 0.2em;
+}
+.pseg > i:first-child{
+    color:#2196f3;
+    font-family: Arial, Helvetica, Georgia, Verdana, "Microsoft YaHei","Microsoft JhengHei", sans-serif;
+    font-style: italic;
+}
+.seesynonym{
+    color:#673ab7;
+}
+.seesynonym::before{
+    content:'\274F';
+    color:#673ab7;
+}
+.etyseg{
+    background-color: #FAF9DE;
+    font-family: Georgia, Verdana, Arial, Helvetica, "Microsoft YaHei","Microsoft JhengHei", sans-serif;
+}
+.etyseg::before{
+    content: 'ETYMOLOGY: ';
+    font-weight: bold;
+    color: #3f51b5;
+}
+
+.etyseg i{
+    color:#009688;
+    padding:0 0.2em;
+}
+.mainentry{
+    font-size:1.2em;
+    color:#8b0000;
+    font-family: Verdana, Arial, Helvetica, Georgia, "Microsoft YaHei","Microsoft JhengHei", sans-serif;
+}
+.mainentry::before{
+    content:'\261E';  
+}

@@ -1,0 +1,426 @@
+Since prehistoric times people have created tools in order to save energy and perform work faster.
+Computers are sophisticated tools.
+With these machines users can instantly communicate across the globe and learn new skills, create diverse communities, process astronomical data, get news and weather, and buy and sell goods.
+But computers are a recent addition to our history.
+The reason for the evolution of computers is that people wanted to work faster and more effectively.
+A common way of getting more work done is adding more people to a job, yet computers can replace the need for additional workers.
+In addition, there are certain things that computers do much better than humans.
+Yet the human brain is capable of various higher-order thought processes like empathy, creativity, and lateral thinking that are difficult to replicate in a computer.
+The push toward digital computing happened after thousands of years of mathematical advances.
+Math is an ancient field that people have attempted to make easier or faster by inventing various tools.
+But prior to the advent of computers, those tools required a great deal of manual labor for a limited output.
+ Workers in an electronics factory on Penang Island, Malaysia.
+Many historical circumstances outside of commercial developments made computers into an essential tool.
+World War II (1939–1945) raised the question of how to use math to collect information that would gain an advantage over an opponent.
+In that conflict, the British-led spy effort involved translating coded German messages into intelligible language.
+Afterward, during the Cold War and the space race, the United States’ ability to compete in space flight came to the forefront of the world’s attention.
+In the time following the space race up until recent years, computers have become immensely smaller but much more efficient.
+Questions for the future concern whether computers and artificial intelligence will replace humans by learning to outdo us in every task.
+And there are also security concerns about computers becoming more centered in the lives of users.
+Perhaps the lessons of the past can help us determine how to compute the future.
+The computer came from humble beginnings.
+However, its precursors were monumentally important.
+These were the first devices created to store and process large amounts of data.
+They aided us with scientific and mathematical calculations, though they were accessible only to an elite few.
+IT BEGAN WITH CALCULATORS
+The very earliest calculator is the humble abacus.
+The abacus is a system of strings and moving beads that allowed humans to perform bigger calculations than we can with ten fingers.
+Information is stored on an abacus by setting the beads in certain formations.
+Storing information allows the user to perform smaller or subsequent calculations on a different part of the abacus.
+ The humble abacus is the first tool that most closely mimics what computers do for us today.
+The abacus saw use for centuries.
+It is much less commonly used these days within labs or offices, but kindergarten or grade school classrooms might still use it to demonstrate some lower-level math concepts.
+An early form of the slide rule, often regarded as the first successful analog calculator, was developed in 1620 by the English mathematician Edmund Gunter.
+The slide rule was originally used to multiply or divide numbers.
+ An aged, damaged piece of the Antikythera Mechanism from the Archaeological Museum in Athens.
+Between 1642 and 1644, French mathematician and scientist Blaise Pascal created a calculator called the Pascaline.
+He connected a gear system of multiple wheels and cogs to represent scales of ten: the ones place, the tens place, the hundreds place, and so on.
+The positioning of each cog is how it stored data, just as bead positions stored data on an abacus.
+The Pascaline allowed a greater scope of possible calculations than the abacus.
+In a sense it was the first mechanical calculator, and it was very popular.
+Yet it was soon modified by the German mathematician Gottfried Leibniz, who created differential and integral calculus.
+BABBAGE’S ENGINE AND THE BEGINNING OF MACHINERY
+In 1833, Charles Babbage outlined a steam-driven machine called the Analytical Engine.
+It contained input devices, storage (like a hard drive), a mill (or a computing unit), a control unit, and output devices.
+It would have been the size of a train and contained more than 50,000 moving parts.
+ Ada King, Countess of Lovelace, worked with Babbage on the Analytical Engine.
+She is considered the first computer programmer.
+To store data, Babbage proposed that the device would punch holes into paper cards in certain configurations.
+This way of storing data was inspired by the Jacquard loom, which used a similar technique to weave silk.
+Babbage never completed the engine despite working on it for nearly forty years.
+Yet Babbage’s Analytical Engine served as a blueprint for modern computer devices.
+These were initially to be gigantic, inflexible, completely immobile, and prohibitively costly.
+In the 1880s, an American named Herman Hollerith worked on a multi-part machine that would count, sort, and consolidate information stored on punch cards.
+The machine was created with a pre-determined set of perforations.
+A perforated card placed into the machine slid into a board of pins.
+When a pin found a hole, it completed an electrical circuit and transferred the information that hole represented.
+ The Hollerith tabulating machine resembles a bulky and complicated typewriter.
+It was just one segment in a larger machine.
+Hollerith first demonstrated this machine on local city records before he was awarded the contract to handle the 1890 US Census.
+The tabulator was composed of different segments, each of which required a staff of human operators.
+Yet it was able to tabulate the census in only about six years.
+In contrast, the previous census had taken more than seven years to tabulate by hand.
+In 1896, Hollerith founded the Tabulating Machine Company to begin mass production of such machines.
+In the 1900s it eventually became part of the International Business Machines Corporation, or IBM.
+NEW, OFFICIAL STANDARDS
+Perforated cards would go on to be the standard for computer input for decades.
+Perforated cards are also the basis of what might be called the first search engine.
+Called the Mundaneum, a “city of knowledge,” it was built by a Belgian man named Paul Otlet in 1930, with help from the Belgian government.
+The Mundaneum was an ambitious project for its time: Otlet had previously devised the Universal Decimal Classification (UDC) system with nine categories (for example, literature, mathematics, and natural science), and more than 70,000 subdivisions.
+Now he attempted to build an actual engine for searching through data, a physical version of what our Internet search engines do today.
+Including 15 million cards placed in catalog drawers, Otlet’s Mundaneum would eventually house multiple forms of media including paper, microfilm, and photos.
+American Telephone and Telegraph (AT&T) and other communications companies established networks of telephone, telegraph, and even telautograph connections in the late 1800s and early 1900s.
+In some ways these early electronic connections were distant ancestors to the Internet.
+ANTIKYTHERA ANOMALY
+One bizarre example of early tools is the Antikythera Mechanism.
+This device was aboard a ship that sank off the coast of Greece around 1000 BCE.
+The various dials and gears on its surface look complicated, but historians are unsure of its true purpose.
+Some believe the Greeks used it for astronomical calculations.
+The Antikythera Mechanism is an anomaly because we can’t seem to trace a clear line of predecessors or successors to its technology in ancient history.
+It wasn’t until the 1500s CE that something remotely as sophisticated as this device was created.
+In the 1930s, the story starts to shift.
+New technological advancements began to come from larger teams of researchers.
+Governments funded more of their work for the purpose of computing advancements because these sophisticated machines would simply be too complicated for a single person to do it all.
+By the late 1930s, computer scientists had yet to agree on the underlying language and logic of a computer.
+Many models of computer language were available, but only a few rooted in numbers were good candidates.
+They needed specific mathematical instructions in order to function.
+MODEL K
+Bell Laboratories scientist George Stibitz figured out a workable model for computer languages in 1937.
+Stibitz demonstrated that an on/off switch would be a sufficient foundation.
+He took some relays and a light bulb home from work and created the switch on his kitchen table over the weekend.
+He called it the Model K. That same year, the Model 1 Complex Calculator was built on this design, and binary became the foundational language for computer communication and storage of information.
+ Bell Laboratories developed early computers, like this calculator used by a technician in the US Air Force in 1957.
+Since every switch can only be one of two options - switched on (“1”) or switched off (“0”) - this language is called binary.
+A branch of mathematics called binary algebra is used to calculate and convert numbers from base-10 numbers into binary numbers.
+Letters are also converted, essentially translating human languages into computer language.
+SOLVING THE ENIGMA MACHINE
+An arms race drove computer technology during World War II.
+At the same time, technological innovations transformed the character of war itself through weaponry and espionage.
+War also requires reliable communication and coordinated effort, which computers can provide.
+One of the most important breakthroughs that came out of World War II was the Bombe machine, which decoded secret communications.
+German military messages were written in a secret code using Enigma.
+Enigma was a relatively small and very portable machine that looked like a typewriter.
+However, a set of constantly rotating wheels inside the machine encoded the message with a different cipher on each letter typed.
+This meant that even typing a repeating string of letters like “BBBBB” could result in a jumbled text like “CEHAJ.”
+Additionally, commanding officers decided a new set of starting positions (and thus, completely different ciphers) every day.
+As a result, German communications that the British side intercepted remained unreadable for the early part of the war.
+The lack of information set the British up for massive losses.
+ The US made a version of the Bombe.
+It was taller and much wider than a person.
+Ultra, a British intelligence unit, was tasked with decrypting Enigma.
+In 1940 Alan Turing implemented the Bombe machine to do so.
+It was a complex machine with about 100 rotating drums, 10 miles (16 km) of wire, and one million soldered connections.
+Yet, it still needed some human intuition to operate.
+The operator had to make educated guesses about some of the words that would help the machine determine the starting positions of each Enigma wheel for that day.
+The machine would then run through various ciphers to determine one that would yield plain German text.
+This method succeeded, and eventually more and more Bombes were built to decrypt the Enigma messages.
+ This slate statue of Alan Turing currently stands at Bletchley Park, Milton Keynes, Britain.
+IMITATION: TUNNY’S CHALLENGE
+The most important and top-level German communications were encrypted in a machine called Tunny.
+Similar to Enigma, a machine resembling a typewriter encrypted each key press and converted it to binary - much like typing on a computer keyboard today.
+The machine then jumbled the message with random letters in binary, resulting in a garbled text.
+Turing’s Bombe was useless to decode Tunny.
+But an engineer named Thomas Flowers met the challenge by creating a machine named Colossus.
+Ten machines were installed, each of which used as many as 2,500 vacuum tubes.
+A series of pulleys pulled continuous rolls of punched paper tape that contained possible solutions to code.
+Historians believe the cryptographic breakthroughs of the Bombe and Colossus shortened the war by years.
+SHIFTING TO AUTOMATING COMPUTERS
+Another significant machine that came from research during the war was the Electronic Numerical Integrator and Computer, or ENIAC.
+This was the first programmable, fully electronic digital computer.
+Under contract by the US Army, work on ENIAC began in early 1943.
+ENIAC was designed specifically for artillery targeting.
+Since it was created for this purpose it lacked other features that would have made it generally more useful.
+ The ENIAC takes up an entire room.
+The device used plug boards to communicate instructions.
+Plug boards provided the advantage that once programmed, ENIAC ran at electronic speeds.
+However, each new problem required the machine to be completely rewired, and that reprogramming could take days to accomplish.
+Despite its shortcomings, ENIAC was the most powerful calculating device built at the time.
+It was capable of performing 5,000 additions per second, or many times more than what its predecessors could do.
+And, it certainly looked massive and powerful, occupying the 50-by-30-foot (15-by-9-meter) basement of the Moore School at the University of Pennsylvania.
+It consisted of about 18,000 vacuum tubes, 70,000 resistors, 10,000 capacitors, 6,000 switches, and 1,500 relays.
+It was the most complex electronic system in existence.
+As the world began rebuilding itself after World War II, research for computing began to diversify towards more commercial and scientific uses, though most initial advances were beneficial to the military.
+The world settled into an uncertain time called the Cold War in which the two superpowers, the United States and the Soviet Union, were in close and hostile competition.
+The Cold War was partly fueled by the fact that only these two countries could devote so many resources to their militaries.
+Both pumped money into computer research and development as well.
+COMMERCIALIZING COMPUTERS
+In this era, computers were still massive and extremely costly and required many people to operate and maintain.
+As such, it was mostly powerful corporations, university laboratories, and governments that used computers.
+Computers were still too costly and unwieldy for average people to have in their own homes.
+Yet, 1950 saw one of the first commercially produced computers, the ERA 1101.
+The US Navy was the ERA Company’s first customer for the 1101.
+It was designed by ERA but built by the Remington Rand company.
+The device came with a magnetic drum capable of storing one million bits.
+This was one of the earliest magnetic storage devices.
+Magnetic storage was superior in terms of speed of access and cost, and it became the new industry standard for data storage.
+ These US Air Force technicians are hard at work on a UNIVAC computer system in 1951.
+In 1951 another Remington Rand product hit the market.
+Designed by J. Presper Eckert and John Mauchly (who had invented the ENIAC), the Universal Automatic Computer, or UNIVAC 1, used 5,000 vacuum tubes and weighed thousands of pounds or kilograms.
+Instead of binary code, though, it used base-10 code.
+It could read 7,200 decimal digits per second, making it the fastest business machine yet built.
+The first was delivered to the US Census Bureau in 1951.
+Eventually, Remington Rand sold forty-six UNIVAC 1 units for over $1 million each.
+Adjusted for inflation, each unit would cost about $10 million dollars today.
+The UNIVAC 1 was the first commercial computer to attract widespread public attention.
+Its main users were the US Census, insurance and utility companies, and the US military, but its general versatility proved it useful for various projects.
+For instance, one scholar used the UNIVAC 1 to compile a King James Bible.
+Meanwhile in England, J. Lyons & Company introduced the LEO-1.
+The company had the LEO-1 built to solve a problem.
+The company had trouble scheduling production time and delivery of cakes to hundreds of Lyons teashops all over England.
+With the LEO-1 the company successfully managed production and delivery challenges.
+Afterward the company decided to focus on computer production as a means of meeting the demand for data processing systems.
+REIMAGINING HOW COMPUTERS FUNCTIONED
+In 1952 the ENIAC computer was modified by John von Neumann and a team of researchers at Princeton University’s Institute for Advanced Studies (IAS), which Albert Einstein had helped open.
+Applying theories Von Neumann first outlined in 1945, they made the first computer that could store data and instructions at the same time.
+Called the “stored program concept,” it presented a new level of sophistication for computers.
+The stored program concept was a precursor to the operating system.
+ John von Neumann (right) did much pioneering work in areas such as logical design of computers and methods of programming.
+IBM also made major contributions in this decade.
+In 1953 it began selling the first IBM 701, mainly to corporations, the military, and government agencies.
+Then, in 1954, the IBM 650 was released.
+The magnetic drum in the IBM 650 spun at 12,500 rounds per minute, the fastest rate achieved at that point.
+It could also read punched cards at the rate of 200 per minute and show results by producing its own punched cards at a rate of 100 per minute.
+This meant data could be accessed at much faster speeds than other such devices.
+And when random processing errors occurred, the model 650 was often able to rerun portions of code automatically to fix the errors.
+With nearly 2,000 units sold by 1962, the IBM 650 was popular among businesses and universities, and many students first learned programming on this machine.
+In the mid-1950s, researchers at MIT began experimenting with direct keyboard input into a computer.
+Thus far, people had to program computers with punch cards or paper tape.
+Doug Ross, a computer scientist at MIT, wrote a memo that advocated for the use of keyboards for input.
+Five months later, a successful experiment demonstrated the advantages of using a keyboard, which later became the new industry standard.
+In 1961, MIT also developed the LINC (Laboratory Instrument Computer), the first computer that was meant to be used by a single person instead of a team.
+In 1966, the Hewlett-Packard Corporation (HP) created the 2116A. It was a device used primarily for laboratory testing and experimentation, but it looks very similar to home computers we use today.
+HP designed it to be a versatile controller for various test and measurement instruments.
+It used integrated circuits, which condense the amount of space required to build the heart of a computer.
+THE SPACE RACE
+The space race was another key source of pressure for computer researchers.
+One of the key computing breakthroughs in service of the space race was the Apollo Guidance Computer (AGC).
+Scientists and engineers at the MIT Instrumentation Laboratory miniaturized the machine that would navigate the spaceship carrying astronauts to the moon in 1969.
+ Edwin “Buzz” Aldrin walked on the moon on July 20, 1969.
+They successfully condensed a computer the size of several refrigerators end-to-end into a compact device of 70 pounds (32 kg) that occupied less than one cubic foot of space.
+It was also one of the earliest devices to use integrated circuits and a core memory, much like computer motherboards today.
+It proved reliable and sturdy on various Apollo missions.
+ NASA mathematician Katherine Johnson working at her desk in the Langley Research Center in 1962.
+“HIDDEN” ROLES OF WOMEN
+Many pivotal figures behind the space race were women like the three brilliant African Americans featured in the 2016 movie Hidden Figures.
+The mathematician Katherine Johnson calculated flight paths and launch windows for various missions, including John Glenn’s first orbit around the Earth and, in 1969, the Apollo 11 landing on the moon.
+Dorothy Vaughn was a mathematician who became the first African American manager at NASA.
+And their colleague Mary Jackson worked at NASA for thirty-four years, earning the most senior engineering title available.
+Meanwhile, a white computer engineer named Margaret Hamilton wrote software to detect system errors - work that was crucial during the Apollo 11 mission.
+There is an iconic picture of her standing next the stack of paper that was essentially the first software program ever coded - it was as tall as she was!
+At NASA and in computer labs elsewhere, many other women operated punch card systems or helped build computer cores by threading copper wires into them.
+In the late 1900s computers started to become available to wealthy individuals, and then gradually to middle-class households.
+This shift occurred as computers became smaller and economical enough to be sold as consumer goods, especially in North America, Europe, and Japan.
+By the 1990s computing finally became affordable and easy enough for average people to use.
+Additionally, computing started diversifying into a wide range of fields.
+Transistors and miniaturization drove much of the ongoing changes.
+In 1965 the US engineer Gordon Moore predicted that the number of transistors per silicon chip would double every year.
+Some thought the prediction was too optimistic, so he revised it to every two years.
+His prediction, which is called Moore’s Law, has proven true into the twenty-first century as computers keep running more efficiently every two years.
+THE OPERATING SYSTEM ARRIVES
+One development that has kept pace with rapid change is the operating system (OS).
+Essentially, an operating system interacts with both the user and the hardware, making a computer more user-friendly.
+An early OS was in the LEO-1 in England.
+Another was AT&T’s UNIX, which was released in 1969 and was adopted widely by schools and universities.
+ Bill Gates cofounded Microsoft, the world’s largest personal-computer software company.
+In the 1970s the Intel corporation made various breakthroughs, including developing the microprocessor.
+In 1971 Intel released the 4004, originally designed for a Japanese calculator.
+It contained 2,250 transistors and was capable of 90,000 operations per second.
+In 1972 it released the Intel 8008 which used an eight-bit central processing unit (CPU) and roughly doubled the capacity of its predecessor.
+The Intel 8080, which was ten times faster than the 8008, came two years later.
+ Nolan Bushnell, cofounder of Atari, pictured with a robot in his home workshop in Woodside, California
+A COMPETITIVE DECADE OF COMPUTING
+In 1976 Steve Jobs and Stephen Wozniak founded Apple Computer, Inc. In that year, Apple released the Apple-1 single board computer.
+The next year they released the Apple II, a far superior product.
+It supported color graphics and had a plastic case, unlike the plain steel boxes of other computers.
+It also added a low-cost floppy disk drive that made information storage and retrieval fast and reliable.
+The Apple II was the first computer that appealed to the average person, rather than just the electronics enthusiast.
+The first explicitly designed home computer by IBM was created in 1981.
+The Model 5150 was based on the Intel 8088 microprocessor.
+Its release marked a turning point in computing history.
+It inspired many copycats and began the practice of a device’s “ecosystem” of supporting peripherals, software, and other commodities for a platform.
+The first operating system that really resounded with the general public was Microsoft DOS, released in 1981.
+It shipped with every IBM PC in the 1980s, as well as most other PCs.
+The Osborne 1 was released the same year as the IBM 5150.
+It weighed 24 pounds (11 kg) and cost $1,795.
+It was the first mass-produced portable computer - though it did not have a battery and needed to be plugged in.
+The price was actually competitive for the time, and it was made more palatable by the fact that valuable software was included with the purchase.
+ An early photo of Steve Jobs, cofounder of Apple, at the West Coast Computer Faire in 1977
+Apple was also the first computer company to popularize a graphical user interface (GUI).
+In 1983 Apple shipped the Lisa, which had a GUI.
+One year later, Apple released the Macintosh after introducing it in a Super Bowl commercial.
+It proved to be the first successful mouse-linked computer with a GUI, and it cost $2,500.
+The computer shipped with MacPaint and MacWrite, likely providing the first public exposure to word processing software in the world.
+Apple steadily improved the Mac, adding an affordable laser printer in 1985.
+Together with Aldus Corporation’s PageMaker page-layout software, this innovation launched the desktop publishing revolution.
+Suddenly, any Mac user could produce professional-looking brochures, reports, and letters easily.
+The graphic arts and publishing industries became the Mac’s single most important market.
+Microsoft followed Apple’s lead by developing its own GUI, which it called Windows, in 1985.
+These GUIs appealed greatly to average users and became the new standard going forward.
+In 1985, Commodore debuted the Amiga 1000, selling it for $1,295.
+It boasted audio/video capabilities greater than its competitors.
+The computer interfaced easily with other hardware and attracted a loyal following among musicians and artists.
+The next year Compaq announced the Deskpro 386, a computer with the new Intel 80386 chip.
+The 80386 was a 32-bit microprocessor with 275,000 transistors on each chip.
+It was capable of about four million operations per second.
+IBM responded in 1987 with the Personal System/2 machine, IBM’s first machine to include the 80386 chip and a mouse (by again following Apple’s lead).
+The PS/2 also included the OS/2, a new computer operating system.
+THE COMPUTER ARMS RACE CONTINUES
+Intel unveiled the next evolution of chips in 1989, the 80486 microprocessor.
+It contained more than one million transistors.
+The architecture of the chips was similar to the 80386, but what set it apart was its instruction set.
+Essentially, each component of the chip was placed in optimal positions related to each other.
+The result was a doubling of the performance.
+In 1990, the Intel Touchstone Delta computer system came online.
+This was a prototype for new supercomputers used for advanced mathematical models, needed for high-level science problems such as studying transportation systems, simulating molecular models in AIDS research, real-time processing of satellite images, and analyzing the human impacts on Earth’s changing climate.
+The Touchstone Delta could perform a staggering 32 billion operations per second.
+Intel released its Pentium processor in 1993.
+The Pentium introduced several features.
+It had the ability to execute several commands at once so programs ran much faster.
+It also came with graphical and music support, which became the new industry standard.
+Computers had previously required a package of supporting hardware to display graphics.
+EARLY VIDEO GAMES
+Video games are computer software designed and run specifically for entertainment.
+One of the first video games, Spacewar!,
+was created in 1962 at MIT.
+Many other early video games were text-based, with brief descriptions and choices to be made rather than graphical displays.
+After Atari developed the simple game Pong, Atari and other companies sold large gaming consoles to video arcades.
+A smaller console for home use, the Atari 2600, was released in 1976 and cost $199.
+Taito’s Space Invaders (1978), Atari’s Asteroids (1979) and other games gained fame as graphical displays grew sophisticated.
+Popular video arcade games in the 1980s included Pac-Man, Centipede, Dig Dug, Frogger, Galaga, Donkey Kong, Ms. Pac-Man, Mario Bros., Pole Position, and Star Wars.
+Most games were pixilated until Dragon’s Lair (1983) included graphics looking like a real cartoon.
+And not all were simple escapism: Missile Command (1980) was a grim reminder of the dangers of nuclear war - the game always ended in total destruction.
+Atari developed various other consoles and games for the home market, as did competitors such as the Commodore 64 and ColecoVision.
+Many home games were loose copies of arcade games.
+But Nintendo caused new waves in the home market when it released Super Mario Bros. and Tetris in 1985.
+The Sega Genesis (released in 1988) and the Super Nintendo (1990) also brought innovations.
+In the 1990s the home market transformed further with a switch from 16-bit to 32-bit systems and new offerings from Sega, Sony PlayStation, Nintendo, and Xbox.
+THE RISE OF THE INTERNET
+Today the Internet is so vast that it is almost taken for granted.
+Using WiFi, fiber-optics, and telephone systems we connect our smartphones, gaming systems, tablets, laptops, and more.
+This network has rapidly changed the history of computers, especially in recent years.
+But its roots trace to the 1960s.
+During the Cold War, amid fears of a nuclear attack from the Soviet Union, the US military built an expensive ($61 billion) system of 23 linked computers to track incoming aircraft.
+Then, while crafting plans to survive a nuclear attack, in 1969 it created the Advanced Research Projects Agency Network, or ARPANET.
+This used telephone lines to network computers at research institutions.
+Yet it grew beyond military purposes.
+During its first ten years, with funding from the Defense Advanced Research Projects Agency (DARPA), ARPANET users experimented with file transfer protocol (FTP) and network control protocol (NCP) - the basis of the modern Internet, as these allowed ARPANET and other networks to communicate with one another.
+After the first email program was created in 1971, ARPANET saw email discussion lists such as SF-LOVERS, which was dedicated to science fiction fans.
+Yet large massive mainframes continued to be the chief computers in the network.
+ARPANET was finally shut down in 1989 as commercial online services like Prodigy, Usenet, Gopher, and many others were connecting personal computers by the thousands.
+Then, in 1992 Tim Berners-Lee ushered in an explosive era of Internet growth with his creation of the World Wide Web.
+Today computers are found everywhere and in many shapes, sizes, and functions - even where they are not needed.
+Even simple operations are computerized, from automatic cat feeders to garage doors and house lights.
+In some fashion, people can use computers to help with almost anything.
+They can provide us with millions of useful resources, including GPS locations on maps (to help us find a store or a house using our smartphones, for example).
+They can also enhance photos, diagnose problems in an engine, and help drive cars with accident-avoidance warnings.
+They can make toys and household appliances more interactive.
+Computers can also control security cameras while making thousands of hours of video recordings - in contrast to the handful of hours that old videotapes could record.
+Take knitting as another example: as a hobby, it does not involve computers, although thread and needles are produced by computerized factories.
+However, a hobbyist hoping to make some money from knitting may use a website as an online storefront.
+That knitter also might seek out peers or advice by visiting online knitting forums or social media circles.
+Safety and security are double-edged swords in the computer world.
+If everything has some kind of digital connection, those connections may also monitor users.
+Computers are capable of hiding functions from the user, especially in applications called “cookies” which gather data for marketing purposes.
+Some marketing data might be used to help serve consumers by tailoring product suggestions such as grocery lists or video and music selections for each user.
+But that data can become a tool of surveillance.
+Users’ habits, real-time movements, purchases, energy usage, and even embarrassing moments on social media can all be saved and tracked.
+Technology is moving toward even smaller and more efficient devices that will impact humanity in poorly understood ways.
+THE FIRST POCKET COMPUTER
+In 1996, Palm Computing, Inc., introduced the Palm Pilot to the public.
+This was the first small-scale mobile computing device, and it was an instant hit.
+The Pilot introduced syncing, or coordinating files, schedules, and other data between a user’s mobile device and their main computer.
+This allowed users to easily coordinate and update their work.
+ Early personal digital assistants (PDAs) came with a stylus to navigate the screen before touchscreens were developed.
+The same year, Sony launched its VAIO line of personal computers, which soon included laptops.
+They were known best for audio/video and communications capabilities; some early VAIOs shipped with such features as a radio/TV tuner, a 3D interface, handwriting recognition, and a web camera.
+Japan’s J-Phone Group (later SoftBank) released the J-SH04, manufactured by Sharp, in 2000.
+It was the first phone to include a camera.
+It had a maximum resolution of 0.11 megapixels, a 256-color display, and the ability to share photos wirelessly.
+This heralded the beginning of the consolidation of digital devices.
+Other manufacturers quickly adopted this integration, and it soon became the industry standard.
+In 2002, the world’s fastest supercomputer, the Earth Simulator, became operational in Japan.
+It was commissioned by the Japanese government to model, or simulate, global climate change.
+It cost nearly $600 million dollars.
+To protect the machine from Japan’s frequent earthquakes, the building housing the Simulator has rubber supports to cushion and isolate it from seismic activity.
+Another landmark year in technology was 2007.
+It was the year that Amazon released the Kindle e-reader, which became massively popular.
+E-readers had been created previously in the 1990s, but the Kindle was the first to be commercially successful.
+Amazon apparently had not anticipated so much success, so there was a huge delay after its initial sale as it struggled to restock the Kindle.
+Later versions would include color screens, direct access to the Amazon store, and audio/video capability.
+Newer versions, such as the Kindle Fire, can be used for video games and social media, too.
+ Amazon founder Jeff Bezos introduced the Kindle Fire on September 28, 2011, in New York City.
+The other big development of 2007 was the Apple iPhone.
+It resulted from a plan to combine all digital devices into a single unit: it was a phone, camera, and music player.
+It also invited additional functions through apps (applications), which could be designed by other companies or individuals.
+The iPhone was also the first popular mobile device to use a touchscreen rather than just buttons.
+The iPhone convinced users that smartphones could begin to do anything computers could do.
+It also established Apple’s market dominance in the coming years.
+HAS ARTIFICIAL INTELLIGENCE ARRIVED?
+One buzzword that the technical community has been exploring is artificial intelligence (AI), or the ability of a computer or computer-controlled robot to perform tasks associated with intelligent beings.
+Since the mid-1900s, scientists have attempted to develop a system capable of these kinds of tasks.
+From this point of view, people have studied AI with game playing (beginning with chess), natural-language comprehension, and fault or error diagnosis.
+Computers can be programmed to perform these and other complex tasks, but there are as yet none that can match human flexibility over wider domains or in tasks requiring much everyday knowledge.
+However, companies like Apple and Google are attempting to push the boundaries of AI with smartphone “helper apps” and devices meant to eventually pilot drones or drive cars.
+ A Bosch-designed prototype of a driverless car displays tracking information on a dashboard console.
+The earliest substantial work in the field of AI was done by British mathematician and computer pioneer Alan Turing. (
+This was after his codebreaking during World War II.)
+In 1950 Turing declared that one day a machine could duplicate human intelligence in every way and prove it by passing a specialized test.
+In this test, a computer and a human hidden from view would be asked random identical questions.
+If the computer were successful, the questioner would be unable to distinguish the machine from the person by the answers.
+On June 7, 2014, a computer program called Eugene Goostman became, arguably, the first to pass the Turing Test.
+It achieved this feat at the Royal Society in London by convincing a third of the judges that it was a human.
+However, certain aspects of the methodology of the test, including its short length, called into question whether or not it was a true Turing Test.
+Because the final goal of AI is to create computers that can “think” as humans do, some have begun trying to pattern computers after the human brain, which essentially consists of a network of millions of nerve cells called neurons.
+The first, though very basic, artificial neural network was developed in 1954, when many shared the goal of “strong AI,” or a system that approaches human intelligence.
+In the early 2000s, artificial neural networks were capable of an array of sophisticated tasks, including recognizing faces and other objects.
+In addition, facial recognition features spread across social media such as Facebook, and in 2017, Apple released an iPhone designed to recognize a user’s different facial expressions.
+Yet the early optimism over strong AI gave way to an appreciation of the extreme difficulties involved.
+Some AI researchers have asserted that computers should be developed to function in a simpler real-world environment - more like insects than humans.
+This approach, known as “nouvelle AI,” was pioneered by the Australian scientist Rodney Brooks while working at MIT.
+Brooks built a robot called Herbert to roam an office space, collect empty soda cans, and discard them.
+Since Herbert was unveiled in the late 1980s, Brooks and his students have designed other robots to clear minefields and explore Mars.
+They also built a “humanoid” robot named Cog capable of learning incrementally from its surroundings.
+In late 2017, social media and TV shows featured “Sophia the robot.”
+On television she seemed to tell various jokes, and she defeated Jimmy Fallon in a game of rock, paper, scissors.
+Her face also appeared to mimic human expressions.
+Sophia gained even more publicity when Saudi Arabia claimed that it granted her honorary citizenship.
+It also helped that she was designed to look like the glamorous twentieth-century actress Audrey Hepburn.
+And yet, one of Sophia’s engineers acknowledged she did not have human-level intelligence.
+Meanwhile, some observers dismissed her as either “a cleverly built puppet” or “a work of art.”
+Whether Sophia could (someday) possess true AI or not, the debates over her status as a “citizen” indicated that society might treat AI robots as a separate category of beings, in terms of gender and religion especially.
+THE FUTURE OF COMPUTERS
+The latest advancements in computers blur the line between reality and science fiction.
+In August 2017, researchers at the University of Washington announced a study showing how malware could be spread through human DNA.
+They had successfully written computer code into genetic code to transport and later spread malicious computer software to gene sequencers (programs that analyze DNA).
+Luckily, this was an instance of researchers determining if such a security breach was possible.
+It wasn’t an actual malicious attack.
+Another important trend is the increased sharing of files.
+In other words, computer hardware is becoming less essential to perform many tasks.
+Some refer to their use of Internet storage as “the cloud.”
+But if we want to use the Internet as a true “cloud” for storage and computing, we could also share or rent computing power.
+This means that a person can run games or calculations on data servers across the world, and multiple computers and users can link their work together.
+Such linked computers could perform work far beyond the capacity of even supercomputers.
+This is the intention of massive cloud-based projects such as one by SETI (Search for Extraterrestrial Intelligence), involving home computers in the shared analysis of large amounts of complex astronomical data from telescopes and space probes.
+Another way physical reality is being outdone is the emergence of virtual reality.
+This is a new frontier of technology: we may now consume media in a completely 3D digital environment.
+For virtual reality, a computer superimposes an interface directly into your field of vision and allows you to supplant reality with additional information.
+Or it may override “reality” altogether.
+Google Glass puts an overlay right in front of a person, and smartphone apps like Pokémon Go!
+add another element to the world, as a video game on a phone’s screen.
+Beyond Google Glass, other wearables present a space where technology can be added to the human form.
+In the field of medicine, for instance, the prosthetics of the past were fastened onto a person’s arm or leg with straps and had limited movement options.
+But new prosthetics or medical equipment can connect directly to a person’s nerves.
+For example, mind-controlled prosthetic arms allow their users to move the prosthetic; meanwhile, they can also feel and recognize what the prosthetic hand touches.
+ Werner Witschi tests the prosthetic VariLeg system at the Swiss Federal Institute of Technology.
+The VariLeg provides support and motorized control of both legs.
+Instead of only attaching technology to us in a cyborg fashion, someday we may insert ourselves completely into technology.
+This kind of “uploaded” existence would mean living in ways that have only been imagined, so far, by science fiction.
+In our quest for greater abilities (such as enhanced memories), health, or even immortality, we might become a society of beings who can be completely uploaded or implanted into computers.
+If or when that kind of world occurs, we would have to deal with even more security and maintenance concerns, as well as questions regarding the meaning of human life itself - owing to our drive to become one with technology.
+ARTS AND ENTERTAINMENT
+Overall, computing has a huge impact on the arts.
+Computer graphics and video games have influenced creative thinking in many ways.
+Traditional art forms have also evolved, as artists flock to the computer to manipulate views and display millions of colors with great clarity.
+Musicians may plug in instruments and synthesizers using software to manipulate compositions.
+Sculptors have begun to experiment with 3D printers - even as medicine and engineering have pushed the edge of this evolving technology.
+The mixing of media - that is, multimedia combinations of sound, video, still photographs, and text - has also opened up new avenues in art, medicine, government, business, literature, and science.

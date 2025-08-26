@@ -1,0 +1,493 @@
+INTRODUCTION
+The concept of homeostasis - that is, that all living organisms maintain a constant internal environment - was first suggested by Claude Bernard.
+Bernard was a nineteenth-century French scientist who studied the ways that organisms function.
+As originally envisioned by Bernard, homeostasis applied to the struggle of a single organism to survive.
+The concept was later expanded to include any biological system from the cell to the entire biosphere, all the areas of Earth inhabited by living organisms.
+Based on core differences in their cell structure, living organisms can be divided into two major groups - prokaryotes and eukaryotes.
+Bacteria and archaea are prokaryotes.
+Animals (including humans), plants, fungi, and protists are eukaryotes.
+All living organisms, despite their uniqueness, have certain biological, chemical, and physical characteristics in common.
+All are composed of the same basic units, or cells.
+They have the same chemical substances, which, when analyzed, exhibit noteworthy similarities, even in such differing organisms as bacteria and humans.
+Because the action of any organism is determined by the manner in which its cells interact and because all cells interact in much the same way, the basic functioning of all organisms is also alike.
+ TOP LEFT: A eukaryotic cell contains a cell membrane, cytoplasm, a nucleus, and organelles, which carry out important cellular functions.
+Alila Medical Media/Shutterstock.com
+ TOP RIGHT: A prokaryotic cell (such as a bacterium) does not contain a nucleus or organelles.
+The structure of a typical prokaryotic cell includes a cell wall, a plasmid, and flagella, among other features.
+Alila Medical Media/Shutterstock.com
+ BOTTOM LEFT: As a eukaryote, a plant cell contains membrane-bound organelles.
+It also has a cell wall that surrounds the cell membrane and chloroplasts, which contain chlorophyll.
+snapgalleria/Shutterstock.com
+A common origin of life would explain why in humans or slime molds - and in all forms of life in between - the same chemical substance, deoxyribonucleic acid (DNA), accounts for the ability of all living matter to replicate, or copy, itself exactly and to transfer genetic information from parent to offspring.
+The means for this transfer follow a pattern that is similar in all organisms.
+The life processes of every organism are carried out by specific materials assembled in definite structures.
+Consequently, a living organism can be defined as a system, or structure, that reproduces, changes with its environment over a period of time, and maintains its individuality by constant and continuous metabolism.
+To maintain life, an organism repairs or replaces (or both) its structures by a constant supply of the materials of which it is formed.
+It also keeps its life processes in operation by a steady supply of energy.
+A major contributing part of an organism’s survival is the functioning of its cells.
+CHAPTER 1
+CELLS AND CELL MEMBRANES
+Cells are always busy.
+Even when an animal is at rest or sleeping, some form of activity is taking place in the body’s cells.
+For a long time, scientists have been trying to determine the number of cells that make up the human body.
+Some researchers estimate that there are 100 trillion cells in the body, but more recent studies put the estimate closer to 37.2 trillion cells.
+All these cells work to keep an individual breathing, energized, fed, and alive.
+Cells themselves are living structures.
+The English scientist Robert Hooke first described cells and published his work Micrographia about his findings in 1665.
+He had sliced thin sections of cork to examine under a microscope that he had designed.
+He saw tiny, boxlike units making up the cork.
+Hooke called these structures “cells” because they reminded him of monks’ cells, or very little rooms, in a monastery.
+He described similar structures in the tissue of other trees and plants and discerned that in some tissues the cells were filled with a liquid while in others they were empty.
+He therefore supposed that the function of the cells was to transport substances through the plant.
+ Robert Hooke’s drawings of the cellular structure of cork and a sprig of sensitive plant appeared in Micrographia (“small drawings”).
+He was the first scientist to use the word “cell” to describe the honeycomb characteristic of cork.
+Photo Researchers/Getty Images
+Cells are the smallest known units of life.
+Cell size is usually measured in microns (µm).
+A micron is equal to about one millionth of a meter and about 25,000 microns equal 1 inch (2.5 centimeters).
+The diameter of the average human cell is roughly 10 microns, making it invisible to the naked eye without a microscope.
+Nothing smaller than a cell conducts the basic functions associated with living.
+These functions include the ability to take in nutrients and metabolize them.
+Other functions are synthesizing molecules, providing the cell’s own energy, and replicating itself to produce succeeding generations.
+A CELL’S BARRIER: THE CELL MEMBRANE
+Cells can be compared to the structure of the human body itself.
+Human bodies are covered with a protective skin that lets certain substances enter and exit.
+The cell membrane serves much the same purpose.
+It protects the contents of a cell and, similar to a gatekeeper, regulates what enters and exits the cell membrane.
+A cell could not exist without a membrane, just as humans and animals could not survive without skin.
+ The cell membrane contains proteins that transport ions and water-soluble molecules into or out of the cell.
+Some molecules are able to freely diffuse across the membrane.
+Others must cross through special protein channels via active transport.
+Encyclopædia Britannica, Inc.
+Cell membranes are composed of a continuous double layer of phospholipids, which are fatty substances not that much different from fats and oils that are used for cooking foods.
+Under a microscope, a single phospholipid molecule looks a bit like a clothespin.
+Imagine two rows of clothespins lined up with the pointed ends all facing toward the middle.
+That is what the basic arrangement of a cell membrane looks like, except that the fatty molecules are suspended in a fluid structure.
+This suspension enables them to move around without losing their overall shape.
+Similar to how a person’s skin contains various pores and openings, the cell membrane has thousands of openings that control the flow of substances in and out of cells.
+These structures include receptors, channels, ports, and pumps.
+The latter three mainly allow for the easy movement of small, essential molecules, such as water and carbon dioxide, into cells.
+Cell membranes are selectively permeable - that is, some substances can pass through them but others cannot.
+Being semipermeable enables the cell to admit or block substances from the surrounding fluid and to excrete waste products into its environment.
+Substances pass through the cell membrane in several ways.
+Small, uncharged molecules, such as water, pass freely from the side of the membrane where they are in higher concentration to the side of lower concentration.
+This movement is called diffusion. (
+When the concentration is equally distributed on both sides, the system has attained equilibrium.)
+Other materials, such as ions (charged molecules) and certain other substances, must be transported across the membrane through channels.
+Channels are proteins embedded in the membrane which form pores that are regulated by chemical signals from the cell.
+This process is called facilitated transport.
+There are two forms of facilitated transport: passive and active.
+Passive transport occurs when molecules such as glucose or certain ions enter the cell through specific channels, traveling from the side of the membrane where they are in higher concentration to the side of lower concentration.
+The process is called “passive” because it does not require energy.
+Active transport occurs when molecules enter the cell from an area of lower concentration to one of higher concentration.
+These substances must be “escorted” across the cell membrane, requiring the cell to spend energy.
+Chemical signals in the cell control active transport by signaling the membrane channels when to start and when to stop the process.
+Osmosis is an example of passive transport.
+Osmosis occurs when a liquid substance permeates into another area to maintain a balanced concentration of liquid in both areas.
+It allows a cell to equalize its liquid concentration, which mostly consists of water, with the liquid concentration found outside the cell.
+Cells use a similar process to keep oxygen and carbon dioxide amounts in check.
+Because of passive transport, it would be impossible for a cell to fill with oxygen and burst like a balloon, which does not have a permeable exterior.
+ In this example of osmosis, a sugar solution and water (top) are separated by a semipermeable membrane.
+The solution’s large sugar molecules cannot pass through the membrane.
+Small water molecules move through the membrane until equilibrium is established (bottom).
+Encyclopædia Britannica, Inc.
+Cells use active transport to pull desired molecules inside the cell interior.
+A salt molecule, for example, may approach the cell.
+If the cell needs sodium, a special receptor attaches itself to the salt molecule and pulls the molecule into the cell.
+There are receptors for many other types of molecules, including sugars and minerals.
+Any kind of action requires a fuel source, so the cell must expend a tiny bit of energy with each instance of active transport.
+ In moving large molecules across the cell membrane, the membrane itself undergoes movements during which materials outside the cell enter (endocytosis) or materials inside the cell exit (exocytosis).
+Encyclopædia Britannica, Inc.
+THE OBJECTIVE: HOMEOSTASIS
+The overall reason behind every cell function, including the transport of molecules, is to maintain a stable set of conditions within the cell.
+The water and oxygen levels, temperature, pressure, contents, and many other factors must stay within a certain range or else the cell could die.
+The same is true for a human being.
+If the imbalance becomes too great, a person could suffer illness or even death.
+Given all of the changes that occur within a body, it is no wonder that cells must constantly make adjustments and engage in other necessary activities to survive and to maintain homeostasis.
+THE FORMATION OF CELLS
+One reason why cells are so active is that they are products of the ever-changing world.
+Scientists are not yet certain how the first cells formed, but one popular belief is the primordial soup theory.
+Russian biochemist Aleksandr Oparin first introduced this theory in 1922.
+His concept was that a primordial organism arose in a brew of already formed organic compounds.
+According to the primordial soup theory, life began shortly after planet Earth formed about 4.6 billion years ago.
+At that time, Earth’s interior was full of molten hot materials that shot explosively from the surface through numerous volcanoes and other surface openings.
+When the temperature dropped, many scientists believe water vapors, or gases, in the atmosphere turned into showers heavier than any rains known today.
+These showers may have created the oceans.
+As water is key to the creation of life as humans know it, the torrential downpour likely set the stage for the birth of cells.
+According to the primordial soup theory, the water became a liquid broth that could hold and react with simple organic molecules in Earth’s early atmosphere.
+These molecules accumulated in the water, which increased their chances of meeting and combining.
+These natural combinations created the right conditions for life.
+At around the same time, some science experts believe that tremendous bolts of lightning filled the skies.
+The force of the lightning may have discharged high voltage energy into Earth’s atmospheric gases and water vapor.
+Cells may have spontaneously evolved in this highly charged environment, although it is very hard to know.
+When cells first appeared on Earth, they were probably very simple structures made of linked molecules that formed in and around semiliquid droplets.
+Over time, molecules in the atmosphere and water may have served as catalysts, which are substances that increase the rate of change of a chemical reaction without undergoing permanent change themselves.
+Catalysts, along with continued activity and change in Earth’s environment, may have allowed the simple first cells to evolve into more units.
+These structures then could have evolved into multicellular organisms, which led to all living organisms on Earth.
+CHAPTER 2
+MAKING PROTEINS
+Similar to how a person’s skin serves as an exterior boundary for his or her organs, the cell membrane serves as a boundary for organelles, or “little organs,” which are inside the cytoplasm, or cell interior, of eukaryotic cells.
+Organelles, which also have membranes, are tiny structures within the cell that perform specific tasks, much in the same way that each of someone’s organs has its own job in the body.
+The organelles and other parts of the cell are mostly made of protein.
+In humans, these organelles include the mitochondria, the endoplasmic reticulum, and the nucleus, among others.
+ This illustration shows the major organelles of a typical animal cell.
+Organelles perform specialized functions in a cell.
+Vacuoles, for example, are storage organelles that usually carry food molecules or wastes in solution.
+Carol & Mike Werner/Visuals Unlimited, Inc./Getty Images
+AMINO ACIDS AND PROTEIN
+Most people are probably familiar with the term “protein” in reference to one of the main food groups.
+Eggs, meat, fish, legumes, and dairy products are all high in protein.
+When studied at a small scale, the protein in these foods and in the organelles of the body’s cells exist as organic compounds of molecules of amino acids.
+Broken down even further, amino acids consist of the elements carbon, hydrogen, nitrogen, oxygen, and sometimes sulfur.
+A single protein can be made from at least twenty units of different amino acids, but this number can be far greater.
+In the same way that the twenty-six-letter alphabet can make up distinct words and sentences, so can specific amino acid combinations make up different proteins.
+ The amino acid alanine, whose chemical structure is shown here, is a component of proteins.
+Alanine is one of several so-called nonessential amino acids for birds and mammals.
+Leonid Andronov/Shutterstock.com
+The word “unit” refers to distinct parts of the amino acids.
+In a protein, the amino acids become attached to each other through peptide bonds, which are like biochemical glue made from amino groups and carboxyl groups.
+Together, amino acid units form the protein that is in foods such as cheese and meat and the protein that makes up your cells.
+There are many known proteins, but the precise number of protein types is unknown.
+Some scientists estimate that humans alone possess nearly 50,000 different proteins.
+There are two common groups of proteins: fibrous and globular.
+Distinct conditions determine whether a protein is fibrous or globular.
+These factors include how the amino acids are bonded together and how the bonds are shaped and electrically charged.
+TYPES OF FIBROUS PROTEINS
+Fibrous proteins tend to be stable structures that do not react much with other molecules.
+In fibrous proteins, polypeptide chains are arranged into long strands or sheets.
+Collagen, for example, is a fibrous protein.
+It makes up an individual’s bone, cartilage, the deeper skin layers, and tendons.
+Collagen contains more than 1,000 amino acids linked together to form long strands.
+This arrangement and composition gives collagen its strength and flexibility.
+Gelatin, a hard, yellowish semitransparent protein food, is made from collagen fibrils that have been broken down by boiling.
+Muscle proteins, fibrin (derived from fibrogen), and keratin are three other types of fibrous proteins.
+Fibrin is a white substance that is difficult to dissolve and is formed in the clotting of blood.
+Keratin is the principal protein in human hair and nails.
+It also makes up the feathers, hooves, and scales of birds, horses, fish, and other animals.
+Keratin is a very stable protein that does not dissolve in water.
+This characteristic is a good thing when people consider how many times each week they wash their hair and hands.
+Permanents that make hair curl use chemicals to break the bonds in keratin, causing the protein fibers to soften and become more twisted in shape.
+ An electron microscope was used to obtain this reproduction of fibrous connective tissue.
+In the center is a portion of a fibroblast (an elongated fibrous tissue cell), and on either side are two long strands of collagen fibers.
+Don W. Fawcett, M.D.
+TYPES OF GLOBULAR PROTEINS
+Globular proteins consist of amino acid chains that are tightly folded into a spherical or globular shape.
+Although fibrous proteins tend to be strong and stable, globular proteins dissolve easily in liquids.
+Globular proteins react more with other substances surrounding them.
+Both blood and milk contain globular proteins.
+Eggs also contain albumin, a kind of globular protein.
+In milk and eggs, water-soluble proteins are suspended in a liquid mixture.
+In blood, the globular protein called hemoglobin holds oxygen and gives blood its distinctive red color.
+ “Globin” in the word “hemoglobin” signifies that hemoglobin is a globular protein.
+Globular proteins are spherical in shape.
+molekuul.be/Shutterstock.com
+Globular proteins fall into five main groups: antibodies, microtubules, protein hormones, enzymes, and actin filaments.
+All these proteins have functions that require interaction with their surroundings.
+Enzymes are especially important to cell functions because they serve as catalysts for many cellular chemical reactions.
+Most enzymes can perform this role because they contain slots that fit other molecules.
+A substance may float by and a molecule from it could slip into a slot especially designed to target this particular molecule on the enzyme.
+Another slot could attract some other molecule.
+Before long, the molecules may join to trigger a chemical reaction.
+People take in both fibrous and globular protein in their food, but they also assemble their own proteins.
+This manufacturing process is called protein synthesis.
+It is one of the most important functions carried out in all cells.
+The director of this manufacturing process is deoxyribonucleic acid, or DNA.
+DNA AND THE CELL NUCLEUS
+DNA, the chemical that makes up chromosomes, contains the master plan for everything about a person or any other living organism.
+A person’s differences in DNA make sure that the first two cells that multiply into the trillions that form each human create the correct proteins.
+Human DNA contains the heritable blueprint for human beings.
+Although scientists do not yet fully understand everything about the genetic code, which is the plan embedded within DNA, it is believed that information going back to prehistoric times is imprinted in the code but has been rendered unusable by humans today.
+For example, DNA may still contain instructions to make humans fully covered with hair.
+Over long periods, these instructions evolved to create who people are today.
+Because DNA is so essential, most cells keep it locked away in a special part of the cell called the nucleus.
+The nucleus, often called the control center of the cell, has its own membrane (also called the nuclear envelope).
+Like the main cell membrane, the nucleus membrane serves as a protective barrier.
+It allows certain select molecules to come in and out.
+The molecules of DNA lie on chromosomes, which are thin structures that look like two intertwined ladders.
+Each cell contains about 6 feet (1.8 meters) of DNA packed into the nucleus.
+ A DNA molecule is formed of two nucleotide chains twisted into a double helix.
+The chains resemble a ladder, the sides of which consist of a sugar-phosphate complex, and the rungs are formed by nitrogenous base pairs.
+iris 42/Shutterstock.com
+The sides of the DNA ladder are made out of sugars and phosphates.
+They hold the rungs of the ladder shape in place.
+The rungs contain the information.
+They consist of interlocking pairs of chemicals called bases.
+There are four bases: adenine, cytosine, guanine, and thymine.
+Bases can pair up in only two different ways.
+Adenine, abbreviated as A, always bonds with thymine (T).
+Cytosine (C), in turn, always bonds with guanine (G).
+The amino acids that make up protein consist of various pairings of these four chemicals.
+ These colorful bands of DNA represent a segment of the human genome.
+Courtesy of the National Library of Medicine
+THE PROTEIN PRODUCTION PROCESS
+Proteins help to repair organelles in cells, build body tissues, and serve other purposes.
+Because protein is so essential, cells assemble it out of raw ingredients.
+This construction process is known as protein synthesis.
+It begins when an enzyme (ribonucleic acid, or RNA, polymerase) unzips apart and copies the intertwined ladders of DNA.
+When unzipped, an individual chromosome looks like a ladder that has been sawed in half lengthwise down the rungs.
+The DNA acts as a template to synthesize a portable messenger known as messenger RNA (mRNA).
+This action is called transcription.
+The nucleus membrane allows the mRNA to leave the protected nucleus.
+Meanwhile, the DNA zips back together again to secure its valuable codes.
+The mRNA travels to molecular machines known as ribosomes.
+If DNA is the boss for protein synthesis, then ribosomes are the factory and its workers.
+Most ribosomes are located on a network of membranes that fold through the jelly-like cytoplasm that fills much of a cell’s interior.
+This network of membranes is called the endoplasmic reticulum.
+Some parts of it are smooth, while others look rough under a microscope.
+The roughness comes from numerous ribosomes dotted along the folds.
+ In transcription, a messenger RNA (mRNA) molecule is constructed using a DNA molecule in the nucleus as a template with resulting transfer of genetic information to the mRNA in the cytoplasm.
+In translation, a protein molecule is formed at a ribosomal site of protein synthesis from information contained in mRNA.
+BSIP/Universal Images Group/Getty Images
+The ribosome recognizes mRNA and moves it along to read and decode its information.
+The ribosome triggers another kind of RNA, transfer RNA (tRNA), to collect the bases of amino acids, located in the cytoplasm, that are necessary to make up the protein encoded on the messenger.
+The process of forming a protein from the information contained in mRNA is called translation.
+Imagine a child’s toy in which blocks of different shapes can fit into only certain shaped holes or grooves.
+A triangle block, for example, can only fit into a triangular hole.
+That comparison is similar to how tRNA lines up molecules on the mold formed by the mRNA.
+Each coding segment on the mold is divided into three slots for chemical bases.
+A single segment is called a codon.
+It takes three bases, or nucleotides, to make up one amino acid.
+When tRNA does its job, it is set free to search for more amino acid parts.
+The process can be repeated many times, as proteins may consist of numerous groupings of amino acids.
+When the complete protein is assembled at the end of the cycle, the final codon, called a stop codon, does not code for any amino acid and signals to the ribosome that the protein is finished.
+Some proteins remain in the cell because they are needed for organelle replacement and repair while others wait for further processing before export.
+The ribosome then becomes available to interact with another mRNA molecule.
+THE HUMAN GENOME
+The human genome is all the approximately three billion base pairs of DNA that make up the entire set of chromosomes of the human body.
+The human genome includes the coding regions of DNA, which encode all the genes (about 25,000) of the human body, as well as the noncoding regions of DNA, which do not encode any genes.
+By 2003, the DNA sequence of the entire human genome was known.
+Knowledge of the human genome provides an understanding of the origin of the human species.
+It also furnishes the relationships between subpopulations of humans and the health tendencies or disease risks of individuals.
+Indeed, in the past twenty-five years knowledge of the sequence and structure of the human genome has revolutionized many fields of study, including medicine, anthropology, and forensics.
+With technological advances that enable inexpensive and expanded access to genomic information, the amount of and the potential applications for the information that is obtained from the human genome is extraordinary.
+CHAPTER 3
+THE MOVEMENT OF CELLS AND CELL ACTIVITIES
+The cells in the human body are making proteins and processing them for use in and out of the cell at any given moment.
+Proteins are not the only molecules that are in motion.
+Many cells themselves can move around, just as people can move their arms, legs, and other parts of their bodies.
+At this moment, some cells in the body may be zipping through the nose, lungs, blood vessels, and other sites to chase down and destroy unwanted invaders, or to bring oxygen to stationary cells.
+ The red blood cells, round disks that look like shallow bowls, move oxygen through the blood in blood vessels.
+Kyu Oh/E+/Getty Images
+TRAVELING PROTEINS
+When a ribosome completes a cycle of protein synthesis, proteins leave the ribosome and enter the part of the cell known as the Golgi apparatus.
+The Golgi apparatus is an organelle made up of several stacked chambers that somewhat resemble deflated balloons when viewed under a microscope.
+The Golgi apparatus contains enzymes that add finishing touches to proteins.
+Sometimes proteins will gain atoms, such as phosphorus or sulfur, to tailor them for use in the body.
+Other times, small bits of the protein made by the ribosome will be chopped off.
+When a protein travels through one compartment of the Golgi apparatus, the protein is encased in a vesicle.
+Vesicles are tiny, membrane-enclosed containers.
+They are the cells’ “shipping boxes.”
+The protein moves from chamber to chamber within the organelle until it is ready to be “shipped” to various parts of the body.
+During the protein-making process in the ribosome, certain amino acids within the protein serve as “shipping labels.”
+These amino acids may exist in groups of four to one hundred, depending on where the protein should go.
+Proteins destined for use in the cell simply leave the Golgi and take their place within the cell.
+Others carrying their molecular mailing label leave the cell through its membrane.
+They journey until they reach their programmed location.
+SPECIALIZED CELLS FOR MOTION
+While proteins are moving in and out of cells, certain cells also are moving in place, or are traveling around people’s bodies to get food, target enemies, meet with certain cells, or for other reasons.
+Cells usually move by three mechanisms.
+These mechanisms are cilia, flagella, and amoeboid movement.
+ To remove large amounts of material from itself, a cell uses a process called exocytosis, in which the cell packages materials in vesicles and secretes them to the exterior.
+Exocytosis begins in the endoplasmic reticulum, proceeds in the Golgi apparatus, and concludes on the surface of the cell.
+Encyclopædia Britannica, Inc.
+ Fluid and cells are circulated by the lymphatic vessels and blood vessels.
+Blood cells are divided into three groups: red blood cells, white blood cells, and blood platelets.
+Encyclopædia Britannica, Inc.
+ Ciliated epithelial cells, such as these tiny hairlike cilia that project from the surface layer of a person’s trachea, are specialized cells found lining parts of the mammalian reproductive system and respiratory tract.
+Dr. Robert Calentine/Visuals Unlimited/Getty Images
+Cilia are small, hairlike wisps made by basal bodies.
+Basal bodies are tiny structures located on the insides of cell membranes.
+These structures make cilia out of protein.
+The protein hairs shoot out through the cell membranes of many cells.
+Under a microscope, these cells look furry because of the presence of numerous cilia.
+Cilia work similar to old-fashioned ships powered by an oar-wielding crew.
+With every stroke, the cilia beat in time to either glide themselves or to move surrounding particles away from the cell.
+Flagella are single, long structures resembling tails.
+Like cilia, flagella are also made out of protein.
+Cells with a flagellum whip it up and down.
+Like a fish that glides through water by moving its tail, the cell can then glide over relatively long distances using a flagellum.
+Amoeboid movement is a technical term for crawling.
+Instead of using arms and legs, however, cells such as white blood cells, use pseudopodia, which means “false feet.”
+The pseudopodia are extended portions of the cytoplasm that remain enclosed by the cell’s membrane.
+Think of the pseudopodia as toes that stick out of feet.
+The false feet move in a slow crawling motion that is an effective and strong form of traveling.
+ These four amoeba protozoa, which are single-celled eukaryotic microorganisms that feed on bacteria, use their pseudopodia for feeding and for locomotion.
+Steve Gschmeissner/Science Source
+COMING TO THE RESCUE
+Crawling white blood cells combat invaders.
+As humans interact with their environment, their bodies can become exposed to dangerous invaders.
+These unwanted substances can range from a seemingly harmless grain of pollen to bacteria to killer viruses.
+People may breathe these substances in the air or ingest parasitic organisms into their bodies by eating or drinking contaminated food or water.
+Cells such as macrophages, which are free-roaming white blood cells that eat unwanted foreign substances such as dust or bacteria, come to the rescue.
+The word “macrophage” means “big eater.”
+One job of macrophages is to clean old red blood cells out of the bloodstream.
+ This diagram shows the structure of a macrophage.
+Macrophages, the principal cell engulfing components of the immune system, ingest and destroy foreign particles.
+Encyclopædia Britannica, Inc.
+ORGANELLES CALLED LYSOSOMES
+Macrophages and other cells are able to eat and destroy invaders chiefly because of a saclike organelle called a lysosome.
+Lysosomes are vesicles full of enzymes that exist in a cell’s cytoplasm.
+They serve as the stomach of the cell.
+To kill an outside invader, a search and destroy cell is able to open up its membrane around the unwanted substance, such as a bacterium, and enclose the intruder within the cell.
+Once there, lysosomes that are manufactured by the Golgi apparatus and the endoplasmic reticulum break down the invader into its basic components.
+These remaining bits, similar to garbage, can be recycled for later use by the cell.
+ In endocytosis, extracellular molecules are taken up into the cell to form membrane-bound vesicles called endosomes that fuse with lysosomes.
+In receptor-mediated endocytosis, material binds to a specific receptor on the cell membrane, triggering the process by which it is engulfed.
+Encyclopædia Britannica/Universal Images Group/Getty Images
+Lysosomes also digest old organelles; cell pollution, such as leftover oxygen molecules; and other unnecessary and potentially dangerous substances within a cell.
+Sometimes lysosomes are assisted by peroxisomes, which help break down alcohol, certain bacteria, oxygen, and even harmful drugs.
+SPECIALIZED CELLS
+Making proteins and producing energy occur in every cell, but some functions are restricted to certain types of cells.
+There are more than 200 types of specialized cells within the human body.
+Some cells in multicellular organisms are modified to carry out a particular funtions, such as transporting a certain substance or executing a specific task.
+These cells are called specialized cells.
+Although they have most of the same features as other cells, specialized cells have special structural adaptations that help them do their respective jobs.
+Some of the groups of specialized cells are nerve cells (also called neurons), eye cells, nose cells, ear cells, bone cells, muscle cells, skin cells, blood cells, adipose cells (fat cells), gametes (sex cells), and secretory cells.
+All have membranes that enclose both their nucleus and their cytoplasm filled with organelles.
+Red blood cells, for example, transport oxygen from the lungs to all of the body’s tissues and contain hemoglobin, an iron-rich protein that binds oxygen.
+The cells are small and highly flexible, which helps them squeeze through even the smallest blood vessels, and their biconcave shape allows for oxygen exchange at a constant rate.
+Root hair cells, palisade cells, and guard cells are examples of specialized plant cells.
+The cell wall and cell membrane of the root hair cell are greatly elongated.
+This shape increases the cell’s surface area and maximizes the amount of water and minerals absorbed from the soil.
+Palisade cells and guard cells are found mostly in leaves.
+Palisade cells are specialized for photosynthesis and are located in the leaf’s upper layers and have large numbers of chloroplasts to absorb incoming light.
+Guard cells are located mainly on leaves’ underside, where they help regulate gas exchange and water loss in the plant.
+Bean-shaped, the guard cells surround pores called stomata that open and close when the guard cells enlarge or deflate, respectively.
+CHAPTER 4
+CELLS AND ENERGY
+All living systems need energy in a usable form to drive the vital activities of cells.
+Seek and destroy missions, protein synthesis, and other cellular activities require a great deal of energy.
+Cells need fuel to conduct most of their functions.
+According to the laws of science, living organisms cannot create or destroy energy, but they can transform it from one kind of energy into another kind.
+That activity is what cells and all other living organisms do.
+The primary energy source for everything alive on Earth is the sun.
+ENERGY CAPTURE: PHOTOSYNTHESIS
+The life of a leafy vegetable might seem to be separate from that of a human cell, but the story of how human cells become energized begins with plants.
+All green plants can convert the energy from light into food.
+In nature, this light shines down from the sun, but the light can also come from artificial sources, such as a sun lamp.
+Green plants convert light energy into a chemical form that can be stored for later use.
+The chemical form is food and the process of conversion is photosynthesis.
+The word “photosynthesis” is derived from the Greek word phos, meaning “light,” and syn, meaning “together.”
+During photosynthesis, a green pigment in plants called chlorophyll absorbs light.
+Cells within the chlorophyll, called chloroplasts, split molecules of water within the plant into their basic components of hydrogen and oxygen.
+Most of the oxygen on Earth is derived from plants, which is one reason why other planets in the solar system seem to lack large quantities of oxygen.
+They have no apparent plants to release it.
+ During photosynthesis in green plants, light energy from the sun is harnessed and used to convert carbon dioxide and water into glucose (sugar molecules) and oxygen.
+The glucose becomes food for the plant; the oxygen is released into the air for living organisms to breathe.
+snapgalleria/Shutterstock.com
+THE ADVANTAGES OF INDOOR PLANTS
+Plants have a unique ability to give off oxygen and to absorb certain harmful substances in the air.
+Both of these qualities allow many indoor plants to serve as natural air purifiers, in addition to what the plants can add in terms of beauty.
+ A leaf’s epidermis usually consists of a single layer of cells covering the leaf’s top and bottom.
+Stomata, tiny openings on a leaf’s underside, permit gases to enter and gases and water vapor to leave.
+The mesophyll layer of cells has cells with chloroplasts, where photosynthesis occurs.
+The leaf’s veins contain transport tissues called xylem and phloem.
+Designua/Shutterstock.com
+The hydrogen from the split molecules of water, which is absorbed from the plant’s soil, combines with carbon dioxide in the air to form a simple sugar called glucose.
+With a few extra ingredients, such as nitrogen, phosphorus, and sulfur, glucose can then be transformed by the plant into other forms of food, such as protein, amino acids, fat, and vitamins.
+ENERGY AND THE CHEMICAL COMPOUND ATP
+Although tasty and sweet, the sugar glucose by itself could not be used by cells as fuel.
+Cells must first convert it into a compound known as ATP, which stands for adenosine triphosphate.
+The chemical name refers to the fact that ATP consists of a molecule of adenosine that has bonded with three molecules of phosphate.
+The prefix “tri” means “three.”
+ATP is not a storage molecule for chemical energy, because that is the job of carbohydrates and fats.
+When the cell needs energy, it is converted from storage molecules into ATP.
+ATP works like a battery for most activities conducted in a cell.
+The energy of ATP is stored in the chemical bonds that link the phosphate molecules to the adenosine.
+All chemical bonds occur because of forces that hold atoms together.
+Just as the batteries that people use to run their radios and high-tech gadgets have a negative and a positive charge, atoms possess these charges, too.
+Strong electrical charges bond each phosphate within ATP.
+When one or more of the bonds is broken, the stored electricity is released as energy.
+ATP then serves as a shuttle, delivering energy to places within the cell where energy-consuming activities are taking place.
+ The nucleotide adenosine triphosphate (ATP) is an energy-carrying molecule that is found in the cells of all living organisms.
+ATP captures chemical energy obtained from the breakdown of food molecules and releases it to fuel other cellular processes.
+Encyclopædia Britannica, Inc.
+THE POWERHOUSE ORGANELLES
+Mitochondria serve as a cell’s powerhouses.
+These sausage-shaped organelles transform glucose into energy-rich ATP.
+Mitochondria are found in the cytoplasm of cells.
+The outside of a mitochondrion organelle consists of a smooth outer membrane made of protein molecules.
+Inside is another membrane with flowing folds called cristae.
+Cristae are the places where ATP is synthesized.
+They are folded because that increases the work surface area, which allows for more space to make ATP.
+This diagram shows the three processes of ATP production - glycolysis, the tricarboxylic acid cycle (also known as the Krebs cycle), and oxidative phosphorylation.
+In eukaryotic cells, the later two processes occur in the mitochondria.
+Encyclopædia Britannica, Inc.
+Mitochondria could represent some of the oldest surviving organisms on Earth.
+Unlike other cell organelles, mitochondria have their own stores of DNA and ribosomes.
+They are almost like mini cells within cells.
+Their unique structure has led many scientists to believe that mitochondria evolved millions of years ago - some suspect even a billion years ago - and were then engulfed by larger cells.
+The two cells then may have developed a working relationship whereby the mitochondria provided energy while the larger host cell provided nutrients and protection.
+The cell that was swallowed up could have evolved into modern mitochondria.
+Some parts of the body have more mitochondria than others.
+The reason for this difference is because these parts require greater energy sources.
+Muscles, such as those in the heart, have large numbers of mitochondria within their cells.
+The liver needs plenty of these organelles because the liver requires a lot of energy to detoxify and regulate blood, hormones, excess sugars, and other substances in people’s bodies.
+CELLULAR RESPIRATION
+The energy-making process that takes place mostly in the mitochondria is called cell respiration.
+During cell respiration, chemical reactions within a cell transform glucose into ATP.
+It takes three chemical reactions to get the most energy out of a glucose molecule.
+In order, these reactions are glycolysis, the Krebs cycle, and the electron transport system.
+A cell first starts out with molecules of glucose.
+The glucose, from food sources, enters the cell through the cell membrane and winds up in the jellylike cytoplasm.
+The glucose that enters the cell consists of six carbons.
+In the cytoplasm, each glucose molecule is split in half, leaving two three-carbon fragments.
+The breaking of the carbon bonds produces some ATP, but not very much, so the process continues.
+The next step in the transformation of glucose is called the Krebs cycle.
+ Hans Krebs discovered the series of chemical reactions known as the tricarboxylic acid cycle, also called the Krebs cycle, which is the second stage of cellular respiration.
+The cycle plays a central role in the cells’ breakdown of organic fuel molecules to obtain the energy they need to grow and divide.
+©Topham/The Image Works
+The Krebs cycle was named after its discoverer, Hans Krebs, a German-born British biochemist.
+Krebs observed in 1937 that the three-carbon fragments produced a substance called pyruvic acid that could be transported to the mitochondria.
+In the mitochondria, the pyruvic acid reacts with water.
+A chemical reaction causes the mixture of water and pyruvic acid to produce carbon dioxide and ten hydrogen atoms.
+The hydrogen atoms then move away to the cristae, where they enter the cristae’s electron transport chain.
+Hydrogen atoms contain a positively charged particle called a proton and a negatively charged particle called an electron.
+The electron transport chain separates these electrons and protons from each hydrogen atom.
+The protons are eventually made into water, which is a by-product of the process.
+People’s bodies also release heat as a by-product of all these biochemical reactions.
+This activity is one reason why humans stay warm and release moisture through such acts as breathing and perspiring.
+The electrons separated from the hydrogen continue their journey down the electron transport chain.
+As they move along the various knobs and folds of the cristae, they react with oxygen atoms to produce energy.
+At the same time, protons are pumped into the chain, which causes phosphate to bond with a molecule already present in the mitochondria, adenosine diphosphate (ADP).
+The prefix “di” means “two.”
+In this case, the prefix signifies that only two phosphates are bonded to adenosine in adenosine diphosphate.
+The electron energy produced by the electron transport cycle allows another phosphate to bond with the adenosine.
+This action makes ATP.
+The three-part energy process turns a single molecule of glucose into about 36 to 38 ATP molecules of energy.
+BREAKING DOWN SUBSTANCES: METABOLISM
+When a cell makes energy, it must break complex units into simpler units, such as the glucose being transformed into pyruvic acid in glycolysis.
+This breaking down of molecules into smaller components and the release of energy is known as destructive metabolism, or catabolism.
+Conversely, when a cell turns a smaller unit into a larger, more complex one and requires energy to do so, this is called constructive metabolism, or anabolism.
+Ribosomes, for example, construct protein out of amino acids.
+Together, the processes of anabolism and catabolism make up metabolism.
+ In a catabolic reaction, molecules are broken down into smaller components and energy is released.
+In an anabolic reaction, which requires energy, larger molecules are built from smaller ones.
+ATP acts as a bridge between catabolism and anabolism, with catabolic reactions generating ATP and anabolic reactions consuming it.
+Intelecom/Science Source
+Most individuals probably are familiar with the term “metabolism” in reference to a person’s weight.
+People who tend to eat a lot but do not put on pounds are often said to have a high metabolic rate.
+Other people may not eat much but still gain weight.
+They could have a lower metabolic rate.
+Just as the goal of all cells is to achieve homeostasis, one of the primary goals of people’s bodies is to achieve a balance between anabolism and catabolism.
+Once this goal has been achieved, a person is said to be in a state of dynamic equilibrium, which means that he or she has a healthy and balanced metabolism.
+THE ENERGETIC CELL
+Cells pack a great deal of action and power into a very small space.
+Red blood cells measure only about 7.8 microns (0.0078 millimeter) each in diameter, yet they can move, generate their own power, synthesize proteins, digest and recycle cell waste, and conduct many more activities.
+Cells can even make copies of themselves through mitosis, a process of cell reproduction.
+Human beings began from single cells that replicated many times to create the human body of today.
+Cells are dynamic structures that were born out of change and constant activity.
+Because nature is in a continual state of change, so, too, are cells.
+Perhaps a cell’s most impressive function is its ability to evolve over time.
+Life, as humans know it, began as simple, single-celled organisms that evolved into complex forms, such as humans and other animals.
+Eukaryotic cell membranes were able to become specialized for cell-to-cell communication and cell signaling.
+It could be partly for this reason that eukaryotic cells were eventually more successful at forming complex multicellular organisms than their simpler prokaryotic relatives.
+If nothing disrupts this evolutionary process, cells will continue to function, flourish, and improve themselves for the future benefit of all living organisms.
+A SUGAR AS AN ENERGY SOURCE
+The word “glucose” comes from the Greek word glykys, meaning “sweet.”
+Glucose provides the main source of food energy for most living organisms on Earth.
+Foods such as honey and grapes are loaded with glucose, but people can obtain glucose through the consumption of meat.
+Glucose can be a product of meat because at some point, the animal that provided the meat ate plant material, or down the food chain, some other organism that it ate consumed a basic sugar.
+Even foods that do not seem sweet can be high in glucose.
+Potatoes, for example, are rich in carbohydrates, which the human body breaks down into glucose and other molecules.
+The potato plant uses this tuber as a big storehouse for food derived from light energy.

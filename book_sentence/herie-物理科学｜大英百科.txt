@@ -1,0 +1,833 @@
+The Laser Interferometer Gravitational-Wave Observatory (LIGO) detected the merging of two black holes on September 14, 2015, which is depicted in this image.
+Astronomy is a field of study in physical science.
+Albert Einstein, Marie Curie, and Edwin Hubble, people whose names are familiar to most teenagers, had many personal characteristics in common.
+They were all very intelligent individuals who actively pursued educations to support their interests.
+Each was curious about the natural world, and persistent in looking for answers to satisfy that curiosity.
+Each also believed in “thinking outside the box.”
+Besides having these personal characteristics in common, all three were scientists - physical scientists to be exact.
+Scientists are people who gain knowledge by observing natural events.
+They use their observations to identify questions about phenomena, and then develop a possible explanation called a hypothesis, to test their ideas.
+Testing hypotheses is an important way for scientists to gather data to develop, support, or challenge scientific theories.
+A scientific theory is an explanation of an observation or a natural phenomenon and is based on and supported by a large body of evidence.
+Physical scientists study aspects of the inorganic (nonliving) world, whereas the study of the organic, or living, world is the realm of biological scientists.
+Physical scientists usually specialize in one of four major areas of study: astronomy, physics, chemistry, or earth science.
+This book will look in depth at the historical development of the first three of these disciplines.
+Albert Einstein was a physicist whereas Edwin Hubble was primarily an astronomer.
+Marie Curie was both a physicist and a chemist by training.
+Modern physics, to which both Einstein and Curie devoted their lives, originated in the mid-19th century.
+It was an amalgam, or combination, of several areas of study from previous centuries - namely mechanics, the study of motion; optics, the study of light and its properties; and acoustics, the study of sound.
+The properties of electricity, magnetism, and heat, as well as the physical properties of matter, were also absorbed as areas of study in modern physics.
+The boundaries between physics and chemistry are frequently blurred.
+Physics is concerned largely with the structure and behavior of individual atoms and their components, whereas chemistry focuses on how types of matter interact with one another and change into different substances.
+Chemists tend to be more interested in the specific properties of different elements and compounds.
+Physicists are concerned with general properties shared by all matter.
+Astronomy is the science of the entire universe beyond the Earth.
+It includes the study of the origin and evolution of the universe (cosmology) and objects such as the Moon, the Sun, planets, galaxies, nebulae, black holes, and a multitude of other extraordinary entities.
+It is also concerned with celestial mechanics, the science of the motion of planets and other solid objects.
+A host of remarkable astronomers, including the legendary Hubble, have shown that the universe is far larger than was originally thought.
+There are billions of galaxies extending beyond our own Milky Way galaxy.
+They stretch for distances that are practically incomprehensible.
+Astronomy is among the oldest of the sciences and yet it still has many frontiers to conquer in the 21st century.
+Astronomy, physics, and chemistry have developed phenomenally since their births in antiquity.
+The chapters of this book will follow this evolution and will project the future of the physical sciences in the 21st century.
+The physical sciences ultimately derive from the rationalistic materialism that emerged in classical Greece, itself an outgrowth of magical and mythical views of the world.
+The Greek philosophers of the 6th and 5th centuries BCE abandoned the animism of the poets and explained the world in terms of ordinarily observable natural processes.
+These early philosophers posed the broad questions that still underlie science: How did the world order emerge from chaos?
+What is the origin of multitude and variety in the world?
+How can motion and change be accounted for?
+What is the underlying relation between form and matter?
+Greek philosophy answered these questions in terms that provided the framework for science for more than 2,000 years.
+Western astronomy had its origins in Egypt and Mesopotamia.
+Egyptian astronomy, which was neither a very well-developed nor an influential area of study, was largely concerned with time reckoning.
+Its main lasting contribution was the civil calendar of 365 days, consisting of 12 months of 30 days each and five additional festival days at the end of each year.
+This calendar played an important role in the history of astronomy, allowing astronomers to calculate the number of days between any two sets of observations.
+Babylonian astronomy, dating back to about 1800 BCE, constitutes one of the earliest systematic, scientific treatments of the physical world.
+In contrast to the Egyptians, the Babylonians were interested in the accurate prediction of astronomical phenomena, especially the first appearance of the new Moon.
+Using the zodiac as a reference, by the 4th century BCE, they developed a complex system of arithmetic progressions and methods of approximation by which they were able to predict first appearances.
+At no point in the Babylonian astronomical literature is there the least evidence of the use of geometric models.
+The mass of observations they collected and their mathematical methods were important contributions to the later flowering of astronomy among the Greeks.
+The Pythagoreans (5th century BCE) were responsible for one of the first Greek astronomical theories.
+Believing that the order of the cosmos is fundamentally mathematical, they held that it is possible to discover the harmonies of the universe by contemplating the regular motions of the heavens.
+Postulating a central fire about which all the heavenly bodies including Earth and the Sun revolve, they constructed the first physical model of the solar system.
+Subsequent Greek astronomy derived its character from a comment attributed to Plato, in the 4th century BCE, who is reported to have instructed the astronomers to “save the phenomena” in terms of uniform circular motion.
+That is to say, he urged them to develop predictively accurate theories using only combinations of uniform circular motion.
+As a result, Greek astronomers never regarded their geometric models as true or as being physical descriptions of the machinery of the heavens.
+They regarded them simply as tools for predicting planetary positions.
+A print from 1539 shows Aristotle’s system of the universe, with four elements surrounded by the fixed stars, spheres of the planets, and the abode of God.
+Aristotle based his system on one developed by Eudoxus.
+Eudoxus of Cnidus (4th century BCE) was the first of the Greek astronomers to rise to Plato’s challenge.
+He developed a theory of homocentric spheres, a model that represented the universe by sets of nesting concentric spheres the motions of which combined to produce the planetary and other celestial motions.
+Using only uniform circular motions, Eudoxus was able to “save” the rather complex planetary motions with some success.
+His theory required four homocentric spheres for each planet and three each for the Sun and Moon.
+The system was modified by Callippus, a student of Eudoxus, who added spheres to improve the theory, especially for Mercury and Venus.
+Aristotle, in formulating his cosmology, adopted Eudoxus’s homocentric spheres as the actual machinery of the heavens.
+The Aristotelian cosmos was like an onion consisting of a series of some 55 spheres nested about the Earth, which was fixed at the center.
+To unify the system, Aristotle added spheres to “unroll” the motions of a given planet so that they would not be transmitted to the next inner planet.
+Two Roman pillars for an arch in Ephesus, Turkey, have relief sculptures representing Heracleides, who was the first to suggest the rotation of the Earth and correctly connect the motion of Mercury and Venus to their movement around the Sun.
+The theory of homocentric spheres failed to account for two sets of observations: (1) brightness changes suggesting that planets are not always the same distance from the Earth, and (2) bounded elongations (that is, Venus is never observed to be more than about 48° and Mercury never more than about 24° from the Sun).
+Heracleides of Pontus (4th century BCE) attempted to solve these problems by having Venus and Mercury revolve about the Sun, rather than the Earth, and having the Sun and other planets revolve in turn about the Earth, which he placed at the center.
+In addition, to account for the daily motions of the heavens, he held that the Earth rotates on its axis.
+Heracleides’ theory had little impact in antiquity except perhaps on Aristarchus of Samos (3rd century BCE), who apparently put forth a heliocentric hypothesis similar to the one Nicolaus Copernicus of Poland was to propound in the 16th century.
+Hipparchus (flourished 130 BCE) made extensive contributions to both theoretical and observational astronomy.
+Basing his theories on an impressive mass of observations, he was able to work out theories of the Sun and Moon that were more successful than those of any of his predecessors.
+His primary conceptual tool was the eccentric circle, a circle in which the Earth is at some point eccentric to the geometric center.
+He used this device to account for various irregularities and inequalities observed in the motions of the Sun and Moon.
+He also proved that the eccentric circle is mathematically equivalent to a geometric figure called an epicycle-deferent system, a proof probably first made by Apollonius of Perga a century earlier.
+In this illustration, Hipparchus sits next to the armillary sphere he invented (right) while representations of the signs of the zodiac are shown in the night sky.
+Hipparchus discovered what became known as the precession of the equinoxes.
+Among Hipparchus’s observations, one of the most significant was that of the precession of the equinoxes - that is, a gradual apparent increase in longitude between any fixed star and the equinoctial point (either of two points on the celestial sphere where the celestial equator crosses the ecliptic).
+Thus, the north celestial pole, the point on the celestial sphere defined as the apparent center of rotation of the stars, moves relative to the stars in its vicinity.
+In the heliocentric theory, this effect is ascribed to a change in the Earth’s rotational axis, which traces out a conical path around the axis of the orbital plane.
+Claudius Ptolemy (flourished 140 CE) applied the theory of epicycles to compile a systematic account of Greek astronomy.
+He elaborated theories for each of the planets, as well as for the Sun and Moon.
+His theory generally fitted the data available to him with a good degree of accuracy, and his book, the Almagest, became the vehicle by which Greek astronomy was transmitted to astronomers of the Middle Ages and Renaissance.
+It essentially molded astronomy for the next millennium and a half.
+THE ALMAGEST
+The Mathematical Composition of Claudius Ptolemy, an astronomical and mathematical encyclopedia compiled about 150 CE by Ptolemy (Claudius Ptolemaeus of Alexandria), is the only completely comprehensive treatise of Greek astronomy to come down to us.
+The Almagest, as it came to be known, served as the basic guide for Arab and European astronomers until about the beginning of the 17th century.
+The name Almagest, corrupted from the Arabic, means “the greatest.”
+Among other names given to the work were The Great Treatise, The Great Astronomer, and The Mathematical Collection.
+It was first translated into Arabic about 827 and was retranslated from Arabic to Latin in the last half of the 12th century.
+Ptolemy’s system of the solar system, which was a geocentric one where heavenly bodies circled the Earth, was described in Book One of the Almagest.
+The Almagest is divided into 13 books.
+Book One gives Ptolemy’s geocentric (Earth-centered) plan of the solar system, mentioning the Earth’s spherical shape and its size in relation to the fixed stars.
+Book Two contains the earliest surviving work on trigonometry.
+Book Three deals with the motion of the Sun and the length of the year.
+Book Four deals with the Moon and the months, as does Book Five, which also takes up the distances of the Sun and the Moon and tells how to construct an astrolabe (an astronomical instrument that preceded the sextant).
+Eclipses are treated in Book Six.
+Books Seven and Eight mainly concern the fixed stars, giving coordinates for eclipses and magnitudes for 1,022 stars.
+This star catalog is based on that compiled by Hipparchus (129 BCE).
+The remaining five books, the most original, set forth in detail Ptolemy’s system that is outlined in Book One.
+Several kinds of physical theories emerged in ancient Greece, including generalized hypotheses about the ultimate structure of nature as well as more specific theories that considered the problem of motion from both metaphysical and mathematical points of view.
+Attempting to reconcile the antithesis between the underlying unity and apparent multitude and diversity of nature, the Greek atomists Leucippus (mid-5th century BCE), Democritus (late 5th century BCE), and Epicurus (late 4th and early 3rd century BCE) asserted that nature consists of immutable atoms moving in empty space.
+According to this theory, the various motions and configurations of atoms and clusters of atoms are the causes of all the phenomena of nature.
+In contrast to the particulate universe of the atomists, the Stoics (principally Zeno of Citium, bridging 4th and 3rd centuries BCE, Chrysippus [3rd century BCE], and Poseidonius of Apamea [flourished c. 100 BCE]) insisted on the continuity of nature.
+They conceived of both space and matter as continuous and as infused with an active, airlike spirit - pneuma - which serves to unify the frame of nature.
+The inspiration for the Stoic emphasis on pneumatic processes probably arose from earlier experiences with the “spring” (that is, compressibility and pressure) of the air.
+Neither the atomic theory nor Stoic physics survived the criticism of Aristotle and his theory.
+In his physics, Aristotle was primarily concerned with the philosophical question of the nature of motion as one variety of change.
+He assumed that a constant motion requires a constant cause; that is, as long as a body remains in motion, a force must be acting on that body.
+He considered the motion of a body through a resisting medium as proportional to the force producing the motion and inversely proportional to the resistance of the medium.
+Aristotle used this relationship to argue against the possibility of the existence of a void, for in a void resistance is zero, and the relationship loses meaning.
+He considered the cosmos to be divided into two qualitatively different realms, governed by two different kinds of laws.
+In the terrestrial realm, within the sphere of the Moon, rectilinear up-and-down motion is characteristic.
+Heavy bodies, by their nature, seek the center and tend to move downward in a natural motion.
+It is unnatural for a heavy body to move up, and such unnatural or violent motion requires an external cause.
+Light bodies, in direct contrast, move naturally upward.
+In the celestial realm, uniform circular motion is natural, thus producing the motions of the heavenly bodies.
+Archimedes (3rd century BCE) fundamentally applied mathematics to the solution of physical problems and brilliantly employed physical assumptions and insights leading to mathematical demonstrations, particularly in problems of statics and hydrostatics.
+He was thus able to derive the law of the lever rigorously and to deal with problems of the equilibrium of floating bodies.
+Greek science reached a zenith with the work of Ptolemy in the 2nd century CE.
+The lack of interest in theoretical questions in the Roman world reduced science in the Latin West to the level of predigested handbooks and encyclopaedias that had been distilled many times.
+Social pressures, political persecution, and the anti-intellectual bias of some of the early Church Fathers drove the few remaining Greek scientists and philosophers to the East.
+There they ultimately found a welcome when the rise of Islam in the 7th century stimulated interest in scientific and philosophical subjects.
+Most of the important Greek scientific texts were preserved in Arabic translations.
+Although the Muslims did not alter the foundations of Greek science, they made several important contributions within its general framework.
+When interest in Greek learning revived in western Europe during the 12th and 13th centuries, scholars turned to Islamic Spain for the scientific texts.
+A spate of translations resulted in the revival of Greek science in the West and coincided with the rise of the universities.
+Working within a predominantly Greek framework, scientists of the late Middle Ages reached high levels of sophistication and prepared the ground for the scientific revolution of the 16th and 17th centuries.
+Muslim astronomer al-Bīrūnī wrote “The Masʿūdic Canon” in the 11th century, in which he gathered astronomical knowledge from Ptolemy’s Almagest and Handy Tables, among other texts.
+These pages from al-Bīrūnī’s work are about planetary motions.
+Mechanics was one of the most highly developed sciences pursued in the Middle Ages.
+Operating within a fundamentally Aristotelian framework, medieval physicists criticized and attempted to improve many aspects of Aristotle’s physics.
+The problem of projectile motion was a crucial one for Aristotelian mechanics, and the analysis of this problem represents one of the most impressive medieval contributions to physics.
+Because of the assumption that continuation of motion requires the continued action of a motive force, the continued motion of a projectile after losing contact with the projector required explanation.
+Aristotle himself had proposed explanations of the continuation of projectile motion in terms of the action of the medium.
+The ad hoc character of these explanations rendered them unsatisfactory to most of the medieval commentators, who nevertheless retained the fundamental assumption that continued motion requires a continuing cause.
+The most fruitful alternative to Aristotle’s attempts to explain projectile motion resulted from the concept of impressed force.
+According to this view, there is an incorporeal motive force that is imparted to the projectile, causing it to continue moving.
+Such views were espoused by John Philoponus of Alexandria (flourished in the 6th century), Avicenna, the Persian philosopher (died in 1037), and the Arab Abū al Barakāt al-Baghdādi (died in 1164).
+In the 14th century the French philosopher Jean Buridan developed a new version of the impressed force theory, calling the quality impressed on the projectile “impetus.”
+Impetus, a permanent quality for Buridan, is measurable by the initial velocity of the projectile and by the quantity of matter contained in it.
+Buridan employed this concept to suggest an explanation of the everlasting motions of the heavens.
+During the 1300s certain Oxford scholars pondered the philosophical problem of how to describe the change that occurs when qualities increase or decrease in intensity, and came to consider the kinematic aspects of motion.
+Dealing with these problems in a purely hypothetical manner without any attempt to describe actual motions in nature or to test their formulas experimentally, they were able to derive the result that in a uniformly accelerated motion, distance increases as the square of the time.
+Although medieval science was deeply influenced by Aristotle’s philosophy, adherence to his point of view was by no means dogmatic.
+During the 13th century, theologians at the University of Paris were disturbed by certain statements in Aristotle that seemed to imply limitations of God’s powers as well as other statements, such as the eternity of the world, which stood in apparent contradiction to scripture.
+In 1277 Pope John XXI condemned 219 propositions, many from Aristotle and St. Thomas Aquinas, which had clearly theological consequences.
+Many of these condemned propositions had scientific implications as well.
+For example, one of these propositions states, “That the first cause (i.e., God) could not make several worlds.”
+Although it is unlikely that anyone in the Middle Ages actually asserted the existence of many worlds, the condemnation led to the discussion of that possibility, as well as other important problems such as the possibility that the Earth moved.
+During the 15th, 16th, and 17th centuries, scientific thought underwent a revolution.
+A new view of nature emerged, replacing the Greek view that had dominated science for almost 2,000 years.
+Science became an autonomous discipline, distinct from both philosophy and technology, and it came to be regarded as having utilitarian goals.
+By the end of this period, it may not be too much to say that science had replaced Christianity as the focal point of European civilization.
+Out of the ferment of the Renaissance and Reformation there arose a new view of science, bringing about several transformations.
+Scholars increasingly favored the use of abstract reasoning as they sought to understand the natural world.
+The substitution of a quantitative for a qualitative view of nature began to prevail.
+Nature was increasingly viewed as a machine with inputs and outputs, rather than as an organism.
+Scientists began to develop an experimental method that sought specific answers to well-defined questions; the acceptance of new criteria for explanation stressed the “how” rather than the “why” that had characterized the Aristotelian search for final causes.
+The scientific revolution began in astronomy.
+Although there had been earlier discussions of the possibility of the Earth’s motion, the Polish astronomer Nicolaus Copernicus was the first to propose a comprehensive heliocentric theory, equal in scope and predictive capability to Ptolemy’s geocentric system.
+Motivated by the desire to satisfy Plato’s dictum (to develop theories based only on uniform circular motion), Copernicus strove to overthrow traditional astronomy because of its alleged violation of the principle of uniform circular motion and its lack of unity and harmony as a system of the world.
+Relying on virtually the same data as Ptolemy had possessed, Copernicus turned the world inside out, putting the Sun at the center and setting the Earth into motion around it.
+Copernicus’s theory, published in 1543, possessed a qualitative simplicity that Ptolemaic astronomy appeared to lack.
+To achieve comparable levels of quantitative precision, however, the new system became just as complex as the old.
+Perhaps the most revolutionary aspect of Copernican astronomy lay in Copernicus’s attitude toward the reality of his theory.
+In contrast to Platonic instrumentalism, Copernicus asserted that to be satisfactory astronomy must describe the real, physical system of the world.
+Nicolaus Copernicus is shown drawing the Sun as the center of the universe.
+His heliocentric system of the universe influenced later thinkers of the scientific revolution, including Galileo, Johannes Kepler, René Descartes, and Isaac Newton.
+The reception of Copernican astronomy amounted to victory by infiltration.
+By the time large-scale opposition to the theory had developed in the church and elsewhere, most of the best professional astronomers had found some aspect or other of the new system indispensable.
+Copernicus’s book De revolutionibus orbium coelestium libri VI (“Six Books Concerning the Revolutions of the Heavenly Orbs”), published in 1543, became a standard reference for advanced problems in astronomical research, particularly for its mathematical techniques.
+It was widely read by mathematical astronomers, in spite of its central cosmological hypothesis, which was widely ignored.
+In 1551 the German astronomer Erasmus Reinhold published the Tabulae prutenicae (“Prutenic Tables”), computed by Copernican methods.
+The tables were more accurate and more up-to-date than their 13th-century predecessor and became indispensable to both astronomers and astrologers.
+A 1588 print of Tycho Brahe’s system shows the comet of 1577 (X).
+Brahe’s geocentric model put the Earth (A) at the center of the universe, with the Moon (B) and Sun (C) revolving around it, and the planets rotating around the Sun.
+During the 16th century the Danish astronomer Tycho Brahe, rejecting both the Ptolemaic and Copernican systems, was responsible for major changes in observation, unwittingly providing the data that ultimately decided the argument in favor of the new astronomy.
+Using larger, stabler, and better calibrated instruments, he observed the skies regularly over extended periods, obtaining a continuity of observations that were accurate for planets to within about one minute of arc - several times better than any previous observation.
+Several of Tycho’s observations contradicted Aristotle’s system: a nova that appeared in 1572 exhibited no parallax (meaning that it lay at a very great distance) and was thus not of the sublunary sphere and therefore contrary to the Aristotelian assertion of the immutability of the heavens.
+Tycho devised his own world system - a modification of Heracleides’ - to avoid various undesirable implications of the Ptolemaic and Copernican systems.
+At the beginning of the 17th century, the German astronomer Johannes Kepler placed the Copernican hypothesis on firm astronomical footing.
+Converted to the new astronomy as a student and deeply motivated by a neo-Pythagorean desire for finding the mathematical principles of order and harmony according to which God had constructed the world, Kepler spent his life looking for simple mathematical relationships that described planetary motions.
+His painstaking search for the real order of the universe forced him finally to abandon the Platonic ideal of uniform circular motion in his search for a physical basis for the motions of the heavens.
+An illustration from Johannes Kepler’s Mysterium cosmographicum (1596; “Cosmographic Mystery”) shows Kepler’s first model of the universe, in which he applied the geometry of regular solids to explain aspects of the universe.
+In 1609 Kepler announced two new planetary laws derived from Tycho’s data.
+The first law states that the planets travel around the Sun in elliptical orbits, one focus of the ellipse being occupied by the Sun.
+The second law posits that a planet moves in its orbit in such a manner that a line drawn from the planet to the Sun always sweeps out equal areas in equal times.
+With these two laws, Kepler abandoned uniform circular motion of the planets on their spheres; this in turn raised the fundamental question of what holds the planets in their orbits.
+He attempted to provide a physical basis for the planetary motions by means of a force comparable to the magnetic force, the qualitative properties of which had been recently described in England by William Gilbert in his influential treatise, De Magnete, Magneticisque Corporibus et de Magno Magnete Tellure (1600; “On the Magnet, Magnetic Bodies, and the Great Magnet of the Earth”).
+The impending marriage of astronomy and physics had been announced.
+In 1618 Kepler stated his third law, which was one of many laws concerned with the harmonies of planetary motion: the square of the period in which a planet orbits the Sun is proportional to the cube of its mean distance from the Sun.
+Galileo drew the Moon’s phases as seen through his telescope in 1609, showing that the Moon’s surface is not smooth, as had been thought, but is rough and uneven.
+A powerful blow was dealt to traditional cosmology by Galileo Galilei, who early in the 17th century used the telescope, a recent invention of Dutch lens grinders, to look toward the heavens.
+In 1610 Galileo announced observations that contradicted many traditional cosmological assumptions.
+He observed that the Moon is not a smooth, polished surface, as Aristotle had claimed, but that it is jagged and mountainous.
+Earthshine on the Moon revealed that Earth, like the other planets, shines by reflected light.
+Like Earth, Jupiter was observed to have satellites; hence, Earth had been demoted from its unique position.
+The phases of Venus proved that that planet orbits the Sun, not Earth.
+GALILEO’S TELESCOPIC DISCOVERIES
+In the spring of 1609 Galileo heard that in the Netherlands an instrument had been invented that showed distant things as though they were nearby.
+By trial and error, he quickly figured out the secret of the invention and made his own three-powered spyglass from lenses purchased in spectacle makers’ shops.
+Others had done the same; what set Galileo apart was that he quickly figured out how to improve the instrument, taught himself the art of lens grinding, and produced increasingly powerful telescopes.
+In August of that year he presented an eight-powered instrument to the Venetian Senate, the governing body of the University of Padua, where Galileo taught.
+He was rewarded with life tenure and a doubling of his salary.
+Galileo was now one of the highest-paid professors at the university.
+In the fall of 1609 Galileo began observing the heavens with instruments that magnified up to 20 times.
+In December he drew the Moon’s phases as seen through the telescope, showing that the Moon’s surface is not smooth, as had been thought, but is rough and uneven.
+In January 1610 he discovered four moons revolving around Jupiter.
+He also found that the telescope showed many more stars than are visible with the naked eye.
+These discoveries were earthshaking, and Galileo quickly produced a little book, Sidereus Nuncius (The Sidereal Messenger), in which he described them.
+He dedicated the book to Cosimo II de Medici (1590–1621), the grand duke of his native Tuscany, whom he had tutored in mathematics for several summers, and he named the moons of Jupiter after the Medici family: the Sidera Medicea, or “Medicean Stars.”
+Galileo was rewarded with an appointment as mathematician and philosopher of the grand duke of Tuscany.
+In the fall of 1610 he returned in triumph to Florence, his native land.
+Two of Galileo’s first telescopes, which he designed, are now housed in the Institute and Museum of the History of Science, Florence.
+Galileo was now a courtier and lived the life of a gentleman.
+Before he left Padua he had discovered the puzzling appearance of Saturn, later to be shown as caused by a ring surrounding it, and in Florence he discovered that Venus goes through phases just as the Moon does.
+Although these discoveries did not prove that Earth is a planet orbiting the Sun, they undermined Aristotelian cosmology: for example, the moons of Jupiter showed that there had to be more than one center of motion in the universe, and the phases of Venus showed that it (and, by implication, Mercury) revolves around the Sun.
+As a result, Galileo was confirmed in his belief that the Sun is the center of the universe and that the Earth is a planet, as Copernicus had argued.
+Galileo’s conversion to Copernicanism would be a key turning point in the scientific revolution.
+After a brief controversy about floating bodies, Galileo again turned his attention to the heavens and entered a debate with Christoph Scheiner (1573–1650), a German Jesuit and professor of mathematics at Ingolstadt, about the nature of sunspots (of which Galileo was an independent discoverer).
+This controversy resulted in Galileo’s Istoria e dimostrazioni intorno alle macchie solari e loro accidenti (“History and Demonstrations Concerning Sunspots and Their Properties,” or “Letters on Sunspots”), which appeared in 1613.
+Against Scheiner, who, in an effort to save the perfection of the Sun, argued that sunspots are satellites of the Sun, Galileo argued that the spots are on or near the Sun’s surface, and he bolstered his argument with a series of detailed engravings of his observations.
+Advances in physics, based on breakthroughs in mathematics, drove the evolution of knowledge during the scientific revolution.
+Theories and laws in physics, especially those proposed by Galileo and Isaac Newton, then led to an expansion of knowledge in astronomy.
+In addition, two subfields of modern physics arose during the scientific revolution - mechanics, the branch of physics dealing with motion, and optics, the subfield of physics dealing with light and its properties.
+The battle for Copernicanism was fought in the realm of mechanics as well as astronomy.
+The Ptolemaic–Aristotelian system rested on the idea of Earth’s fixity at the center of the cosmos.
+Removing Earth from the center destroyed the doctrine of natural motion and place, and circular motion of Earth was incompatible with Aristotelian physics.
+Galileo’s contributions to the science of mechanics were related directly to his defense of Copernicanism.
+Although in his youth he adhered to the traditional impetus physics, his desire to mathematize in the manner of Archimedes led him to abandon the traditional approach and develop the foundations for a new physics that was both highly mathematizable and directly related to the problems facing the new cosmology.
+Interested in finding the natural acceleration of falling bodies, he was able to derive the law of free fall (in the absence of air resistance, all bodies fall with the same constant acceleration regardless of their mass).
+Combining this result with his rudimentary form of the principle of inertia, he was able to derive the parabolic path of projectile motion.
+Furthermore, his principle of inertia enabled him to meet the traditional physical objections to the Earth’s motion: since a body in motion tends to remain in motion, projectiles and other objects on the terrestrial surface will tend to share the motions of the Earth, which will thus be imperceptible to someone standing on the Earth.
+The 17th-century contributions to mechanics of the French philosopher René Descartes were more concerned with problems in the foundations of science than with the solution of specific technical problems.
+He was principally concerned with the conceptions of matter and motion as part of his general program for science - namely, to explain all the phenomena of nature in terms of matter and motion.
+This program, known as the mechanical philosophy, came to be the dominant theme of 17th-century science.
+Descartes rejected the idea that one piece of matter could act on another through empty space; instead, forces must be propagated by a material substance, the “ether,” that fills all space.
+Although matter tends to move in a straight line in accordance with the principle of inertia, it cannot occupy space already filled by other matter, so the only kind of motion that can actually occur is a vortex in which each particle in a ring moves simultaneously.
+According to Descartes, all natural phenomena depend on the collisions of small particles, and so it is of great importance to discover the quantitative laws of impact.
+This was done by Descartes’s disciple, the Dutch physicist Christiaan Huygens, who formulated the laws of conservation of momentum and of kinetic energy.
+The work of Sir Isaac Newton represents the culmination of the scientific revolution at the end of the 17th century.
+His monumental Philosophiae Naturalis Principia Mathematica (1687; Mathematical Principles of Natural Philosophy) solved the major problems posed by the scientific revolution in mechanics and in cosmology.
+The Principia, as it is commonly known, provided a physical basis for Kepler’s laws, unified celestial and terrestrial physics under one set of laws, and established the problems and methods that dominated much of astronomy and physics for well over a century.
+By means of the concept of force, Newton was able to synthesize two important components of the scientific revolution, the mechanical philosophy and the mathematization of nature.
+Sir Isaac Newton, depicted in a portrait by John Vanderbank, c. 1725, studied the mechanics of planetary orbits, formulating three fundamental laws of motion, as well as the law of universal gravitation.
+Newton was able to derive all these striking results from his three laws of motion: 1.
+Every body continues in its state of rest or of motion in a straight line unless it is compelled to change that state by force impressed on it.
+2.
+The change of motion is proportional to the motive force impressed and is made in the direction of the straight line in which that force is impressed.
+3.
+To every action there is always opposed an equal reaction: or, the mutual actions of two bodies upon each other are always equal.
+The second law was put into its modern form F = ma (where a is acceleration) by the Swiss mathematician Leonhard Euler in 1750.
+In this form, it is clear that acceleration, the rate of change of motion, is directly proportional to the force acting on a body and inversely proportional to its mass.
+To apply his laws to astronomy, Newton had to extend the mechanical philosophy beyond the limits set by Descartes.
+He postulated a gravitational force acting between any two objects in the universe, even though he was unable to explain how this force could be propagated.
+By means of his laws of motion and a gravitational force proportional to the inverse square of the distance between the centers of two bodies, Newton could deduce Kepler’s laws of planetary motion.
+Galileo’s law of free fall is also consistent with Newton’s laws.
+The same force that causes objects to fall near the surface of the Earth also holds the Moon and planets in their orbits.
+Newton’s physics led to the conclusion that the shape of Earth is not precisely spherical but should bulge at the equator.
+The confirmation of this prediction by French expeditions in the mid-18th century helped persuade most European scientists to change from Cartesian to Newtonian physics.
+The science of optics in the 17th century expressed the fundamental outlook of the scientific revolution by combining an experimental approach with a quantitative analysis of phenomena.
+Optics had its origins in Greece, especially in the works of Euclid (c. 300 BCE), who stated many of the results in geometric optics that the Greeks had discovered.
+Among these was the law of reflection, which states that for a light ray striking a smooth surface, the angle of incidence is equal to the angle of reflection.
+In the 13th century, such men as Roger Bacon, Robert Grosseteste, and John Pecham, relying on the work of the Arab astronomer and mathematician Alhazen (died 1039), considered numerous optical problems, including the optics of the rainbow.
+It was Kepler, taking his lead from the writings of these 13th-century opticians, who set the tone for the science in the 17th century.
+Kepler introduced the point-by-point analysis of optical problems, tracing rays from each point on the object to a point on the image.
+Just as the mechanical philosophy was breaking the world into atomic parts, so Kepler approached optics by breaking organic reality into what he considered to be ultimately real units.
+He developed a geometric theory of lenses, providing the first mathematical account of Galileo’s telescope.
+In his prism experiment of 1666, Sir Isaac Newton used a prism to break up white light into a wide color band, called a spectrum, by refracting, or bending the light.
+White light’s component colors are all the colors of the rainbow.
+Descartes sought to incorporate the phenomena of light into mechanical philosophy by demonstrating that they can be explained entirely in terms of matter and motion.
+Using mechanical analogies, he was able to derive mathematically many of the known properties of light, including the law of reflection and the newly discovered law of refraction.
+Many of the most important contributions to optics in the 17th century were the work of Newton, especially the theory of colors.
+Traditional theory considered colors to be the result of the modification of white light.
+Descartes, for example, thought that colors were the result of the spin of the particles that constitute light.
+Newton upset the traditional theory of colors by demonstrating in an impressive set of experiments that white light is a mixture out of which separate beams of colored light can be separated.
+He associated different degrees of refrangibility (capable of being refracted) with rays of different colors; in this manner he was able to explain the way prisms produce spectra of colors from white light.
+Newton’s experimental method was characterized by a quantitative approach, since he always sought measurable variables and a clear distinction between experimental findings and mechanical explanations of those findings.
+His second important contribution to optics dealt with the interference phenomena that came to be called “Newton’s rings.”
+Although the colors of thin films (for example, oil on water) had been previously observed, no one had attempted to quantify the phenomena in any way.
+Newton observed quantitative relations between the thickness of the film and the diameters of the rings of color, a regularity he attempted to explain by his theory of fits of easy transmission and fits of easy reflection.
+Notwithstanding the fact that he generally conceived of light as being particulate, Newton’s theory of fits involves periodicity and vibrations of ether, the hypothetical fluid substance permeating all space.
+Huygens was the second great optical thinker of the 17th century.
+Although he was critical of many of the details of Descartes’s system, he wrote in the Cartesian tradition, seeking purely mechanical explanations of phenomena.
+Huygens regarded light as something of a pulse phenomenon, but he explicitly denied the periodicity of light pulses.
+He developed the concept of wave front; he was able to derive the laws of reflection and refraction from his pulse theory and to explain the recently discovered phenomenon of double refraction.
+Chemistry had manifold origins, coming from such diverse sources as philosophy, alchemy, metallurgy, and medicine.
+It emerged as a separate science only with the rise of mechanical philosophy in the 17th century.
+Aristotle had regarded the four elements earth, water, air, and fire as the ultimate constituents of all things.
+Transmutable each into the other, all four elements were believed to exist in every substance.
+Originating in Egypt and the Middle East, alchemy had a double aspect: on the one hand it was a practical endeavor aimed to make gold from baser substances, while on the other it was a cosmological theory based on the correspondence between man and the universe at large.
+Alchemy contributed to chemistry a long tradition of experience with a wide variety of substances.
+Paracelsus, a 16th-century Swiss natural philosopher, was a seminal figure in the history of chemistry, putting together in an almost impenetrable combination the Aristotelian theory of matter, alchemical correspondences, mystical forms of knowledge, and chemical therapy in medicine.
+His influence was widely felt in succeeding generations.
+During the first half of the 17th century, there were few established doctrines that chemists generally accepted as a framework.
+As a result, there was little cumulative growth of chemical knowledge.
+Chemists tended to build detailed systems, “chemical philosophies,” attempting to explain the entire universe in chemical terms.
+Most chemists accepted the traditional four elements (air, earth, water, fire), or the Paracelsian principles (salt, sulfur, mercury), or both, as the bearers of real qualities in substances; they also exhibited a marked tendency toward the occult.
+The interaction between chemistry and mechanical philosophy altered this situation by providing chemists with a shared language.
+The mechanical philosophy had been successfully employed in other areas; it seemed consistent with an experimental empiricism and seemed to provide a way to render chemistry respectable by translating it into the terms of the new science.
+Perhaps the best example of the influence of the mechanical philosophy is the work of Robert Boyle.
+The thrust of his work was to understand the chemical properties of matter, to provide experimental evidence for the mechanical philosophy, and to demonstrate that all chemical properties can be explained in mechanical terms.
+He was an excellent laboratory chemist and developed a number of important techniques, especially color-identification tests.
+Robert Boyle and Robert Hooke made an air pump to study gases.
+Pictured here is a display of one of their findings, known as Boyle’s law, which states that for a given air mass, at constant temperature, the pressure times the volume is a constant.
+Seminal contributions to science are those that change the tenor of the questions asked by succeeding generations.
+The works of Newton formed just such a contribution.
+The mathematical rigor of the Principia and the experimental approach of his Opticks became models for scientists of the 18th and 19th centuries.
+Celestial mechanics developed in the wake of his Principia, extending its scope and refining its mathematical methods.
+The more qualitative, experimental, and hypothetical approach of Opticks influenced the sciences of optics, electricity and magnetism, and chemistry.
+Celestial mechanics is a term that was introduced by French mathematician Pierre-Simon Laplace (1749–1825) in 1799.
+The study of celestial mechanics had its beginnings in early astronomy in which the motions of the Sun, the Moon, and the five planets visible to the unaided eye - Mercury, Venus, Mars, Jupiter, and Saturn - were observed and analyzed.
+However, it was not until Newton’s laws of motion were developed that the underlying physical processes governing celestial motion were understood.
+In the broadest sense, celestial mechanics encompasses the application of classical mechanics to the motion of celestial bodies acted on by any of several types of forces.
+Some of the concepts addressed by celestial mechanics include the shape of Earth; tidal interactions among Earth, the Moon, and stars; the evolution of the solar system; the orbit of the Moon; and the axial rotation of the Moon.
+Twentieth-century astronomers saw celestial mechanics being used to study dwarf planets, comets, asteroids, and natural and artificial satellites within the solar system.
+Improvements in telescopes also allowed for study of the motion of stars and galaxies.
+Eighteenth-century theoretical astronomy in large measure derived both its point of view and its problems from the Principia.
+In this work Newton had provided a physics for the Copernican worldview by, among other things, demonstrating the implications of his gravitational theory for a two-body system consisting of the Sun and a planet.
+While Newton himself had grave reservations as to the wider scope of his theory, the 18th century brought various attempts to extend it to the solution of problems involving three gravitating bodies.
+The title page of Sir Isaac Newton’s Philosophiae Naturalis Principia Mathematica (1687; Mathematical Principles of Natural Philosophy), the work in which the physicist introduced his three laws of motion.
+Early in the 18th century the English astronomer Edmond Halley, having noted striking similarities in the comets that had been observed in 1531, 1607, and 1682, argued that they were the periodic appearances every 75 years or so of a single comet that he predicted would return in 1758.
+Months before its expected return, the French mathematician Alexis Clairaut employed mathematics to calculate the effects of the gravitational attraction of Jupiter and Saturn on the otherwise elliptical orbit of Comet Halley.
+Clairaut was finally able to predict in the fall of 1758 that Comet Halley would reach perihelion (the point at which it is closest to the Sun) in April of 1759, with a leeway of one month.
+Its actual return, in March, was an early confirmation of the scope and power of the Newtonian theory.
+Edmond Halley was the first to calculate the orbit of a comet that was later named after him.
+He paid for publishing Newton’s Principia.
+It was, however, the three-body problem of either two planets and the Sun or the Sun–Earth–Moon system that provided the most persisting and profound test of Newton’s theory.
+This problem, involving more regular members of the solar system (that is, those describing nearly circular orbits having the same sense of revolution and in nearly the same plane), permitted certain simplifying assumptions and thereby invited more general and elegant mathematical approaches than the comet problem.
+An illustrious group of 18th-century mathematicians (including Clairaut; the Bernoulli family and Leonhard Euler of Switzerland; and Jean Le Rond d’Alembert, Joseph-Louis, comte de Lagrange, and Pierre-Simon, marquis de Laplace, of France) attacked these astronomical problems, as well as related ones in Newtonian mechanics, by developing and applying the calculus of variations as it had been formulated by the philosopher and mathematician Gottfried Wilhelm Leibniz of Germany.
+It is a lovely irony that this continental exploitation of Leibniz’ mathematics - which was itself closely akin to Newton’s version of calculus, which he called fluxions - was fundamental for the deepening establishment of the Newtonian theory to which Leibniz had objected because it reintroduced, according to Leibniz, occult forces into physics.
+THE THREE-BODY PROBLEM
+In astronomy, the three-body problem is the problem of determining the motion of three celestial bodies moving under no influence other than that of their mutual gravitation.
+No general solution of this problem (or the more general problem involving more than three bodies) is possible.
+As practically attacked, it consists of the problem of determining the perturbations (disturbances) in the motion of one of the bodies around the principal, or central, body that are produced by the attraction of the third.
+Examples are the motion of the Moon around Earth, as disturbed by the action of the Sun, and of one planet around the Sun, as disturbed by the action of another planet.
+The problem can be solved for some special cases - for example, those in which the mass of one body, as a spacecraft, can be considered infinitely small; the Lagrangian case, in which the three bodies are in the same plane; and the Eulerian case, in which two bodies are motionless.
+Certain of the three-body problems, most notably that of the secular acceleration of the Moon, defied early attempts at solution but finally yielded to the increasing power of the calculus of variations in the service of Newtonian theory.
+Thus, it was that Laplace - in his five-volume Traité de mécanique céleste (1798–1827; Celestial Mechanics) - was able to comprehend the whole solar system as a dynamically stable, Newtonian gravitational system.
+The secular acceleration of the Moon reappeared as a theoretical problem in the middle of the 19th century, persisting into the 20th century and ultimately requiring that the effects of the tides be recognized in its solution.
+The planet Neptune was the second planet, after Uranus, to be discovered through a telescope.
+Newtonian theory was also employed in much more dramatic discoveries that captivated the imagination of a broad and varied audience.
+Within 40 years of the discovery of Uranus in 1781 by the German-born British astronomer William Herschel, it was recognized that the planet’s motion was somewhat anomalous.
+In the next 20 years the gravitational attraction of an unobserved planet was suspected to be the cause of Uranus’s persisting deviations.
+In 1845 Urbain-Jean-Joseph Le Verrier of France and John Couch Adams of England independently calculated the position of this unseen body; the visual discovery (at the Berlin Observatory in 1846) of Neptune in just the position predicted constituted an immediately engaging and widely understood confirmation of Newtonian theory.
+In 1915 the American astronomer Percival Lowell published his prediction of yet another outer planet to account for further perturbations of Uranus not caused by Neptune.
+Pluto was finally discovered by sophisticated photographic techniques in 1930 and observed visually in 1950. (
+In August 2006 the International Astronomical Union (IAU), the organization charged by the scientific community with classifying astronomical objects, voted to remove Pluto from the list of planets and give it the new classification of dwarf planet.
+The change reflects astronomers’ realization that Pluto is a large member of the Kuiper belt, a collection of debris of ice and rock left over from the formation of the solar system and now revolving around the Sun beyond Neptune’s orbit.)
+In the second half of the 19th century, the innermost region of the solar system also received attention.
+In 1859 Le Verrier calculated the specifications of an intra-mercurial planet to account for a residual advance in the perihelion of Mercury’s orbit (38 seconds of arc per century), an effect that was not gravitationally explicable in terms of known bodies.
+While a number of sightings of this predicted planet were reported between 1859 and 1878 - the first of these resulting in Le Verrier’s naming the new planet Vulcan - they were not confirmed by observations made either during subsequent solar eclipses or at the times of predicted transits of Vulcan across the Sun.
+Astronomy of the 18th, 19th, and early 20th centuries was not completely Newtonian.
+Herschel’s discovery of Uranus, for example, was not directly motivated by gravitational considerations.
+Nine years earlier, a German astronomer, Johann D. Titius, had announced a purely numerical sequence, subsequently refined by another German astronomer, Johann E. Bode, that related the mean radii of the planetary orbits - a relation entirely outside gravitational theory.
+The sequence, called Bode’s law (or the Bode–Titius law), is given by 0 + 4 = 4, 3 + 4 = 7, 3 × 2 + 4 = 10, 3 × 4 + 4 = 16, and so on, yielding additional values of 28, 52, and 100.
+If the measured radius of the Earth’s orbit is defined as being 10, then to a very good approximation that of Mercury is 4, Venus is 7, Mars is 15 plus, Jupiter is 52, and Saturn is 95 plus.
+The fit where it can be made is good and continues since the next number in the sequence is 196 and the measured radius for Uranus’s orbit is 191, but no planet had been observed to correspond to the Bode–Titius law value of 28.
+Powerful computational methods finally verified the existence of the asteroid Ceres and confirmed the law.
+The Bode–Titius law subsequently provided simplifying assumptions for the calculations of the predicted positions, which led to the observations of Neptune and Pluto, while the novel properties of the asteroids (nearly 500 of which had been discovered by the end of the century) stimulated star charts of the zodiacal regions, provided the means for improved measurements of solar-system distances, and forced astronomers, by their very number and variety, to face the question of the allocation of resources.
+Regularities in the structure of the solar system, such as the Bode–Titius law, and the fact that all planets move in the same direction around the Sun suggested that the system might originally have been formed by a simple mechanistic process.
+Laplace proposed that this process was driven by the cooling of the hot, extended, rotating atmosphere of the primitive Sun.
+As the atmosphere contracted, it would have to rotate faster (to conserve angular momentum), and when centrifugal force exceeded gravity at the outside, a ring of material would be detached, later to condense into a planet.
+The process would be repeated several times and might also produce satellites.
+After Herschel suggested that the nebulas he observed in the sky were condensing to stars, the Laplace theory became known as the “nebular hypothesis.”
+It was the favored theory of the origin of the solar system throughout the 19th century.
+During this period the associated idea that Earth was originally a hot fluid ball that slowly cooled down while forming a solid outer crust dominated geologic speculation.
+Attempts to detect the motion of Earth caused investigators of the 18th and 19th centuries observational problems that were directly motivated by the Copernican theory.
+In 1728 the English astronomer James Bradley attributed annual changes that he observed in stellar positions to a slight tilting of the telescope with respect to the true direction of the star’s light, a tilting that compensated for Earth’s motion.
+This effect, which depends also on the ratio of Earth’s velocity to the velocity of light, is the so-called aberration of light.
+In 1838 the long-sought “stellar parallax” effect - the apparent motion of nearby stars due to the Earth’s annual motion around the Sun - was discovered by the German astronomer Friedrich Wilhelm Bessel.
+While anticlimactic as a verification of the Copernican hypothesis, the measurement of parallax provided for the first time a direct quantitative estimate of the distances of a few stars.
+While attention has been focused on the more positional aspects of astronomy, mention should be made of two other broad areas of investigation that in their 19th-century form derived largely from the work of William Herschel.
+These areas, dealing with more structural features of the heavens and with the physical character of the stars, developed in large measure with advancements in physics.
+Since they provided the principal basis for subsequent investigations, Newton’s optical views were subject to close consideration until well into the 19th century.
+From his studies of the phenomena of color, Newton became convinced that dispersion necessarily accompanies refraction and that chromatic aberration (color distortion) could therefore be eliminated by employing reflectors, rather than refractors, as telescopes.
+By the mid-18th century Euler and others had theoretical arguments against Newton; Euler offered the human eye as an example of an achromatic lens system.
+Although he was virtually alone in this, Euler also rejected Newton’s essentially corpuscular theory of the nature of light by explaining optical phenomena in terms of vibrations in a fluid ether.
+The dominance of Newton’s theory throughout the 18th century was due partly to its successful direct application by Newton and his followers and partly to the comprehensiveness of Newton’s thought.
+At the turn of the century, Thomas Young, an English physician studying the power of accommodation of the eye (that is, its focusing power), was led gradually to extensive investigations and discoveries in optics, including the effect of interference.
+By means of a wave theory of light, Young was able to explain both this effect, which in its most dramatic manifestation results in two rays of light canceling each other to produce darkness, and also the various color phenomena observed by Newton.
+The wave theory of light was developed from 1815 onward by the French physicist Augustin-Jean Fresnel.
+It was countered by adherents of the corpuscular theory, most notably by a group of other French scientists - Pierre-Simon Laplace, Siméon-Denis Poisson, Étienne Malus, and Jean-Baptiste Biot - and most strikingly in connection with Malus’s discovery (1808) of the polarization of light by reflection.
+Following Young’s suggestion in 1817, Fresnel was able to render polarization effects comprehensible by means of a wave theory that considered light to be a transverse rather than a longitudinal wave, as the analogy with sound had suggested.
+The propagation of a transverse wave, the velocity of which through various media and under a variety of conditions was measured terrestrially with increasing accuracy from mid-century onward, seemed to require an ether having the properties of a highly elastic solid (for example, such as steel), which offered no resistance to the planetary motions.
+These bizarre properties stimulated a number of mechanical models of the ether, most notably those of the English physicist William Thomson (Lord Kelvin).
+To encompass the aberration of light by means of his wave theory, Fresnel had assumed that the motionless ether freely permeated the opaque Earth and thus remained unaffected by its motions.
+Furthermore, he derived as a theoretical consequence (verified experimentally in mid-century by Armand-Hippolyte-Louis Fizeau) that the ether was partially dragged along by a moving transparent substance depending on the index of refraction of the substance.
+However, all subsequent investigators (most notably the American scientists A.A. Michelson and Edward W. Morley, in 1887) failed in their attempts to measure the required ether drift.
+It was just to escape this difficulty of a necessary but undetected ether drift that George Francis FitzGerald of England and the Dutch theorist Hendrik Antoon Lorentz independently, at the close of the century, postulated the contraction of moving bodies in the direction of their motion through the ether.
+The Lorentz–FitzGerald contraction involves the square of the ratio of the velocity of the body to the velocity of light and ensures theoretically the experimental undetectability of the ether drift.
+It was the seeming necessity of arbitrary postulations of this kind that was eliminated by Einstein’s formulation of relativity theory.
+Until the end of the 18th century, investigations in electricity and magnetism exhibited more of the hypothetical and spontaneous character of Newton’s Opticks than the axiomatic and somewhat forbidding tone of his Principia.
+Early in the century, in England Stephen Gray and in France Charles François de Cisternay DuFay studied the direct and induced electrification of various substances by the two kinds of electricity (then called vitreous and resinous and now known as positive and negative), as well as the capability of these substances to conduct the “effluvium” of electricity.
+By about mid-century, the use of Leyden jars (to collect charges) and the development of large static electricity machines brought the experimental science into the drawing room.
+Meanwhile, the theoretical aspects were cast in various forms of the single-fluid theory (by the American Benjamin Franklin and the German-born physicist Franz Aepinus, among others) and the two-fluid theory.
+Joseph Priestley designed this apparatus for the generation and storage of electricity.
+When the handle was turned, the glass globe rotated against a horsehair pad, generating a charge of static electricity.
+By the end of the 18th century, in England, Joseph Priestley had noted that no electric effect was exhibited inside an electrified hollow metal container and had brilliantly inferred from this similarity that the inverse-square law (of gravity) must hold for electricity as well.
+In a series of painstaking memoirs, the French physicist Charles-Augustin de Coulomb, using a torsion balance that Henry Cavendish had used in England to measure the gravitational force, demonstrated the inverse-square relation for electrical and magnetic attractions and repulsions.
+Coulomb went on to apply this law to calculate the surface distribution of the electrical fluid in such a fundamental manner as to provide the basis for the 19th-century extensions by Poisson and Lord Kelvin.
+The discovery of galvanic electricity and the development of voltaic electricity opened whole new areas of investigation for the 19th century by providing convenient sources of sustained electrical current.
+The Danish physicist Hans Christian Ørsted’s discovery, in 1820, of the magnetic effect accompanying an electric current led almost immediately to quantitative laws of electromagnetism and electrodynamics.
+By 1827, André-Marie Ampère had published a series of mathematical and experimental memoirs on his electrodynamic theory that not only rendered electromagnetism comprehensible but also ordinary magnetism, identifying both as the result of electrical currents.
+Ampère solidly established his electrodynamics by basing it on inverse-square forces (which are directed at right angles to, rather than in, the line connecting the two interacting elements) and by demonstrating that the effects do not violate Newton’s third law of motion, notwithstanding their transverse direction.
+Michael Faraday’s discovery in 1831 of electromagnetic induction (the inverse of the effect discovered by Ørsted), his experimental determination of the identity of the various forms of electricity (1833), his discovery of the rotation of the plane of polarization of light by magnetism (1845), in addition to certain findings of other investigators - for example, the discovery by James Prescott Joule in 1843 (and others) of the mechanical equivalent of heat (the conservation of energy) - all served to emphasize the essential unity of the forces of nature.
+Within electricity and magnetism attempts at theoretical unification were conceived in terms of either gravitational-type forces acting at a distance, as with Ampère, or, with Faraday, in terms of lines of force and the ambient medium in which they were thought to travel.
+The German physicists Wilhelm Eduard Weber and Rudolph Kohlrausch, in order to determine the coefficients in his theory of the former kind, measured the ratio of the electromagnetic and electrostatic units of electrical charge to be equal to the velocity of light.
+Michael Faraday gave a lecture on electricity and magnetism at the Royal Institution in London, England, on January 23, 1846.
+The Scottish physicist James Clerk Maxwell developed his profound mathematical electromagnetic theory from 1855 onward.
+He drew his conceptions from Faraday and thus relied fundamentally on the ether required by optical theory, while using ingenious mechanical models.
+One consequence of Maxwell’s mature theory was that an electromagnetic wave must be propagated through the ether with a velocity equal to the ratio of the electromagnetic to electrostatic units.
+Combined with the earlier results of Weber and Kohlrausch, this result implied that light is an electromagnetic phenomenon.
+Moreover, it suggested that electromagnetic waves of wavelengths other than the narrow band corresponding to visible light should exist in nature or could be artificially generated.
+FARADAY’S LAW OF INDUCTION
+Faraday’s law of induction is a quantitative relationship between a changing magnetic field and the electric field created by the change.
+The law was developed on the basis of experimental observations made in 1831 by the English scientist Michael Faraday (1791–1867).
+The phenomenon called electromagnetic induction was first noticed and investigated by Faraday; the law of induction is its quantitative expression.
+Faraday discovered that, whenever the magnetic field about an electromagnet was made to grow and collapse by closing and opening the electric circuit of which it was a part, an electric current could be detected in a separate conductor nearby.
+Moving a permanent magnet into and out of a coil of wire also induced a current in the wire while the magnet was in motion.
+Moving a conductor near a stationary permanent magnet caused a current to flow in the wire, too, as long as it was moving.
+Faraday visualized a magnetic field as composed of many lines of induction, along which a small magnetic compass would point.
+The aggregate of the lines intersecting a given area is called the magnetic flux.
+The electrical effects were thus attributed by Faraday to a changing magnetic flux.
+Some years later the Scottish physicist James Clerk Maxwell proposed that the fundamental effect of a changing magnetic flux was the production of an electric field, not only in a conductor (where it could drive an electric charge) but also in space, even in the absence of electric charges.
+Maxwell formulated the mathematical expression relating the change in magnetic flux to the induced electromotive force (E, or emf).
+This relationship, known as Faraday’s law of induction (to distinguish it from his laws of electrolysis), states that the magnitude of the emf induced in a circuit is proportional to the rate of change of the magnetic flux that cuts across the circuit.
+If the rate of change of magnetic flux is expressed in units of webers per second, the induced emf has units of volts. (
+A weber is defined as the amount of flux that, linking an electrical circuit of one turn [one loop of wire], produces in it an electromotive force of one volt as the flux is reduced to zero at a uniform rate in one second.)
+Faraday’s law is one of the four Maxwell equations that define electromagnetic theory.
+Maxwell’s theory received direct verification in 1886, when Heinrich Hertz of Germany detected the predicted electromagnetic waves.
+Their use in long-distance communication - “radio” - followed within two decades, and gradually physicists became acquainted with the entire electromagnetic spectrum.
+Eighteenth-century chemistry was derived from and remained involved with questions of mechanics, light, and heat as well as with notions of medical therapy and the interaction between substances and the formation of new substances.
+Chemistry took many of its problems and much of its viewpoint from the Opticks and especially the “Queries” with which that work ends.
+Newton’s suggestion of a hierarchy of clusters of unalterable particles formed by virtue of the specific attractions of its component particles led directly to comparative studies of interactions and thus to the tables of affinities of the physician Herman Boerhaave and others early in the century.
+This work culminated at the end of the century in Torbern Bergman’s table of quantitative values of the affinity of substances both for reactions when “dry” and when in solution and that considered double as well as simple affinities.
+Seventeenth-century investigations of “airs” or gases, combustion and calcination, and the nature and role of fire were incorporated by the chemists Johann Joachim Becher and Georg Ernst Stahl of Sweden into a theory of phlogiston.
+According to this theory, which was most influential after the middle of the 18th century, the fiery principle phlogiston was released into the air in the processes of combustion, calcination, and respiration.
+The theory explained that air was simply the receptacle for phlogiston; any combustible or calcinable substance contained phlogiston as a principle or element and thus could not itself be elemental.
+Iron, in rusting, was considered to lose its compound nature and to assume its elemental state as the calx of iron by yielding its phlogiston into the ambient air.
+Investigations that isolated and identified various gases in the second half of the 18th century, most notably the English chemist Joseph Black’s quantitative manipulations of “fixed air” (carbon dioxide) and Joseph Priestley’s discovery of “dephlogisticated air” (oxygen), were instrumental for the French chemist Antoine Lavoisier’s formulation of his own oxygen theory of combustion and rejection of the phlogiston theory - he explained combustion not as the result of the liberation of phlogiston, but rather as the result of the combination of the burning substance with oxygen.
+This transformation coupled with a reform in nomenclature at the end of the century (due to Lavoisier and others) - a reform that reflected the new conceptions of chemical elements, compounds, and processes - constituted the revolution in chemistry.
+Very early in the 19th century, another study of gases, this time in the form of a persisting Newtonian approach to certain meteorological problems by the British chemist John Dalton, led to the enunciation of a chemical atomic theory.
+From this theory, which was demonstrated to agree with the law of definite proportions and from which the law of multiple proportions was derived, Dalton was able to calculate definite atomic weights by assuming the simplest possible ratio for the numbers of combining atoms.
+For example, knowing from experiment that the ratio of the combining weights of hydrogen to oxygen in the formation of water is 1 to 8 and by assuming that one atom of hydrogen combined with one atom of oxygen, Dalton affirmed that the atomic weight of oxygen was eight, based on hydrogen as one.
+At the same time, however, in France, Joseph-Louis Gay-Lussac, from his volumetric investigations of combining gases, determined that two volumes of hydrogen combined with one of oxygen to produce water.
+While this suggested H2O rather than Dalton’s HO as the formula for water, with the result that the atomic weight of oxygen becomes 16, it did involve certain inconsistencies with Dalton’s theory.
+As early as 1811 the Italian physicist Amedeo Avogadro was able to reconcile Dalton’s atomic theory with Gay-Lussac’s volumetric law by postulating that Dalton’s atoms were indeed compound atoms, or polyatomic.
+For a number of reasons, one of which involved the recent successes of electrochemistry, Avogadro’s hypothesis was not accepted until it was reintroduced by the Italian chemist Stanislao Cannizzaro half a century later.
+From the turn of the century, the English scientist Humphry Davy and many others had employed the strong electric currents of voltaic piles for the analysis of compound substances and the discovery of new elements.
+From these results, it appeared obvious that chemical forces were essentially electrical in nature and that two hydrogen atoms, for example, having the same electrical charge, would repel each other and could not join to form the polyatomic molecule required by Avogadro’s hypothesis.
+Until the development of a quantum-mechanical theory of the chemical bond, beginning in the 1920s, bonding was described by empirical “valence” rules but could not be satisfactorily explained in terms of purely electrical forces.
+Dmitry Mendeleyev made this periodic table in 1869.
+When all the known chemical elements were arranged in order of increasing atomic weight, the resulting table showed a recurring pattern of properties with groups of elements.
+Between the presentation of Avogadro’s hypothesis in 1811 and its general acceptance soon after 1860, several experimental techniques and theoretical laws were used by various investigators to yield different but self-consistent schemes of chemical formulas and atomic weights.
+After its acceptance, these schemes became unified.
+Within a few years of the development of another powerful technique, spectrum analysis, by the German physicists Gustav Kirchhoff and Robert Bunsen in 1859, the number of chemical elements whose atomic weights and other properties were known had approximately doubled since the time of Avogadro’s announcement.
+By relying fundamentally upon the determined atomic weight values and by using his chemical insight and intuition, the Russian chemist Dmitry Ivanovich Mendeleyev provided a classification scheme that ordered much of this burgeoning information.
+This was a culmination of earlier attempts to represent the periodic repetition of certain chemical and physical properties of the elements.
+The significance of the atomic weights themselves remained unclear.
+In 1815 William Prout, an English chemist, had proposed that they might all be integer multiples of the weight of the hydrogen atom, implying that the other elements are simply compounds of hydrogen.
+More accurate determinations, however, showed that the atomic weights are significantly different from integers.
+They are not the actual weights of individual atoms, but by 1870 it was possible to estimate those weights (or rather masses) in grams by the kinetic theory of gases and other methods.
+Thus, one could at least say that the atomic weight of an element is proportional to the mass of an atom of that element.
+The 20th century brought 100 years of true scientific creativity.
+Although a large share of this activity centered on discoveries in the biological sciences, it is hard to deny the tremendous advances seen in the physical sciences.
+Physicists Max Planck, with his quantum theory, and Albert Einstein, with his general and special theories of relativity, led the way to 20th-century advances in physics.
+Astronomy blossomed with the big-bang theory of the origin of the universe as well as evidence of new and numerous galaxies beyond the Milky Way.
+In addition, the concepts of astronomical dark matter and energy were proposed and the first extrasolar planets were identified.
+The theories of chemical bonding and the synthesis of ammonia were just two of the many advances in chemistry during the 20th century.
+This chapter looks at the questions answered by 20th-century physical scientists and the questions they raised for future examination.
+Some of the most spectacular advances in modern astronomy have come from research on the large-scale structure and development of the universe.
+This research goes back to William Herschel’s observations of nebulas at the end of the 18th century.
+Some astronomers considered them to be “island universes” - huge stellar systems outside of and comparable to the Milky Way Galaxy, to which the solar system belongs.
+Others, following Herschel’s own speculations, thought of them simply as gaseous clouds - relatively small patches of diffuse matter within the Milky Way Galaxy, which might be in the process of developing into stars and planetary systems, as described in Laplace’s nebular hypothesis.
+In 1912 Vesto Melvin Slipher began at the Lowell Observatory in Arizona an extensive program to measure the velocities of nebulas, using the Doppler shift of their spectral lines. (
+Doppler shift is the observed change in wavelength of the radiation from a source that results from the relative motion of the latter along the line of sight.)
+By 1925 he had studied about 40 nebulas, most of which were found to be moving away from the Earth according to the red shift (displacement toward longer wavelengths) of their spectra.
+Henrietta Swan Leavitt found in 1912 that magnitudes and periods of Cepheid variable stars are closely related to their true brightness.
+Although the nebulas were apparently so far away that their distances could not be measured directly by the stellar parallax method, an indirect approach was developed based on a discovery made in 1908 by Henrietta Swan Leavitt at the Harvard College Observatory.
+Leavitt studied the magnitudes (apparent brightnesses) of a large number of variable stars, including the type known as Cepheid variables.
+Some of them were close enough to have measurable parallaxes so that their distances and thus their intrinsic brightnesses could be determined.
+She found a correlation between brightness and period of variation.
+Assuming that the same correlation holds for all stars of this kind, their observed magnitudes and periods could be used to estimate their distances.
+In 1923 the American astronomer Edwin P. Hubble identified a Cepheid variable in the so-called Andromeda Nebula.
+Using Leavitt’s period–brightness correlation, Hubble estimated its distance to be approximately 900,000 light-years.
+Since this was much greater than the size of the Milky Way system, it appeared that the Andromeda Nebula must be another galaxy (island universe) outside of our own.
+In 1929 Hubble combined Slipher’s measurements of the velocities of nebulas with further estimates of their distances and found that on the average such objects are moving away from the Earth with a velocity proportional to their distance.
+Hubble’s velocity–distance relation suggested that the universe of galactic nebulas is expanding, starting from an initial state about two billion years ago in which all matter was contained in a fairly small volume.
+Revisions of the distance scale in the 1950s and later increased the “Hubble age” of the universe to more than 10 billion years.
+Calculations by Aleksandr A. Friedmann in the Soviet Union, Willem de Sitter in the Netherlands, and Georges Lemaître in Belgium, based on Einstein’s general theory of relativity, showed that the expanding universe could be explained in terms of the evolution of space itself.
+According to Einstein’s theory, space is described by the non-Euclidean geometry proposed in 1854 by the German mathematician G.F. Bernhard Riemann.
+Its departure from Euclidean space is measured by a “curvature” that depends on the density of matter.
+The universe may be finite, though unbounded, like the surface of a sphere.
+Thus, the expansion of the universe refers not merely to the motion of extragalactic stellar systems within space but also to the expansion of the space itself.
+In 1950 American astronomer Edwin Hubble posed inside the workings of the 200-inch (508-centimeter) Hale telescope at the Palomar Observatory, located on Mount Palomar, California.
+The beginning of the expanding universe was linked to the formation of the chemical elements in a theory developed in the 1940s by the physicist George Gamow, a former student of Friedmann who had emigrated to the United States.
+Gamow proposed that the universe began in a state of extremely high temperature and density and exploded outward - the so-called big bang.
+Matter was originally in the form of neutrons, which quickly decayed into protons and electrons; these then combined to form hydrogen and heavier elements.
+THE BIG-BANG MODEL
+The big-bang model is a widely held theory of the evolution of the universe.
+Its essential feature is the emergence of the universe from a state of extremely high temperature and density - the so-called big bang that occurred 13.8 billion years ago.
+Although this type of universe was proposed by Russian mathematician Aleksandr Friedmann and Belgian astronomer Georges Lemaître in the 1920s, the modern version was developed by Russian-born American physicist George Gamow and colleagues in the 1940s.
+The big-bang model is based on two assumptions.
+The first is that Albert Einstein’s general theory of relativity correctly describes the gravitational interaction of all matter.
+The second assumption, called the cosmological principle, states that an observer’s view of the universe depends neither on the direction in which he looks nor on his location.
+This principle applies only to the large-scale properties of the universe, but it does imply that the universe has no edge, so that the big-bang origin occurred not at a particular point in space but rather throughout space at the same time.
+These two assumptions make it possible to calculate the history of the cosmos after a certain epoch called the Planck time.
+Scientists have yet to determine what prevailed before Planck time.
+According to the big-bang model, the universe expanded rapidly from a highly compressed primordial state, which resulted in a significant decrease in density and temperature.
+Soon afterward, the dominance of matter over antimatter (as observed today) may have been established by processes that also predict proton decay.
+During this stage many types of elementary particles may have been present.
+After a few seconds, the universe cooled enough to allow the formation of certain atomic nuclei.
+The theory predicts that definite amounts of hydrogen, helium, and lithium were produced.
+Their abundances agree with what is observed today.
+About one million years later the universe was sufficiently cool for atoms to form.
+The radiation that also filled the universe was then free to travel through space.
+This remnant of the early universe is the cosmic microwave background radiation - the “three degree” (actually 2.728 K) background radiation - discovered in 1965 by American physicists Arno A. Penzias and Robert W. Wilson.
+In addition to accounting for the presence of ordinary matter and radiation, the model predicts that the present universe should also be filled with neutrinos, fundamental particles with no mass or electric charge.
+The possibility exists that other relics from the early universe may eventually be discovered.
+Gamow’s students Ralph Alpher and Robert Herman estimated in 1948 that the radiation left over from the big bang should by now have cooled down to a temperature just a few degrees above absolute zero (0 K, or −459 °F).
+In 1965 the predicted cosmic background radiation was discovered by Arno A. Penzias and Robert W. Wilson of the Bell Telephone Laboratories as part of an effort to build sensitive microwave-receiving stations for satellite communication.
+Their finding provided unexpected evidence for the idea that the universe was in a state of very high temperature and density sometime between 10 billion and 20 billion years ago.
+Just as the development of cosmology relied heavily on ideas from physics, especially Einstein’s general theory of relativity, so did theories of stellar structure and evolution depend on discoveries in atomic physics.
+These theories also offered a fundamental basis for chemistry by showing how the elements could have been synthesized in stars.
+The idea that stars are formed by the condensation of gaseous clouds was part of the 19th-century nebular hypothesis.
+The gravitational energy released by this condensation could be transformed into heat, but calculations by Hermann von Helmholtz and Lord Kelvin indicated that this process would provide energy to keep the Sun shining for only about 20 million years.
+Evidence from radiometric dating, starting with the work of the British physicist Ernest Rutherford in 1905, showed that the Earth is probably several billion years old.
+Astrophysicists were perplexed: what source of energy has kept the Sun shining for such a long time?
+In 1925 Cecilia Payne, a graduate student from Britain at Harvard College Observatory, analyzed the spectra of stars using statistical atomic theories that related them to temperature, density, and composition.
+She found that hydrogen and helium are the most abundant elements in stars, though this conclusion was not generally accepted until it was confirmed four years later by the noted American astronomer Henry Norris Russell.
+By this time Prout’s hypothesis that all the elements are compounds of hydrogen had been revived by physicists in a somewhat more elaborate form.
+The deviation of atomic weights from exact integer values (expressed as multiples of hydrogen) could be explained partly by the fact that some elements are mixtures of isotopes with different atomic weights and partly by Einstein’s relation between mass and energy (taking account of the binding energy of the forces that hold together the atomic nucleus).
+The German physicist Werner Heisenberg proposed in 1932 that, whereas the hydrogen nucleus consists of just one proton, all heavier nuclei contain protons and neutrons.
+Since a proton can be changed into a neutron by fusing it with an electron, this meant that all the elements could be built up from protons and electrons - that is, from hydrogen atoms.
+In 1938 the German-born physicist Hans Bethe proposed the first satisfactory theory of stellar energy generation based on the fusion of protons to form helium and heavier elements.
+He showed that once elements as heavy as carbon had been formed, a cycle of nuclear reactions could produce even heavier elements.
+Fusion of hydrogen into heavier elements would also provide enough energy to account for the Sun’s energy generation over a period of billions of years.
+Although Bethe’s theory, as extended by Fred Hoyle, Edwin E. Salpeter, and William A. Fowler, is the best one available, there is still some doubt about its accuracy because the neutrinos supposedly produced by the fusion reactions have not been observed in the amounts predicted.
+According to the theory of stellar evolution developed by the Indian-born American astrophysicist Subrahmanyan Chandrasekhar and others, a star will become unstable after it has converted most of its hydrogen to helium and may go through stages of rapid expansion and contraction.
+If the star is much more massive than the Sun, it will explode violently, giving rise to a supernova.
+The explosion will synthesize heavier elements and spread them throughout the surrounding interstellar medium, where they provide the raw material for the formation of new stars and eventually of planets and living organisms.
+After a supernova explosion, the remaining core of the star may collapse further under its own gravitational attraction to form a dense star composed mainly of neutrons.
+This so-called neutron star, predicted theoretically in the 1930s by the astronomers Walter Baade and Fritz Zwicky, is apparently the same as the pulsar (a source of rapid, very regular pulses of radio waves), discovered in 1967 by Jocelyn Bell of the British radio astronomy group under Antony Hewish at Cambridge University.
+More massive stars may undergo a further stage of evolution beyond the neutron star: they may collapse to a black hole, in which the gravitational force is so strong that even light cannot escape.
+The black hole as a singularity in an idealized space-time universe was predicted from the general relativity theory by the German astronomer Karl Schwarzschild in 1916.
+Its role in stellar evolution was later described by the American physicists J. Robert Oppenheimer and John Wheeler.
+During the 1980s, possible black holes were thought to have been located in X-ray sources and at the center of certain galaxies.
+Jocelyn Bell is seen here at Cambridge University in 1968.
+She monitored quasars and discovered a series of extremely regular radio pulses, which were determined to be emanating from rapidly spinning neutron stars, later called pulsars.
+This area of investigation, which lay relatively dormant through the first half of the 20th century, was revived in the 1960s under the stimulus of the Soviet and American space programs.
+Missions to the Moon and planets yielded a wealth of complex information that has yet to be completely assimilated by scientists.
+Before the first manned lunar landing in 1969, there were three competing hypotheses about the origin of the Moon: (1) formation in its present orbit simultaneously with the Earth, as described in the nebular hypothesis; (2) formation elsewhere and subsequent capture by the Earth; and (3) ejection from the Earth by fission (a popularly known theory that the Moon emanated from what is now the Pacific Ocean basin).
+Following the analysis of lunar samples and theoretical criticism of these hypotheses, lunar scientists came to the conclusion that none were satisfactory.
+However, photographs of the surface of Mercury taken by the U.S. Mariner 10 spacecraft in 1974 showed that it is heavily cratered like the Moon’s surface.
+This finding, together with theoretical calculations by V.S. Safronov of the Soviet Union and George W. Wetherill of the United States on the formation of planets by accumulation of smaller solid bodies, suggested that the Earth was also probably subject to heavy bombardment soon after its formation.
+In line with this, a theory proposed by the American astronomers William K. Hartmann and A.G.W. Cameron has become the most popular.
+According to their theory, the Earth was struck by a Mars-sized object, and the force of the impact vaporized the outer parts of both bodies.
+The vapor thus produced remained in orbit around the Earth and eventually condensed to form the Moon.
+Like the hypothesis proposed by Luis Alvarez that attributes the extinction of the dinosaurs to an asteroid impact, the Hartmann–Cameron theory seemed so bizarre that it could not have been taken seriously until compelling evidence became available.
+During the years 1896–1932 the foundations of physics changed so radically that many observers describe this period as a scientific revolution comparable in depth, if not in scope, to the one that took place during the 16th and 17th centuries.
+The 20th-century revolution changed many of the ideas about space, time, mass, energy, atoms, light, force, determinism, and causality that had apparently been firmly established by Newtonian physics during the 18th and 19th centuries.
+Moreover, according to some interpretations, the new theories demolished the basic metaphysical assumption of earlier science that the entire physical world has a real existence and objective properties independent of human observation.
+Closer examination of 19th-century physics shows that Newtonian ideas were already being undermined in many areas and that the program of mechanical explanation was openly challenged by several influential physicists toward the end of the century.
+Yet there was no agreement as to what the foundations of a new physics might be.
+Modern textbook writers and popularizers often try to identify specific paradoxes or puzzling experimental results - for example, the failure to detect the Earth’s absolute motion in the Michelson–Morley experiment - as anomalies that led physicists to propose new fundamental theories such as relativity.
+Historians of science have shown, however, that most of these anomalies did not directly cause the introduction of the theories that later resolved them.
+As with Copernicus’s introduction of heliocentric astronomy, the motivation seems to have been a desire to satisfy aesthetic principles of theory structure rooted in earlier views of the world rather than a need to account for the latest experiment or calculation.
+The discovery of radioactivity by the French physicist Henri Becquerel in 1896 is generally taken to mark the beginning of 20th-century physics.
+The successful isolation of radium and other intensely radioactive substances by Marie and Pierre Curie focused the attention of scientists and the public on this remarkable phenomenon and promoted a wide range of experiments.
+Ernest Rutherford soon took the lead in studying the nature of radioactivity.
+He found that there are two distinct kinds of radiation emitted in radioactivity called alpha and beta rays.
+The alpha rays proved to be positively charged particles identical to ionized helium atoms.
+Beta rays are much less massive negatively charged particles; they were shown to be the same as the electrons discovered by J.J. Thomson in cathode rays in 1897.
+A third kind of ray, designated gamma, consists of high-frequency electromagnetic radiation.
+Rutherford proposed that radioactivity involves a transmutation of one element into another.
+This proposal called into question one of the basic assumptions of 19th-century chemistry: that the elements consist of qualitatively different substances - 92 of them by the end of the century.
+It implied a return to the ideas of Prout and the ancient atomists - namely, that everything in the world is composed of only one or a few basic substances.
+Transmutation, according to Rutherford and his colleagues, was governed by certain empirical rules.
+For example, in alpha decay the atomic number of the “daughter” element is two less than that of the “mother” element, and its atomic weight is four less; this seems consistent with the fact that the alpha ray, identified as helium, has atomic number 2 and atomic weight 4, so that total atomic number and total atomic weight are conserved in the decay reaction.
+Using these rules, Rutherford and his colleagues could determine the atomic numbers and atomic weights of many substances formed by radioactive decay, even though the substances decayed so quickly into others that these properties could not be measured directly.
+The atomic number of an element determines its place in Mendeleyev’s periodic table (and thus its chemical properties).
+It was found that substances of different atomic weight could have the same atomic number; such substances were called isotopes of an element.
+Although the products of radioactive decay are determined by simple rules, the decay process itself seems to occur at random.
+All one can say is that there is a certain probability that an atom of a radioactive substance will decay during a certain time interval, or, equivalently, that half of the atoms of the sample will have decayed after a certain time - that is, the half-life of the material.
+At the University of Manchester in England, Rutherford led a group that rapidly developed new ideas about atomic structure.
+On the basis of an experiment conducted by Hans Geiger and Ernest Marsden in which alpha particles were scattered by a thin film of metal, Rutherford proposed a nuclear model of the atom (1911).
+In this model, the atom consists mostly of empty space, with a tiny, positively charged nucleus that contains most of the mass, surrounded by one or more negatively charged electrons.
+Henry G.J. Moseley, an English physicist, showed by an analysis of X-ray spectra that the electric charge on the nucleus is simply proportional to the atomic number of the element.
+This diagram represents the Rutherford atomic model.
+Physicist Ernest Rutherford envisioned the atom as like a miniature solar system, with electrons orbiting around a massive nucleus.
+During the 1920s physicists thought that the nucleus was composed of two particles: the proton (the positively charged nucleus of hydrogen) and the electron.
+In 1932 the English physicist James Chadwick discovered the neutron, a particle with about the same mass as the proton but no electric charge.
+Since there were technical difficulties with the proton–electron model of the nucleus, physicists were willing to accept Heisenberg’s hypothesis that it consists instead of protons and neutrons.
+The atomic number is then simply the number of protons in the nucleus, while the mass number, the integer closest to the atomic weight, is equal to the total number of neutrons and protons.
+As mentioned above, this simple model of nuclear structure provided the basis for Hans Bethe’s theory of the formation of elements from hydrogen in stars.
+In 1938 the German physicists Otto Hahn and Fritz Strassmann found that, when uranium is bombarded by neutrons, lighter elements such as barium and krypton are produced.
+This phenomenon was interpreted by Lise Meitner and her nephew Otto Frisch as a breakup, or fission, of the uranium nucleus into smaller nuclei.
+Other physicists soon realized that since fission produces more neutrons, a chain reaction could result in a powerful explosion.
+World War II was about to begin, and physicists who had emigrated from Germany, Italy, and Hungary to the United States and Great Britain feared that Germany might develop an atomic bomb that could determine the outcome of the war.
+They persuaded the US and British governments to undertake a major project to develop such a weapon first.
+The US Manhattan Project did eventually produce atomic bombs based on the fission of uranium or of plutonium, a new artificially created element, and these were used against Japan in August 1945.
+Later, an even more powerful bomb based on the fusion of hydrogen atoms was developed and tested by both the United States and the Soviet Union.
+Thus, nuclear physics began to play a major role in world history.
+In a few months during the years 1665–66, Newton discovered the composite nature of light, analyzed the action of gravity, and invented the mathematical technique now known as calculus - or so he recalled in his old age.
+The only person who has ever matched Newton’s amazing burst of scientific creativity - three revolutionary discoveries within a year - was Albert Einstein, who in 1905 published the special theory of relativity, the quantum theory of radiation, and a theory of Brownian movement that led directly to the final acceptance of the atomic structure of matter.
+Relativity theory has already been mentioned several times herein, an indication of its close connection with several areas of physical science.
+There is no room here to discuss the subtle line of reasoning that Einstein followed in arriving at his amazing conclusions; a brief summary of his starting point and some of the consequences will have to suffice.
+Physicist Albert Einstein works on calculations at a blackboard, c. 1931.
+His theories of relativity led to entirely new ways of thinking about time, space, matter, energy, and gravity.
+In his 1905 paper on the electrodynamics of moving bodies, Einstein called attention to an apparent inconsistency in the usual presentation of Maxwell’s electromagnetic theory as applied to the reciprocal action of a magnet and a conductor.
+The equations are different depending on which is “at rest” and which is “moving,” yet the results must be the same.
+Einstein located the difficulty in the assumption that absolute space exists; he postulated instead that the laws of nature are the same for observers in any inertial frame of reference and that the speed of light is the same for all such observers.
+From these postulates Einstein inferred: (1) an observer in one frame would find from his own measurements that lengths of objects in another frame are contracted by an amount given by the Lorentz–FitzGerald formula; (2) each observer would find that clocks in the other frame run more slowly; (3) there is no absolute time - events that are simultaneous in one frame of reference may not be so in another; and (4) the observable mass of any object increases as it goes faster.
+Closely connected with the mass-increase effect is Einstein’s famous formula E = mc2: mass and energy are no longer conserved but can be interconverted.
+The explosive power of the atomic and hydrogen bombs derives from the conversion of mass to energy.
+In a paper on the creation and conversion of light (usually called the “photoelectric effect paper”), published earlier in 1905, Einstein proposed the hypothesis that electromagnetic radiation consists of discrete energy quanta that can be absorbed or emitted only as a whole.
+Although this hypothesis would not replace the wave theory of light, which gives a perfectly satisfactory description of the phenomena of diffraction, reflection, refraction, and dispersion, it would supplement it by also ascribing particle properties to light.
+Until recently the invention of the quantum theory of radiation was generally credited to another German physicist, Max Planck, who in 1900 discussed the statistical distribution of radiation energy in connection with the theory of blackbody radiation.
+Although Planck did propose the basic hypothesis that the energy of a quantum of radiation is proportional to its frequency of vibration, it is not clear whether he used this hypothesis merely for mathematical convenience or intended it to have a broader physical significance.
+In any case, he did not explicitly advocate a particle theory of light before 1905.
+Historians of physics still disagree on whether Planck or Einstein should be considered the originator of the quantum theory.
+Einstein’s paper on Brownian movement seems less revolutionary than the other 1905 papers because most modern readers assume that the atomic structure of matter was well established at that time.
+Such was not the case, however.
+In spite of the development of the chemical atomic theory and of the kinetic theory of gases in the 19th century, which allowed quantitative estimates of such atomic properties as mass and diameter, it was still fashionable in 1900 to question the reality of atoms.
+This skepticism, which does not seem to have been particularly helpful to the progress of science, was promoted by the empiricist, or “positivist,” philosophy advocated by Auguste Comte, Ernst Mach, Wilhelm Ostwald, Pierre Duhem, Henri Poincaré, and others.
+It was the French physicist Jean Perrin who, using Einstein’s theory of Brownian movement, finally convinced the scientific community to accept the atom as a valid scientific concept.
+The Danish physicist Niels Bohr pioneered the use of the quantum hypothesis in developing a successful theory of atomic structure.
+Adopting Rutherford’s nuclear model, he proposed in 1913 that the atom is like a miniature solar system, with the electrons moving in orbits around the nucleus just as the planets move around the Sun.
+Although the electrical attraction between the electrons and nucleus is mathematically similar to the gravitational attraction between the planets and the Sun, the quantum hypothesis is needed to restrict the electrons to certain orbits and to forbid them from radiating energy except when jumping from one orbit to another.
+Danish physicist Niels Bohr proposed that electrons can circle the nucleus of an atom only in particular orbits of fixed size and energy.
+This diagram shows the Bohr model of a nitrogen atom.
+Bohr’s model provided a good description of the spectra and other properties of atoms containing only one electron - neutral hydrogen and singly ionized helium - but could not be satisfactorily extended to multi-electron atoms or molecules.
+It relied on an inconsistent mixture of old and new physical principles, hinting but not clearly specifying how a more adequate general theory might be constructed.
+The nature of light was still puzzling to those who demanded that it should behave either like waves or like particles.
+Two experiments performed by American physicists seemed to favor the particle theory: Robert A. Millikan’s confirmation of the quantum theory of the photoelectric effect proposed by Einstein; and Arthur H. Compton’s experimental demonstration that X-rays behave like particles when they collide with electrons.
+The findings of these experiments had to be considered along with the unquestioned fact that electromagnetic radiation also exhibits wave properties such as interference and diffraction.
+Louis de Broglie, a French physicist, proposed a way out of the dilemma: accept the wave–particle dualism as a description not only of light but also of electrons and other entities previously assumed to be particles.
+In 1926 the Austrian physicist Erwin Schrödinger constructed a mathematical “wave mechanics” based on this proposal.
+His theory tells how to write down an equation for the wave function of any physical system in terms of the masses and charges of its components.
+From the wave function, one may compute the energy levels and other observable properties of the system.
+Schrödinger’s equation, the most convenient form of a more general theory called quantum mechanics to which the German physicists Werner Heisenberg and Max Born also contributed, was brilliantly successful.
+Not only did it yield the properties of the hydrogen atom but it also allowed the use of simple approximating methods for more complicated systems - even though the equation could not be solved exactly.
+The application of quantum mechanics to the properties of atoms, molecules, and metals occupied physicists for the next several decades.
+The founders of quantum mechanics did not agree on the philosophical significance of the new theory.
+Born proposed that the wave function determines only the probability distribution of the electron’s position or path; it does not have a well-defined instantaneous position and velocity.
+Heisenberg made this view explicit in his indeterminacy principle: the more accurately one determines the position, the less accurately the velocity is fixed; the converse is also true.
+Heisenberg’s principle is often called the uncertainty principle, but this is somewhat misleading.
+It tends to suggest incorrectly that the electron really has a definite position and velocity and that they simply have not been determined.
+THE SCHRÖDINGER EQUATION
+The Schrödinger equation is the fundamental equation of the science of submicroscopic phenomena known as quantum mechanics.
+The equation, developed in 1926 by Austrian physicist Erwin Schrödinger, has the same central importance to quantum mechanics as Newton’s laws of motion have for the large-scale phenomena of classical mechanics.
+Essentially a wave equation, the Schrödinger equation describes the form of the probability waves (or wave functions) that govern the motion of small particles, and it specifies how these waves are altered by external influences.
+Schrödinger established the correctness of the equation by applying it to the hydrogen atom, predicting many of its properties with remarkable accuracy.
+The equation is used extensively in atomic, nuclear, and solid-state physics.
+Einstein objected to the randomness implied by quantum mechanics in his famous statement that God “does not play dice.”
+He also was disturbed by the apparent denial of the objective reality of the atomic world: somehow the electron’s position or velocity comes into existence only when it is measured.
+Niels Bohr expressed this aspect of the quantum worldview in his complementarity principle, building on de Broglie’s resolution of the wave–particle dichotomy: A system can have such properties as wave or particle behavior that would be considered incompatible in Newtonian physics but that are actually complementary.
+Light exhibits either wave behavior or particle behavior, depending on whether one chooses to measure the one property or the other.
+To say that it is really one or the other, or to say that the electron really has both a definite position and momentum at the same time, is to go beyond the limits of science.
+Bohr’s viewpoint, which became known as the Copenhagen Interpretation of quantum mechanics, was that reality can be ascribed only to a measurement.
+Einstein argued that the physical world must have real properties whether or not one measures them; he and Schrödinger published a number of thought experiments designed to show that things can exist beyond what is described by quantum mechanics.
+During the 1970s and 1980s, advanced technology made it possible to actually perform some of these experiments, and quantum mechanics was vindicated in every case.
+The long-standing problem of the nature of the force that holds atoms together in molecules was finally solved by the application of quantum mechanics.
+Although it is often stated that chemistry has been “reduced to physics” in this way, it should be pointed out that one of the most important postulates of quantum mechanics was introduced primarily for the purpose of explaining chemical facts and did not originally have any other physical justification.
+This was the so-called exclusion principle put forth by the Austrian physicist Wolfgang Pauli, which forbids more than one electron occupying a given quantum state in an atom.
+The state of an electron includes its spin, a property introduced by the Dutch-born American physicists George E. Uhlenbeck and Samuel A. Goudsmit.
+Using that principle and the assumption that the quantum states in a multi-electron atom are essentially the same as those in the hydrogen atom, one can postulate a series of “shells” of electrons and explain the chemical valence of an element in terms of the loss, gain, or sharing of electrons in the outer shell.
+Some of the outstanding problems to be solved by quantum chemistry were: (1) The “saturation” of chemical forces.
+If attractive forces hold atoms together to form molecules, why is there a limit on how many atoms can stick together (generally only two of the same kind)? (
+2) Stereochemistry - the three-dimensional structure of molecules - in particular the spatial directionality of bonds as in the tetrahedral carbon atom. (
+3) Bond length - that is, there seems to be a well-defined equilibrium distance between atoms in a molecule that can be determined accurately by experiment. (
+4) Why some atoms (for example, helium) normally form no bonds with other atoms, while others form one or more. (
+These are the empirical rules of valence.)
+Soon after J.J. Thomson’s discovery of the electron in 1897, there were several attempts to develop theories of chemical bonds based on electrons.
+The most successful was that proposed in the United States by G.N. Lewis in 1916 and Irving Langmuir in 1919.
+They emphasized shared pairs of electrons and treated the atom as a static arrangement of charges.
+While the Lewis–Langmuir model as a whole was inconsistent with quantum theory, several of its specific features continued to be useful.
+The key to the nature of the chemical bond was found to be the quantum-mechanical exchange effect, first described by Heisenberg in 1926–27.
+Resonance is related to the requirement that the wave function for two or more identical particles must have definite symmetry properties with respect to the coordinates of those particles - it must have plus or minus the same value (symmetric or antisymmetric, respectively) when those particles are interchanged.
+Particles such as electrons and protons, according to a hypothesis proposed by Enrico Fermi and Paul Dirac, must have antisymmetric wave functions.
+Exchange may be imagined as a continual jumping back and forth or interchange of the electrons between two possible states.
+In 1927 the German physicists Walter Heitler and Fritz London used this idea to obtain an approximate wave function for two interacting hydrogen atoms.
+They found that with an antisymmetric wave function (including spin) there is an attractive force, while with a symmetric wave function there is a repulsive force.
+Thus, two hydrogen atoms can form a molecule if their electron spins are opposite, but not if they are the same.
+The Heitler–London approach to the theory of chemical bonds was rapidly developed by John C. Slater and Linus C. Pauling in the United States.
+Slater proposed a simple general method for constructing multiple-electron wave functions that would automatically satisfy the Pauli exclusion principle.
+Pauling introduced a valence-bond method, picking out one electron in each of the two combining atoms and constructing a wave function representing a paired-electron bond between them.
+Pauling and Slater were able to explain the tetrahedral carbon structure in terms of a particular mixture of wave functions that has a lower energy than the original wave functions, so that the molecule tends to go into that state.
+About the same time another American scientist, Robert S. Mulliken, was developing an alternative theory of molecular structure based on what he called molecular orbitals. (
+The idea had been used under a different name by John E. Lennard-Jones of England in 1929 and by Erich Hückel of Germany in 1931.)
+Here, the electron is not considered to be localized in a particular atom or two-atom bond, but rather it is treated as occupying a quantum state (an “orbital”) that is spread over the entire molecule.
+In treating the benzene molecule by the valence-bond method in 1933, Pauling and George W. Wheland constructed a wave function that was a linear combination of five possible structures - that is, five possible arrangements of double and single bonds.
+Two of them are the structures that had been proposed by the German chemist August Kekulé (later Kekule von Stradonitz) in 1865, with alternating single and double bonds between adjacent carbon atoms in the six-carbon ring.
+The other three (now called Dewar structures for the British chemist and physicist James Dewar, though they were first suggested by H. Wichelhaus in 1869) have one longer bond going across the ring.
+Pauling and Dewar described their model as involving resonance between the five structures.
+According to quantum mechanics, this does not mean that the molecule is sometimes “really” in one state and at other times in another, but rather that it is always in a composite state.
+The valence-bond method, with its emphasis on resonance between different structures as a means of analyzing aromatic molecules, dominated quantum chemistry during the 1930s.
+The method was comprehensively presented and applied in Pauling’s classic treatise The Nature of the Chemical Bond (1939), the most important work on theoretical chemistry in the 20th century.
+One reason for its popularity was that ideas similar to resonance had been developed by organic chemists, notably F.G. Arndt in Germany and Christopher K. Ingold in England, independently of quantum theory during the late 1920s.
+After World War II there was a strong movement away from the valence-bond method and toward the molecular-orbital method, led by Mulliken in the United States and by Charles Coulson, Lennard-Jones, H.C. Longuet-Higgins, and Michael J.S. Dewar in England.
+The advocates of the molecular-orbital method argued that their approach was simpler and easier to apply to complicated molecules, since it allowed one to visualize a definite charge distribution for each electron.
+In the first two decades of the 21st century, physical scientists have concentrated on answering questions posed by 20th-century investigations.
+There are many pressing issues being studied, but three seem to head the list for physicists and astronomers: dark matter and energy; Higgs bosons; and verification of Einstein’s predictions about gravitational waves.
+The work being done to investigate these issues has required development of new technologies, construction of remarkable pieces of equipment, and increasing reliance on computer technology.
+Twenty-first-century chemists are especially intrigued with the application of the physical sciences to the biological sciences.
+They will be leading 21st-century physical scientists into what some have called the third revolution in science: the convergence of life and physical sciences with engineering.
+In 1923 Edwin P. Hubble, using the advanced telescopes of the time, observed that there were untold numbers of galaxies and other celestial entities beyond the Milky Way Galaxy.
+He also found that the universe was expanding and that distant parts of the universe were expanding more rapidly than the regions near the Milky Way.
+Most cosmologists at that time wondered whether expansion of the universe would eventually stop or slow down.
+In 1990 the Hubble Space Telescope, which was named after Hubble, was launched by the National Air and Space Administration (NASA) into a low orbit around Earth.
+It was hoped that this telescope would enable cosmologists and astronomers to explain galactic evolution more accurately than could be done with conventional equipment.
+Data from the Hubble Space Telescope estimated the age of the universe to be 13.7 billion years.
+It also showed that, far from decelerating under the influence of gravity, the universe was actually expanding.
+The cause for this phenomenon was not readily apparent but scientists theorized that some repulsive force might be at play.
+The robotic arm of the space shuttle Atlantis captures the Hubble Space Telescope (HST) in 2009 during a mission to repair it and make upgrades.
+HST observations have provided evidence that black holes lie at the center of most galaxies.
+In 2001 NASA launched the Wilkinson Microwave Anisotropy Probe (WMAP).
+This satellite’s instruments mapped patterns of tiny fluctuations in cosmic microwave background radiation––light that may have originated immediately after the big bang.
+Data from WMAP determined that the universe was 13.8 billion years old.
+More importantly, the data showed that ordinary atoms and their component protons, electrons, and neutrons (baryons) make up only 4.6 percent of the matter in the universe.
+The data further showed that about 24 percent of the universe is filled with what is called dark matter (so called because it does not reflect light, and thus cannot be seen); the remainder of the universe, 71.4 percent, is filled with an entity called dark energy.
+More recently, data from the Planck mission, conducted by the European Space Agency, refined these figures, estimating normal matter at 4.9 percent, dark matter at 26.8 percent, and dark energy at 68.3 percent.
+Although dark matter cannot be seen, scientists can estimate where it is because of its gravitational effect on surrounding matter.
+The gravitational pull of dark matter bends and distorts light from stars or galaxies or other light emitting structures that lie behind the dark matter.
+This phenomenon is called gravitational lensing.
+Many physicists believe that the gravitational effect of dark matter makes galaxies spin faster than expected.
+Dark energy remains a mystery but it is believed to be the repulsive force driving the expansion of the universe.
+It is possible that dark energy is a property of space itself.
+Albert Einstein thought that “empty space” possessed its own energy.
+He proposed what he called the cosmology constant to allow for this energy in his general theory of relativity.
+He later had doubts about the validity of this constant.
+Many scientists today believe that he was correct and that dark energy is the empty space energy proposed by Einstein.
+Other scientists believe that dark energy is a new energy field that fills all of space.
+They have called this new energy “quintessence” but otherwise have no information about it.
+Attempting to define the nature of dark energy is perhaps the biggest challenge physical scientists will face in the coming decades.
+LARGE HADRON COLLIDER
+The physical sciences, especially particle physics, took a giant leap forward when the Large Hadron Collider (LHC), the world’s largest and most powerful particle accelerator, was conceived, funded, and built by the European Organization of Nuclear Research (Conseil Européen pour la Recherche Nucléaire, known as CERN).
+In the early 1980s CERN decided to build a circular tunnel whose circumference is 17 miles (27 kilometers), where LHC is presently housed, for the Large Electron-Positron Collider (LEP).
+This collider was developed to study the properties of Z bosons and was taken apart in 2000.
+Shortly after it was deactivated, installation of the LHC began.
+It is the largest single machine in the world.
+The tunnel is located 165–575 feet (50–175 meters) belowground, on the border between France and Switzerland.
+Running it requires the collaboration of over 10,000 scientists from more than 100 countries and hundreds of universities and laboratories.
+Data from the machine are interpreted by a grid-based computer network of 140 computer centers in thirty-five countries.
+An offshoot of the development of this computer network was the creation of the World Wide Web, by which scientific data could be disseminated for analysis.
+Tim Berners-Lee from the United Kingdom worked for CERN when he posted the first website to explain what the Web was and how to surf it. (
+The website can still be viewed at http://info.cern.ch.)
+The purpose of the LHC is to understand the basic structure of matter by reproducing conditions that are believed to have existed just after the big bang created the universe.
+It does this by circulating two proton beams in opposite directions around the 17-mile-long course of the LHC at almost the speed of light. (
+Protons belong to a category of heavy subatomic particles known as hadrons, which accounts for the name of this particle accelerator.)
+The protons in the stream then collide at very high energy levels, creating varying numbers of charged particles.
+These particles spin off into detectors that are located at the four LHC intersection, or collision, points.
+At each collision point are huge magnets weighing tens of thousands of tons and banks of detectors to collect the particles produced by the collisions.
+Data from the detectors are then sent to the computer network for analysis.
+As the LHC came on line it was hoped that particles thought to exist but not yet seen, such as the Higgs boson, would be identified.
+It was also hoped that the LHC would be instrumental in helping to characterize the elusive nature of dark matter and the enigma of antimatter.
+A tunnel inside the Large Hadron Collider (LHC) lies deep beneath the border between Switzerland and France.
+The world’s largest particle accelerator, LHC identified the Higgs boson, the so-called God particle, in 2013.
+The standard model of physics is a combination of theories that were compiled by scientists during the 20th century to explain how the basic building blocks of matter––subatomic particles––interact with one another.
+It also addresses the fundamental forces that affect these particles.
+According to the standard model, all matter in the universe is made of fermions.
+There are two types of fermions: quarks, the basic building blocks of protons and neutrons; and leptons.
+An electron is a lepton.
+Fermions are acted upon by three of four types of force that exist in the universe.
+The three types of force are electromagnetic force, strong force, and weak force, and the tiny bundles of energy making up these forces are called bosons. (
+The fourth type of force, gravity, is not considered when discussing fermions because of its almost nonexistent effect on them.)
+The boson that is associated with electromagnetic force is called a photon, whereas the boson associated with strong force is called a gluon.
+Gluons help to glue quarks together by using strong force.
+The weak force has two bosons called the W particle and the Z particle.
+Besides identifying fermions and bosons, the standard model predicts that there is an energy field that exists everywhere in the universe.
+As quarks and leptons pass through this energy field they pick up mass.
+The energy field is called a Higgs field.
+The Higgs field must have a force-carrying particle just like electromagnetic force has the photon.
+This particle is also a boson and is called the Higgs boson.
+It is responsible for transferring energy to fermions and thus increases their mass. (
+Both the Higgs field and Higgs boson are named after British physicist Peter Higgs.)
+Most of the theories dealing with the standard model of physics have been experimentally confirmed with great accuracy.
+The existence of the Higgs field, however, was still in question at the end of the 20th century.
+Physicists hoped that the LHC, with its capability to find new particles, would uncover the Higgs boson, proving that the Higgs field does indeed exist.
+In the first experimental runs of the LHC in 2012, no signs of Higgs bosons were found.
+However, on March 14, 2013, CERN officially announced that Higgs bosons were recognized from LHC data and are real.
+Much more work is needed to understand exactly how Higgs bosons work.
+What mysterious associations, if any, that Higgs bosons have with antimatter and dark matter will be questions for physical scientists to answer during the remainder of the 21st century.
+When an earthquake occurs or when an explosion such as a volcanic eruption happens, the energy created by the quake or explosion travels through Earth in waves that are similar to those seen when a pebble is thrown into a pool of water.
+The waves can be detected by recording devices, called seismographs, and the amount of energy that is transmitted can be measured.
+Remarkably, the same thing happens deep in space.
+Some physicists say that 1.3 billion years ago two massive black holes (very strong gravitational fields that result when gigantic stars collapse into very dense, tiny points) merged.
+One black hole was 36 times the mass of the Sun and the other was 29 times its mass.
+The enormous collision released a huge amount of energy that was transmitted in waves through the universe.
+It is estimated that the amount of energy released was as much as the Sun releases in 15 trillion years.
+The waves that were created from the collision were gravitational waves.
+Gravitational waves are “ripples in space-time” that propagate at the speed of light.
+They are to the gravitational field what electromagnetic waves such as visible light and radio waves are to the electromagnetic field.
+In 1916 Albert Einstein had predicted that gravitational waves existed.
+However, in Einstein’s theory of general relativity, gravity is not a force field but rather a distortion of space-time.
+In Einstein’s theory, objects do not fall to Earth because a gravitational force field acts on them but rather because Earth distorts the space-time around it, and the natural trajectory of an object in the curved space-time is to fall to Earth.
+Just as electromagnetic waves are produced when charges accelerate, gravitational waves are produced when masses accelerate.
+Detecting gravitational waves is more challenging than detecting seismic waves.
+It is astounding to think that an event that actually occurred 1.3 billion years ago at the far reaches of the universe could ever be detected.
+And yet it was.
+Construction on the Laser Interferometer Gravitational-Wave Observatory (LIGO), consisting of a pair of multi-kilometer-scale gravitational wave detectors that are located in Hanford, Washington, and Livingston, Louisiana, was begun in 1994 and completed in 1999.
+The two observatories’ laser interferometers began to operate in unison in 2002.
+By having two facilities that are 1,865 miles (3,002 kilometers) apart, local vibrations could be eliminated and not be mistaken for gravitational waves.
+The initial LIGO search for gravitational waves took place from 2002 to 2010, and no gravitational waves were detected at this time.
+The facilities were then taken off line for redesign and renovations.
+Over the next five years they were upgraded, and the laser interferometers were made to be 10 times more sensitive than they had been before.
+Early in September 2015, the Advanced LIGO began recording data.
+Almost immediately, on September 14, 2015, both the Hanford and Livingston detectors recorded a 20-second-long “thump” that subsequently was determined to be a gravitational wave.
+The news of this event was announced on February 11, 2016, after scientists spent months eliminating the possibility of the data representing anything other than a gravitational wave.
+This observation opened the field of gravitational-wave astronomy for further study.
+Among other things, LIGO can be used to confirm that black holes do indeed exist.
+It can also be used to study the physics of neutron stars, to gather information about what makes stars explode, and to provide estimates of the rate of expansion of the universe.
+Historically, chemists have dealt with concepts of physical science at the molecular level and higher.
+Whereas physicists deal in fermions and bosons, chemists look at atoms - how they combine to form molecules and how molecules combine to form elements and eventually, compounds.
+During the 20th century, chemists played a major role in the advancement of knowledge.
+Chemists have also been instrumental in developing technologies that can be practically applied to real-life needs.
+For instance, Marie Curie’s work on radiation was critical to the development of X-ray technology now used in both applied physical and biological sciences.
+In the 21st century, chemists will be at the forefront of what some scientists from the Massachusetts Institute of Technology are calling The Third Revolution: the convergence of the life sciences, physical sciences, computational science, and engineering.
+This new paradigm integrates disciplines that were originally viewed as distinct and potentially contradictory.
+The development of biofuels, improved design of pharmaceuticals, and 3D printing of human tissues are just some of the successful efforts of a transdisciplinary approach to science.
+Though an exciting prospect, convergence faces significant cultural and institutional challenges.
+As the century unfolds, physical scientists will undoubtedly play a critical role in the evolution of this exciting new paradigm.
+The physical sciences––physics, astronomy and chemistry––have played a crucial role in the advancement of knowledge from antiquity to the current day.
+The early 21st century brought remarkable discoveries in physics such as gravitational waves that confirmed the theories of Albert Einstein and the scientists who contributed to the standard model of particle physics.
+Astronomers in the 21st century have applied information received from satellites and deep-space probes to further our knowledge of the universe and to dispel some long-cherished, but false, beliefs.
+Chemists have been at the forefront of the development of nanotechnology (the science involving the manipulation and manufacture of materials and devices on the scale of nanometers, or billionths of a meter), advanced materials science, and many other applied fields.
+Physical scientists have also played key roles in the development of computer science and many engineering miracles.
+It is probable that the future of the physical sciences will lie in their convergence with other disciplines.
+The basic scientific discoveries of the physical sciences and the methods used in the field will be combined with advances in engineering to confront needs in the life sciences as well as in society itself.
+Peter Higgs stands before a photograph of the Large Hadron Collider.
+The discovery of the Higgs boson at the LHC confirmed some of his theories about the origin of mass of subatomic particles and led to a Nobel Prize in Physics in 2013.

@@ -1,0 +1,666 @@
+The medieval era - between the fall of the Roman Empire in the 5th century and the beginning of the 16th century in Europe - is often considered to be an isolated or backward period technologically.
+Yet nothing is further from the truth.
+The invention of the horse collar, followed by the moldboard turning plow in the 11th century, vastly improved agricultural output.
+The use of watermills to mill grain aided food production.
+Windmills became a major energy source.
+Mechanical clocks, and later watches, were major improvements over earlier time-measuring devices.
+Lumber mills flourished and with them the construction of ships.
+The discovery of the magnetic compass, the development of the deep ship’s keel, and improved sail design opened the world to navigation.
+Military technology moved through several stages; the age of cavalry gave way to the age of infantry, which itself had began to transition into the age of gunpowder by the end of the period.
+Arabic numerals replaced Roman numerals, simplifying the keeping of records.
+The spinning wheel, brought to Europe, probably from India in the 13th century, made homespun clothing available to all.
+The spread of Islam through much of Europe transmitted
+Technology of the Medieval and Early Modern Worlds many ideas from Asia, including the production and working of silk, the use of gunpowder, and the making of paper and porcelain.
+These advances led to reduced dependence on agricultural and production labor, thus freeing people for other things such as the building of the great Gothic cathedrals.
+If any single technological event marks the end of the Middle Ages, it was the invention of the movable-type printing press by Johannes Gutenberg in the mid-15th century.
+This eventually spread the written word beyond scholars and opened education to the emerging middle class.
+<Caption> The 13th-century Chartres Cathedral, in the French town of Chartres, is noted for its architectural innovations, many sculptures, and stained glass.
+While the technological history of the Middle Ages was one of slow but substantial development, during the succeeding early modern period (1500–1750) the tempo of change increased markedly and was associated with profound social, political, religious, and intellectual upheavals in western Europe.
+The emergence of the nation-state, the cleavage of the Christian church by the Protestant Reformation, the Renaissance and its accompanying scientific revolution, and the overseas expansion of European states all had interactions with developing technology.
+This expansion became possible after the advance in naval technology opened up the ocean routes to Western navigators.
+The conversion of voyages of discovery into imperialism and colonization
+INTRODUCTION was made possible by the new firepower.
+The combination of light, maneuverable ships with the firepower of iron cannon gave European adventurers a decisive advantage, enhanced by other technological assets.
+Exploration and colonialism also had economic implications, becoming one of several factors - including changes in the agricultural system and increasing urbanization - that helped reshape economies throughout Europe.
+Chapter
+While classical civilizations had relied upon a large slave labor force, medieval Europe experienced a labor shortage that stimulated a search for alternative sources of power and the introduction of labor-saving machinery.
+The first instrument of this power revolution was the horse.
+Even more significant was the success of medieval technology in harnessing water and wind power.
+Water and wind power continued to improve in the early modern period, while coal became increasingly important, too.
+Coal mining even spurred the invention of the steam engine, which itself helped usher in the Industrial Revolution.
+THE HORSE
+The invention of the horseshoe, the padded, rigid horse collar, and the stirrup, all of which first appeared in the West in the centuries of
+POWER SOURCES the Dark Ages (as the early Middle Ages are known), transformed the horse from a beast of burden useful only for light duties into a highly versatile source of energy in peace and war.
+Once the horse could be harnessed to the heavy plow by means of the horse collar, it became a more efficient draft animal than the ox.
+The introduction of the stirrup made
+Technology of the Medieval and Early Modern Worlds the mounted warrior supreme in medieval warfare.
+It initiated complex social changes to sustain the great expense of the knight, his armor, and his steed, in a society close to the subsistence line.
+<Caption> Medieval horses were bred for various uses.
+Draft horses pulled carts and plows, chargers were warhorses, and fine riding horses were called palfreys.
+Using scattered artistic and archaeological evidence, historians have constructed an approximate chronology of technological innovation in medieval Europe.
+The war saddle with a single girth was introduced by the 6th century, and the iron stirrup was common by the 7th (having probably been known earlier in the East).
+The curb bit, vitally important for controlling a warhorse, probably dates from about the same time.
+According to literary evidence, iron horseshoes date from the end of the 9th century, and, based on pictorial evidence, spurs date from the 11th.
+By the 12th century the European knight was using a war saddle with high, wraparound cantle and pommel that protected the genitals and held him securely in his seat; the saddle itself was secured to the horse by a double girth that held it firmly in place.
+WATER POWER
+The Romans pioneered the use of waterpower in the later empire, and some of their techniques probably survived.
+The type of water
+POWER SOURCES mill that flourished first in northern Europe, however, appears to have been the Norse mill, using a horizontally mounted waterwheel driving a pair of grindstones directly, without the intervention of gearing.
+Examples of this simple type of mill survive in Scandinavia and in the Shetlands.
+It also occurred in southern Europe, where it was known as the Greek mill.
+While some of the 5,624 mills recorded in the Domesday Book of England in 1086 may have been of this type, it is probable that by that date the vertically mounted undershot wheel had established itself as more appropriate to the gentle landscape of England.
+The Norse mill requires a good head of water to turn the wheel at an adequate grinding speed without gearing for the upper millstone (the practice of rotating the upper stone above a stationary bed stone became universal at an early date).
+Most of the Domesday water mills were used for grinding grain, but in the following centuries other important uses were devised in fulling cloth (shrinking and felting woolen fabrics), sawing wood, and crushing vegetable seeds for oil.
+Overshot wheels also were introduced where there was sufficient head of water, and the competence of the medieval millwrights in building mills and earthworks and in constructing increasingly elaborate trains of gearing grew correspondingly.
+<Caption> The lower part of this manuscript illustration shows a series of waterwheels under a bridge over the Seine River, in France.
+Waterwheels were an important power source in medieval Europe.
+POWER SOURCES
+During the mid-1700s a reaction waterwheel for generating small amounts of power became popular in the rural areas of England.
+In this type of device, commonly known as a Barker’s mill, water flowed into a rotating vertical tube before being discharged through nozzles at the end of two horizontal arms.
+These directed the water out tangentially, much in the way that a modern rotary lawn sprinkler does.
+A rope or belt wound around the vertical tube provided the power takeoff.
+The first analysis of the performance of waterwheels was published in 1759 by John Smeaton, an English engineer.
+Smeaton built a test apparatus with a small wheel to measure the effects of water velocity, as well as head and wheel speed.
+In 1776 Smeaton became the first to use a cast-iron wheel, and two years later he introduced cast-iron gearing, bringing to an end the all-wood construction that had prevailed since Roman times.
+The results of Smeaton’s experimental work came to be widely used throughout Europe for designing new wheels.
+WIND POWER
+Windmills with vertical sails on horizontal shafts reached Europe through contact with the Arabs.
+Inspired by contemporary waterwheels, builders used fabric-covered, wood-framed
+Technology of the Medieval and Early Modern Worlds sails located above the millstone (instead of a waterwheel below) to drive the grindstone through a set of gears.
+The whole mill with all its machinery was supported on a fixed post so that it could be rotated and faced into the wind.
+The millworks were initially covered by a boxlike wooden frame and later often by a “round-house,” which also provided storage.
+A brake wheel on the shaft allowed the mill to be stopped by a rim brake.
+A heavy lever then had to be raised to release the brake, an early example of a fail-safe device.
+The effort needed to turn a post-mill into the wind was likely responsible for the development of the so-called tower mill in France by the
+POWER SOURCES
+Technology of the Medieval and Early Modern Worlds early 14th century.
+Here, the millstone and the gearing were placed in a massive fixed tower, often circular in section and built of stone or brick.
+Only an upper cap, normally made of wood and bearing the sails on its shaft, had to be rotated.
+Such improved mills spread rapidly throughout Europe and later became popular with early American settlers.
+<Caption> These mills in Consuegra, Spain, are tower mills.
+The mills, traditional to the area, have been restored.
+Visitors can go inside one to see how it works.
+The Low Countries of Europe, which had no suitable streams for waterpower, saw the greatest development of windmills.
+Dutch hollow post-mills, invented in the early 15th century, used a two-step gear drive for drainage pumps.
+An upright shaft that had gears on the top and bottom passed through the hollow post to drive a paddle-wheel-like scoop to raise water.
+The first wind-driven sawmill, built in 1592 in the Netherlands by Cornelis Cornelisz, was mounted on a raft to permit easy turning into the wind.
+At first both post-mills and the caps of tower mills were turned manually into the wind.
+Later small posts were placed around the mill to allow winching of the mill with a chain.
+Eventually winches were placed into the caps of tower mills, engaged with geared racks and operated from inside or from the ground by a chain passing over a wheel.
+Tower mills had their sail-supporting or tail pole normally inclined at between 5° and 15° to the
+POWER SOURCES horizontal.
+This aided the distribution of the huge sail weight on the tail bearing and also provided greater clearance between the sails and the support structure.
+Windmills became progressively larger, with sails from about 56 to 79 feet (17 to 24 meters) in diameter already common in the 16th century.
+The material of construction, including all gearing, was wood, although eventually brass or gunmetal came into use for the main bearings.
+Cast-iron drives were first introduced in 1754 by John Smeaton.
+Little is known about the actual power produced by these mills.
+In all likelihood only from 10 to 15 horsepower was developed at the grinding wheels.
+A 50-horsepower mill was not built until the
+Technology of the Medieval and Early Modern Worlds
+POWER SOURCES 19th century.
+The maximum efficiency of large Dutch mills is estimated to have been about 20 percent.
+<Caption> The English engineer John Smeaton (1724–1792) was the founder of the civil engineering profession in Great Britain.
+He was responsible for advances in both wind and water power.
+COAL
+The development of the coal industry in northern Europe constitutes another important medieval innovation, no previous civilization having made any systematic attempt to exploit coal.
+The mining techniques remained unsophisticated as long as coal was obtainable near the surface.
+As the search for the mineral led to greater and greater depths, though, the industry copied methods that had already evolved in the metal-mining industries of north and central Europe.
+Early shaft mines were little more than wells widened as much as miners dared in the face of danger of collapse.
+Shafts were sunk on high ground, with adits - near-horizontal tunnels - for drainage driven into the side of the hill.
+In England some shallow mine shafts were exhausted as early as the 14th century, making it necessary to go deeper and expand mining at the shaft bottoms.
+These remained small operations; a record from 1684 shows 70 mines near Bristol, employing 123 workers.
+By the late seventeenth century, there was a rising demand for coal in Britain.
+One reason
+Technology of the Medieval and Early Modern Worlds for this was the depletion of the woodland and supplies of charcoal, making manufacturers anxious to find a new source of fuel.
+Of particular importance were experiments of the iron industry in using coal instead of charcoal to smelt iron ore and to process cast iron into wrought iron and steel.
+The first success in these attempts came in 1709, when Abraham
+POWER SOURCES
+Darby, an ironfounder in Shropshire, England, used coke to reduce iron ore in his enlarged and improved blast furnace.
+Other processes, such as glassmaking, brickmaking, and the manufacture of pottery, had already adopted coal as their staple fuel.
+Great technical improvements had taken place in all these processes.
+In ceramics, for instance, the long efforts of
+European manufacturers to imitate the hard, translucent quality of Chinese porcelain culminated in Meissen at the beginning of the 18th century.
+The process was subsequently discovered independently in Britain in the middle of the century.
+Stoneware, requiring a lower firing temperature than porcelain, had achieved great decorative distinction in the 17th century as a result of the
+Technology of the Medieval and Early Modern Worlds
+Dutch success with opaque white tin glazes at their Delft potteries, and the process had been widely imitated.
+<Caption> This woodcut of an illustration from a 16th-century manuscript shows workers doing various jobs outside a mine.
+The increasing demand for coal necessitated mining at greater depths, which created many problems.
+First, water could no longer simply be drained away.
+Crude methods were devised to lift it to the surface.
+A bucket-andchain device was first powered by men and later by horses; a continuous belt of circular plates was drawn up through a pipe.
+Windmills were used for pumps.
+But shafts had to be restricted to depths of 300 to 350 feet (90 to 105 meters) and a mining radius of approximately 590 feet (180 meters).
+It was not until 1710 that the water problem was eased by Thomas Newcomen’s steam engine, which supplied a cheap and reliable power source for a vertical reciprocating lift pump.
+THE STEAM ENGINE
+The foundations for the use of steam power are often traced to the experimental work of the French physicist Denis Papin.
+In 1679 Papin invented a type of pressure cooker, a closed vessel with a tightly fitting lid that confined steam until high pressure was generated.
+Observing that the steam in the vessel raised
+Technology of the Medieval and Early Modern Worlds the lid, he conceived the idea of using steam to power a piston and cylinder engine.
+<Caption> This is a model of a steam engine designed by Thomas Newcomen.
+The original engine was built in 1720.
+It was driven by steam at nearatmospheric pressure
+Thomas Savery, an English inventor and military engineer, studied Papin’s work and built a steam-driven suction machine for removing water from coal mines.
+Savery’s machine (patented in 1698) consisted of a boiler, a closed, water-filled reservoir, and a series of valves.
+Steam was introduced into the reservoir, and the pressure of the steam forced the water out through a one-way outlet valve until the vessel was empty.
+Water was then sprayed over the surface of the vessel to condense the steam and create a vacuum capable of drawing up more water through a valve below.
+Unfortunately the vacuum created was not perfect, and so water could only be lifted to a limited height.
+Some years later another English engineer, Thomas Newcomen, developed a more efficient steam pump consisting of a cylinder fitted with a piston - a design inspired by Papin’s aforementioned idea.
+When the cylinder was filled with steam, a counterweighted pump plunger moved the piston to the extreme upper end of the stroke.
+With the admission of cooling water, the steam condensed, creating a vacuum.
+The atmospheric pressure in the mine acted on the piston and caused it to move down in the cylinder, and the pump plunger was lifted by the resulting force.
+POWER SOURCES
+Because Savery had obtained a broad patent for his steam device, Newcomen could not patent his engine.
+He thus entered into a partnership with Savery, and together they built, in 1712, the first piston-operated steam pump.
+Several years later Smeaton improved the Newcomen engine, almost doubling its efficiency.
+Although engines of this kind converted only about 1 percent of the thermal energy in the steam to mechanical energy, they remained unrivaled for more than 50 years.
+MINING FOR METALS
+The period from 1500 to 1750 witnessed a steady expansion in mining for minerals other than coal and iron in Europe.
+The gold and silver mines of Saxony and Bohemia provided the inspiration for Agricola’s De re metallica, which became, with the help of some brilliant woodcuts and the printing press, a worldwide manual on mining practice.
+Published in 1556, this large, abundantly illustrated book shows techniques of shafting, pumping (by treadmill, animal power, and waterpower), and conveying the ore won from the mines in trucks (which anticipated the development of the railways).
+It is impossible to date precisely the emergence of these important techniques, but the fact that they were well established when Agricola observed them suggests that they had a long ancestry.
+Queen Elizabeth I introduced German miners to England in order to develop the mineral resources of the country, and one result of this was the establishment of brass manufacture.
+This metal, an alloy of copper and zinc, had been known in the ancient world and in Eastern civilizations but was not developed commercially in western Europe until the 17th century.
+Metallic zinc had still not been isolated, but brass was made by heating copper with charcoal and calamine, an oxide of zinc mined in England in the Mendip Hills and elsewhere.
+It was worked up by hammering, annealing (a heating process to soften the material), and wiredrawing into a wide range of household and industrial commodities.
+Other nonferrous metals such as tin and lead were sought out and exploited with increasing enterprise in this period.
+Chapter
+With new sources of power at its disposal, medieval Europe greatly increased its productivity.
+This is abundantly apparent in agriculture, where the replacement of the ox by the horse and the introduction of new crops brought about an improvement in the quantity and variety of food.
+This, in turn, improved the diet and energy of the population.
+The next major leap forward in agricultural technology took place over the course of the 18th century, primarily in Britain.
+It was driven by economic and social changes and involved both changes in land use and technological advances.
+ADVANCES IN AGRICULTURE
+The most important agricultural advances took place in the countries north of the Alps,
+AGRICULTURE in spite of the large population changes and warfare that accompanied the great migrations and the later onslaughts of Northmen and Saracens.
+Agriculture had, of course, been practiced regularly in Gaul and Britain and sporadically elsewhere in Europe both before and during the Roman epoch.
+The climate and soils and, perhaps, the social organization compelled different arrangements of land division and the use of more complex tools as more and more farmland was converted from forest, marsh, and heath to meet the needs of a rising population.
+OPEN-FIELD SYSTEM
+The precise origin of the open-field arrangement, which involves long strips of arable land separated from each other by a furrow, balk (ridge of land left after plowing), or mere (boundary), is obscure.
+The earliest examples of this system date from roughly 800, the year Charlemagne was crowned emperor of the West.
+Usually these strips of land, normally about 1 acre (0.4 hectare) in size, were laid out in two or three large fields.
+Each farmer in the village worked a number of these acres; the units forming his holding were scattered among those of other men.
+The open-field system continued as more land was reclaimed and lasted for many centuries - longer, of course, in some places than in others.
+<Caption> This illustration by Pol Limbourg from the 14th-century manuscript The Very Rich Hours of the Duke of Berry shows fields divided up in the open-field system.
+AGRICULTURE
+It has been suggested that the length of each strip was determined by the distance a draft animal, usually an ox, could haul a plow before stopping for a rest.
+The intermingling of the strips was said to have been the result of a jointly owned plow team and plow supplied by a number of farmers working together, each being allotted a strip in turn.
+A subsequent theory holds that in some places the division of fields, which may have originally been rectangular or square, among a number of heirs led to the creation of long, narrow acres.
+In theory each person’s holding totaled 30 acres (12 hectares), comprising strips equally divided between the three arable fields.
+With the passage of time, wide variations in the size of holdings came about; many became very small.
+PLOWS AND OTHER TOOLS
+Besides the different arrangement of the plowland, there were other changes, some of them important.
+Though Pliny the Elder claimed a wheeled plow was used in Cisalpine Gaul in the first century CE, there is doubt about that.
+A wheeled asymmetrical plow was certainly in use in some parts of western Europe by the late 10th century.
+Illuminated manuscripts and somewhat later calendars show a plow with two wheels fitted with a rudimentary moldboard
+Technology of the Medieval and Early Modern Worlds
+AGRICULTURE and a coulter.
+This plow could invert the soil and turn a true furrow, thus making a better seedbed.
+Its use left high ridges on the land, traces of which can still be seen in some places.
+<Caption> The heavy plow and horse collar helped advance agricultural technology during the Middle Ages.
+These illustrations of farmers working come from the Luttrell Psalter, a 13th-century English book.
+The horse collar, which replaced the old harness band that pressed upon the animal’s windpipe, severely restricting its tractive power, was one of the most important inventions in the history of agriculture.
+Apparently invented in China, the rigid, padded horse collar allowed the animal to exert its full strength, enabling it to do heavier work, plowing as well as haulage.
+Many peasants continued to use oxen, however, because horses were more expensive to buy and to keep.
+Some plowing was done by two oxen as in former times; four, eight, or more were occasionally necessary in very difficult land.
+Modifications, slight but important, had been introduced into the design of hand tools.
+A more effective ax made forest clearance easier and faster.
+The jointed flail supplanted the straight stick.
+The scythe was more frequently in use for mowing grass, reaping barley, and performing similar tasks.
+Wind power was applied to the grinding of grain by the earliest windmills.
+All these changes and adaptations helped expand the cultivated area and supply food for the growing population.
+Technology of the Medieval and Early Modern Worlds
+NEW LANDS, BREEDS, AND CROPS
+Not only were forests cleared and heavy land cultivated, but, particularly in the Netherlands, reclamation from marshland and from the sea was extended.
+Terps, artificially made patches of higher land on which houses and barns could be built, were made at a very early date in the midst of the marshes.
+Ditches to drain the fens were dug in the 10th century.
+Polders, land reclaimed from the sea, are first recorded in the 12th century.
+In Spain the Moors introduced new crops and may also have been responsible for the introduction of a new breed of sheep, the Merino, that was to make Spanish wool famous throughout Europe.
+New crops included sugarcane, rice, cotton, and some subtropical fruits, especially citrus.
+Grapevines and olive groves flourished in the south, as did the vines the
+AGRICULTURE
+Technology of the Medieval and Early Modern Worlds
+Romans had introduced to the valleys of the Moselle and Rhine rivers.
+In the 12th century Venice became a major cotton-manufacturing city, processing cotton from the Mediterranean area into cloth for sale in central Europe.
+Germany also became a cotton-manufacturing center in the Middle Ages.
+<Caption> Merino sheep have fine, soft wool.
+They are particularly well adapted to semiarid climates and to nomadic pasturing.
+Widespread expansion of farmed land occurred throughout western Europe between the 10th century and the later years of the 13th.
+German and Dutch settlers were encouraged to take up holdings eastward toward the Baltic countries and south to the Carpathians.
+In France, new villages were built and new farms carved out of the forest, while in England a great deal of land on the boundaries of the open fields was taken in and cultivated.
+All this new cultivation was carried out with the same old implements and tools; the same crops were cultivated and the same animals bred as before.
+In remote and desolate places, monastic organizations created great estates.
+These estates were formed to feed growing populations rather than to improve technical skills.
+A new literature of farming arose, directed to the attention of great lords and ecclesiastical magnates rather than to the illiterate majority of husbandmen.
+These bright prospects, however, were dimmed in the 14th century by a combination of calamities.
+AGRICULTURE
+RESPONDING TO AGRICULTURAL RECESSION
+What is now called a recession began toward the end of the 13th century.
+The disasters of the 14th century followed.
+Famine resulted from excessively bad weather in 1314, 1315, and 1316; a small recovery followed in 1317.
+Yields, never high, were reduced to nothing by the weather.
+Floods wiped out reclaimed land in the Netherlands.
+Plague followed famine, bringing suffering and death to millions of animals and humans between 1347 and 1351.
+The study of contemporary archives suggests a mortality varying in the different regions between one-eighth and two-thirds of the population, and the French chronicler Jean Froissart’s statement that about one-third of Europe’s population died in the epidemic may be fairly accurate.
+Towns, where the danger of contagion was greater, were more affected than the countryside, and within the towns the monastic communities provided the highest incidence of victims.
+Even the great and powerful, who were more capable of flight, were struck down.
+Renewed outbreaks followed throughout the remainder of the century.
+Technology of the Medieval and Early Modern Worlds
+The Hundred Years’ War desolated much of France.
+Other conflicts, accompanied by similar pillage and destruction, broke out elsewhere.
+The result of all these misfortunes was to be seen in the landscape throughout western Europe.
+<Caption> This map shows the way in which the Black Death quickly spread across Europe, killing millions.
+The Netherlands was not as seriously affected as most other countries.
+The flood destruction was repaired, and a system
+AGRICULTURE developed that was to become an example to all of Europe.
+Peas, beans, and root vegetables were introduced into the rotation at least as early as the 15th century, and long continuous rotations almost without fallow breaks were employed.
+Town refuse was added to the supplies of animal manure.
+The size and milk yield of the Dutch cattle became famous, though possibly exaggerated.
+Some say that they owed part of their distinction to crosses with animals from Lombardy and Piedmont, which also enjoyed a great reputation.
+Flemish horses were already renowned for size and strength.
+By the middle of the 16th century, the advanced farming of the Netherlands penetrated into the north at the mouth of the Rhine and in Schleswig-Holstein.
+This is clear from one of the earliest printed books on farming, by Conrad Heresbach.
+Heresbach described and recommended many of the methods used by the Romans, including raising lupines for green manure and rotating fallow-manured, winter-sown rape with wheat, rye, and spring barley.
+For the preparation of the seedbed, the destruction of weeds, manuring, sowing, and harvesting, implements that derived from the Roman pattern were used.
+Heresbach’s book followed somewhat the pattern of Crescentius, who wrote in the 13th century,
+Technology of the Medieval and Early Modern Worlds and in that respect was similar to the growing number of agricultural treatises that appeared in Spain and France.
+These were often encyclopaedias of rural life presumably intended for the landowning public.
+<Caption> The profitability of the wool trade made the raising of sheep an important part of agriculture in Britain starting in the late Middle Ages.
+AGRICULTURE
+In England, when agricultural recovery began in the 15th century, there was no immediate improvement in technique.
+During this period, England became known as the home of most mediumand long-wooled sheep breeds.
+The profits of the wool trade induced landowners to increase the size of their flocks.
+While some arable land had fallen to rough grazing because of labor scarcity that resulted from the disasters of the 14th century, the profit of wool encouraged the enclosure of formerly open fields for grazing.
+Some villages were even destroyed to increase the area of grazing land.
+Though there was a considerable outcry against enclosure in the 16th and early 17th centuries, the practice was too profitable to halt.
+At the same time, farmers began exchanging their scattered plots of land in order to consolidate individual holdings.
+These consolidated plots were then enclosed with a hedge or fence to prevent them from being subjected to the regulations that governed the use of the remaining strips.
+Land was also acquired by purchase for this purpose.
+MODERNIZING AGRICULTURE IN BRITAIN
+Stimulated by greater commercial activity, the rising market for food caused by an increasing
+Technology of the Medieval and Early Modern Worlds population aspiring to a higher standard of living, and by the British aristocratic taste for improving estates to provide affluent and decorative country houses, the traditional agricultural system of Britain was transformed.
+It is important to note that this was a British development, as it is one of the indications of the increasing pressures of industrialization there even before the Industrial Revolution.
+Other European countries, with the exception
+AGRICULTURE of the Netherlands (from which several of the agricultural innovations in Britain were acquired), did little to encourage agricultural productivity.
+The nature of the transformation was complex, and it was not completed until well into the 19th century.
+It consisted partly of a legal reallocation of land ownership, the “enclosure”
+Technology of the Medieval and Early Modern Worlds movement, to make farms more compact and economical to operate.
+In part also it was brought about by the increased investment in farming improvements, because the landowners felt encouraged to invest money in their estates instead of merely drawing rents from them.
+Again, it consisted of using this money for technical improvements, taking the form of machinery - such as Jethro Tull’s mechanical sower - of better drainage, of scientific methods of breeding to raise the quality of livestock, and of experimenting with new crops and systems of crop rotation.
+The process has often been described as an agricultural revolution, but it is preferable to regard it as an essential prelude to and part of the Industrial Revolution.
+NEW COMMODITIES
+Following the dramatic expansion of the European nations into the Indian Ocean region and the New World, the commodities of these parts of the world found their way back into Europe in increasing volume.
+These commodities created new social habits and fashions and called for new techniques of manufacture.
+Tea became an important trade commodity but was soon surpassed in volume and importance by the products of specially designed plantations, such as sugar, tobacco, cotton, and cocoa.
+Sugar refining, depending on the crystallization of sugar from the syrupy molasses derived from the cane, became an important industry.
+So did the processing of tobacco, for smoking in clay pipes (produced in bulk at Delft and elsewhere) or for taking as snuff.
+Cotton had been known before as an Eastern plant, but its successful transplantation to the New World made much greater quantities available and stimulated the emergence of an important new textile industry.
+Chapter
+While the factories and large-scale manufacturing that the term “industry” tends to conjure up were features of the Industrial Revolution, the periods that preceded the Industrial Revolution also produced goods.
+They just did so on a different scale and within a different economic framework.
+MEDIEVAL CRAFTS
+With new sources of power at its disposal, medieval Europe was able greatly to increase productivity.
+It was apparent in the developing industries of the period, especially the woolen cloth industry in which the spinning wheel was introduced, partially mechanizing this important process.
+The practice of using waterpower to drive fulling stocks (wooden hammers raised by cams on a driving shaft) had a profound
+Technology of the Medieval and Early Modern Worlds effect on the location of the industry in England in the later centuries of the Middle Ages.
+The same principle was adapted to the paper industry late in the Middle Ages, the rags from which paper was derived being pulverized by hammers similar to fulling stocks.
+Meanwhile, the traditional crafts flourished within the expanding towns, where there was a growing market for the products of the rope makers, barrel makers (coopers), leatherworkers (curriers), and metalworkers (goldsmiths and silversmiths), to mention only a few of the more important crafts.
+New crafts such as that of the soapmakers developed in the towns.
+The technique of making soap appears to have been a Teutonic innovation of the Dark Ages, being unknown in the ancient civilizations.
+The process consists of decomposing animal or vegetable fats by boiling them with a strong alkali.
+Long before it became popular for personal cleansing, soap was a valuable industrial commodity for scouring textile fabrics.
+Its manufacture was one of the first industrial processes to make extensive use of coal as a fuel.
+Some of the townspeople of the Middle Ages engaged in commerce and formed groups known as merchant guilds.
+The majority, however, were small merchant-craftsmen, organized in craft guilds as masters (of highest
+Technology of the Medieval and Early Modern Worlds accomplishment and status), journeymen (at a middle level), and apprentices (beginners).
+The medieval master was typically many things at the same time: a skilled workman himself; a foreman, supervising journeymen and apprentices; an employer; a buyer of raw or semifinished materials; and a seller of finished products.
+Because medieval craftsmen employed simple hand tools, a workman’s own skill determined the quantity and quality of his output.
+Apprentices and journeymen underwent long periods of learning under the guidance of a more experienced workman.
+Only when a craftsman could produce a “masterpiece” that met the approval of the guild masters, would he, at last, gain full admission into the guild.
+<Caption> This illustration from a 15th-century Italian book shows an array of medieval craftsmen doing their jobs.
+Craft guilds were organized through regulations.
+By controlling conditions of entrance into a craft, guilds limited the labor supply.
+By defining wages, hours, tools, and techniques, they regulated both working conditions and the production process.
+Quality standards and prices were also set.
+The guilds, either singly or in combination, sought complete control over their own local markets.
+In order to attain and protect their monopoly, the guilds acquired a political voice and in some locations achieved the right to elect a number of their own members to the town council.
+CRAFTS AND COMMERCE
+ARCHITECTURE
+The mechanization that was changing the organization of work throughout the medieval period was little apparent in the construction of castles, cathedrals, and town walls.
+Technologies that involved the lifting of weights, for instance, had made little progress during the Middle Ages, and, because the freemasons declined to handle large blocks of stone, the Romanesque and Gothic structures were built with smaller stone blocks, nevertheless achieving grandeur in scale.
+The organization of labor differed greatly from that employed in antiquity.
+These great monuments were built by free laborers such as carpenters, glaziers, roofers, bell founders, and many other craftsmen in addition to the stonemasons.
+For a long time it was believed that medieval craftsmen, especially those engaged in building cathedrals, were humble, self-effacing artisans who labored piously and anonymously for the glory of God and for their own salvation.
+Scholars have dispelled this myth.
+Medieval builders often left their names or signatures upon their work, and surviving records show names, wages, and occasionally protests over wages.
+The Romanesque and Gothic architecture that produced the outstanding aesthetic contribution of the Middle Ages embodied
+CRAFTS AND COMMERCE significant technological innovations.
+The architect-engineers, who had clearly studied Classical building techniques, showed a readiness to depart from their models and thus to devise a style that was distinctively their own.
+Their solutions to the problems of constructing very tall masonry buildings while preserving as much natural light as possible were the cross-rib vault, the flying buttress, and the great window panels providing scope for the new craft of the glazier using colored glass with startling effect.
+<Caption> Gothic architecture, as seen in the cathedral of Bayeux, France, is characterized by cavernous spaces with the expanse of walls broken up by overlaid tracery.
+Construction techniques did not undergo any great change in the period 1500–1750.
+The practice of building in stone and brick became general, although timber remained an important building material for roofs and floors, and, in areas in which stone was in short supply, the half-timber type of construction retained its popularity into the 17th century.
+Thereafter, however, the spread of brick and tile manufacturing provided a cheap and readily available substitute, although it suffered an eclipse on aesthetic grounds in the 18th century, when Classical styles enjoyed a vogue and brick came to be regarded as inappropriate for facing such buildings.
+Brickmaking, however, had become an important industry for ordinary domestic building by then and, indeed, entered into the export trade as Dutch and Swedish ships
+CRAFTS AND COMMERCE regularly carried brick as ballast to the New World, providing a valuable building material for the early American settlements.
+Cast iron was coming into use in buildings, but only for decorative purposes.
+Glass was also beginning to become an important feature of buildings of all sorts, encouraging the development of an industry that still relied largely on ancient skills of fusing sand to make glass and blowing, molding, and cutting it into the shapes required.
+<Caption> Half-timbered buildings, such as this house in Provins, France, have timber frames.
+The spaces between the frames are filled with such materials as brick, plaster, or wattle and daub.
+A CHANGING ECONOMY
+The proliferation of industry during the early modern period arose from four factors: (1) the growth of wealth, derived partly from the influx of precious metals from the New World but also from developments in commerce, banking, and the very concept of money, (2) the growth of markets, (3) the introduction of new products, and (4) the development of new technologies.
+These helped increase the scale of manufacturing industries throughout Europe, which in turn prompted changes in the organization of work.
+The growth in the size of the market was caused only partially by the geographic explorations of the preceding era and subsequent colonization.
+Most of the new demand for goods stemmed from the emergence of the
+CRAFTS AND COMMERCE new middle class (or bourgeoisie).
+The markets also benefited from the demise of small medieval feudalities, which gave way to larger political units.
+When economic influence extended over a larger jurisdiction, it tended to eliminate many of the preexisting local restrictions on trade and commerce.
+Increased demand paralleled the growing affluence and new manners of European society.
+Handicraft production no longer sufficed as a means of rising to the pinnacle of society, and, as a result, the power and influence of the guilds declined.
+<Caption> The German painter Hans Holbein the Younger’s 1532 work, Portrait of the Merchant Geor Gisze, shows a member of the merchant class that became more powerful during the early modern era.
+THE BIRTH OF THE FACTORY SYSTEM
+Over time the nature of technological change shifted from the introduction of new mechanical contrivances to developments in the application of power (primarily water and wind) to old devices and - even more significantly - to the organization of work that would allow production on a larger scale.
+This represented the start of the factory system.
+The organization of commerce also changed rapidly.
+New instruments in the fields of banking, insurance, and export marketing offered an efficient means of making capital available for investment in industrial enterprises.
+<Caption> This tapestry showing the French royal arms was made at the Gobelins tapestry works in around 1740.
+The manufactory, known for the fine tapestries it produced, was set up during the reign of Louis XIV.
+CRAFTS AND COMMERCE
+In Britain the development of commercial concentration - and hence of industrial scale - was mainly the work of large companies or corporate bodies such as woolen manufacturers, ironmasters, and hatmakers.
+Government encouragement was given by means of special legislation, especially grants of monopolistic charters.
+In France, however, the practice of mercantilism, a government-directed policy aimed at increasing national wealth and power, meant that the government itself took an active part in developing industries that were state owned and operated - among them the Gobelins tapestry works and other manufacturers of furniture, porcelain, or luxury items.
+Technology of the Medieval and Early Modern Worlds
+Although the state-run factories in France represented at least two of the essentials of factory production - the gathering of large groups of workers in one place and the imposition of disciplinary rules - they did not change the organization of work.
+Because they
+CRAFTS AND COMMERCE produced small quantities of luxury goods, they operated as large handicraft operations.
+Furthermore, despite their size, the French Royal Manufactories did not possess the third prime element of a true factory system: mechanization.
+The great historical change in the organization of work came in 18th-century Britain with the onset of the Industrial Revolution, largely as the result of the new technology of power-driven machinery.
+THE WOOL INDUSTRY
+The woolen cloth industry in Britain provided a model and precedent upon which other industries could build.
+Already in the Middle Ages, the processes of cloth manufacture had been partially mechanized upon the introduction of fulling mills and the use of spinning wheels.
+But in the 18th century the industry remained almost entirely a domestic or cottage one, with most of the processing being performed in the homes of the workers, using comparatively simple tools that could be operated by hand or foot.
+(continued on the next page)
+(continued from the previous page)
+The most complicated apparatus was the loom, but this could usually be worked by a single weaver, although wider cloths required an assistant.
+It was a general practice to install the loom in an upstairs room with a long window giving maximum natural light.
+Weaving was regarded as a man’s work, spinning being assigned to the women of the family (hence, “spinsters”).
+The weaver could use the yarn provided by up to a dozen spinsters, and the balanced division of labor was preserved by the weaver’s assuming responsibility for supervising the cloth through the other processes, such as fulling.
+Pressures to increase the productivity of various operations had already produced some technical innovations by the first half of the 18th century.
+The first attempts at devising a spinning machine, however, were not successful; and without this, John Kay’s technically successful flying shuttle (a device for hitting the shuttle from one side of the loom to the other, dispensing with the need to pass it through by hand) did not fulfill an obvious need.
+It was not until the rapid rise of the cotton cloth industry that the old, balanced industrial system was seriously upset and that a new, mechanized system, organized on the basis of factory production, began to emerge.
+Chapter
+Military technology went through several stages during the Middle Ages and early modern period.
+The medieval period was characterized by the network of political and economic relationships called feudalism.
+In a military sense, European feudalism was founded on a symbiotic relationship between the armored man-at-arms, the war-horse, and the castle.
+The rise of the mounted arm faded with the appearance of infantry capable of taking the open field unsupported against mounted cavalry during the 14th century.
+The primary weapons of the age of infantry that followed were the crossbow, the English longbow, and the halberd and pike.
+MILITARY TECHNOLOGY
+The final stage of military technology preceding the Industrial Revolution was the rise of weapons that used gunpowder.
+Before gunpowder, weapons were designed around the limits of their users’ muscular strength.
+After gunpowder, they were designed more in response to tactical demand.
+THE AGE OF CAVALRY
+The development of the horseshoe, stirrup, bit, and saddle welded horse and rider into a single unit and enabled the knight to apply much of the force of his horse’s charge to the point of the lance, held couched beneath the arm, without being driven over the horse’s rump on impact.
+These developments were accompanied, and in part caused, by increases in the size and power of warhorses and steady improvements in personal armor.
+ARMOR
+During the 11th century, the sleeves of the knight’s mail shirt, or byrnie, became longer and closer-fitting.
+Knights began wearing the gambeson, a quilted garment of leather or canvas, beneath their mail for additional protection and to cushion the shock of blows.
+<Caption> Mail was the main defense of the body and limbs during the 12th and 13th centuries.
+Mail hoods covered the head and neck, and mail leggings covered the legs.
+MILITARY TECHNOLOGY (Ordinary soldiers often wore a gambeson as their only protection.)
+By the early 13th century European armorers had learned to make mail with a sufficiently fine mesh to provide protection to the hand.
+The true plate cuirass appeared about 1250, though it was at first unwieldy, covering only the front of the torso.
+From the late 13th century, plate protection spread from the knees and elbows to encompass the extremities.
+Helmets with hinged visors appeared about 1300, and by mid-century armorers were constructing closed, visored helms that rested directly on the shoulder defenses.
+Plate armor, at first worn above mail as reinforcement, began to replace it entirely except in areas where the armorer’s skill could not devise a sufficiently flexible joint.
+In response to this enhanced coverage, knights began carrying smaller shields.
+The first suits of full plate armor date from the first decades of the 15th century.
+By 1440 armorers were making gloves with individually jointed fingers, and shoulder defenses had become particularly sophisticated, permitting the man-at-arms full freedom to wield sword, lance, or mace with a minimum of exposure.
+The weight of personal armor increased, partly because of the importance of shock tactics in European warfare and partly because of the
+Technology of the Medieval and Early Modern Worlds demands of jousting, a form of mock combat in which two knights rode at each other headon and attempted to unseat each other with blunted lances.
+THE CASTLE
+The Middle Ages saw the evolution of the fortified stronghold from the motte-and-bailey, a timber tower encircled by a timber and earth wall, to the formidable masonry castle.
+Unlike a timber-based fortification, a stone castle could not be burned down.
+The prime threats to stone fortresses were the battering ram and attempts to pry chunks out of the wall or undermine it.
+To make these kinds of attacks more difficult, castle builders added massive walls, protruding towers, moats, and hoardings, which were overhanging wooden galleries from which arrows, stones, and unpleasant substances such as boiling tar and pitch could be dropped or poured on an attacker.
+Hoardings gave way to machicolations, permanent overhanging galleries of stone that became a distinctive feature of medieval European fortress architecture.
+Castle entrances were protected by barbicans, low-lying outworks dominated by the walls and towers behind.
+Gates were generally
+MILITARY TECHNOLOGY deeply recessed and backed by a portcullis, a latticework grate suspended in a slot that could be dropped quickly to prevent surprise entry.
+The gate could also be sealed by means of a drawbridge.
+SIEGE WEAPONS
+The most basic means of taking a fortress were to storm the gate or go over the wall by using ladders, but these methods rarely succeeded.
+Beginning in the 9th century, European engineers constructed wheeled wooden siege towers, called belfroys.
+These were fitted with drawbridges, which could be dropped onto the parapet, and with protected firing positions from which the defending parapets could be swept by arrow fire.
+Constructing one of these towers and moving it forward against an active defense was a considerable feat of engineering and arms.
+Typically, the moat had to be filled and leveled, all under defensive fire.
+Belfroys were vulnerable to fire, so their faces were generally covered with hides.
+Battering rams could bring down sections of wall, given sufficient time, manpower, and determination.
+Large battering rams were mounted on wheels and were covered by a mobile shed for protection from defensive fire.
+<Caption> Medieval soldiers winch down the arm of a trebuchet.
+Large trebuchets, powered by 10-ton (9-tonne) counterweights, could hurl 300-pound (136-kilogram) wall-smashing boulders as far as 300 yards (270 meters).
+MILITARY TECHNOLOGY
+The most powerful method of direct attack on the structure of a fortress was mining, digging a gallery beneath the walls and supporting the gallery with wooden shoring.
+Once completed, the mine was fired to burn away the shoring; this collapsed the gallery and brought down the walls.
+Mining, of course, required suitable ground and was susceptible to countermining by an alert defender.
+The trebuchet worked something like a seesaw.
+Suspended from an elevated wooden frame, the arm of the trebuchet pivoted from a point about one-quarter of the way down its length.
+A large weight, or counterpoise, was suspended from the short end, and the long end was fitted with a hollowed-out spoonlike cavity or a sling. (
+A sling added substantially to the trebuchet’s range.)
+The long end was winched down, raising the counterpoise.
+A stone or other missile was put into the spoon or sling, and the arm was released to fly upward, hurling the missile in a high, looping arc toward its target.
+THE AGE OF INFANTRY
+The appearance of the crossbow was the first of a series of technological and tactical developments that culminated in the rise of infantry elites to a position of tactical dominance.
+An
+Technology of the Medieval and Early Modern Worlds independent, reinforcing, and almost simultaneous development was the appearance of the English longbow as the premier missile weapon of western Europe.
+Another important and enduring discovery was made by the Swiss.
+At the Battle of Morgarten in 1315, Swiss eidgenossen, or “oath brothers,” learned that an unarmored man with a seven-foot (200-centimeter) halberd could dispatch an armored man-at-arms.
+THE CROSSBOW
+The crossbow’s origins are obscure, but its earliest appearance in Europe was in the technologically advanced Italian cities of the 10th and 11th centuries.
+The destructive power that made it so feared derived from the substitution of metal (wrought iron or mild steel) for wood in its construction.
+The metal bow, relatively short, was bent by one of two methods.
+In the earlier version the bowman placed the weapon on the ground, bow down and stock, or cross, upright.
+Setting his foot in a stirrup in the lower part of the stock, he bent over, caught the bowstring in a hook suspended from his belt, straightened up, and brought the string into the locking device in the groove of the stock.
+In the second version the stirrup was still used, but a
+MILITARY TECHNOLOGY
+Technology of the Medieval and Early Modern Worlds hand crank or winch drew back the string.
+A small lever triggered the release of the short bolt, or quarrel, which was capable of piercing chain mail and had a range of up to 1,000 feet (300 meters).
+<Caption> In Europe it was the development of the crossbow and the English longbow that made the arrow a formidable battlefield missile.
+The longbow requires more strength and training to use than the crossbow.
+THE LONGBOW
+While it was heavily dependent on the strength and competence of its user, the longbow in capable hands was far superior to the ordinary military crossbow in range, rate of fire, and accuracy.
+Made from a carefully cut and shaped stave of yew or elm, it varied in length, according to the height of the user, from about five to seven feet (1.5 to 2 meters).
+Each archer would have carried a few selected light arrows for shooting at extreme ranges and could probably have reached 500 yards (457 meters) with these.
+The longbow’s weakness was that of every serious military bow: the immense amounts of time and energy needed to master it.
+THE HALBERD AND PIKE
+The halberd was the only significant medieval shock weapon without classical antecedents.
+In its basic form, it consisted of a six-foot (1.8-foot) shaft of ash or another hardwood,
+MILITARY TECHNOLOGY mounted by an ax blade that had a forward point for thrusting and a thin projection on the back for piercing armor or pulling a horseman off balance.
+The halberd was a specialized weapon for fighting armored men-at-arms and penetrating knightly armor.
+With the point of this weapon, a halberdier could fend off a mounted lancer’s thrusts and, swinging the cutting edge with the full power of his arms and body, could cleave armor, flesh, and bone.
+The halberd’s power was counterbalanced by the vulnerability of taking a full swing with both arms.
+Once committed, the halberdier was totally dependent upon his comrades for protection.
+This gave halberd fighting a ferocious all-or-nothing quality and placed a premium on cohesion.
+While the halberd could penetrate the best plate armor, allowing infantrymen to inflict heavy casualties on their mounted opponents, the lance’s advantage in length meant that men-at-arms could inflict heavy casualties in return.
+The solution was the pike, a staff, usually of ash, that was twice the length of the halberd and had a small piercing head about 10 inches (25 centimeters) long.
+Sound infantry armed with the pike could fend off cavalry with ease, even when outnumbered.
+As with the halberd, effectiveness of shock
+Technology of the Medieval and Early Modern Worlds
+MILITARY TECHNOLOGY action with the pike was heavily dependent upon the cohesion and solidity of the troops wielding it.
+The pike remained a major factor in European warfare until, late in the 17th century, the bayonet gave missile-armed infantry the ability to repel charging cavalry.
+<Caption> Encumbered by heavy armor, the mounted French and English mercenaries were cut down by Swiss infantrymen wielding long halberds and pikes at the Battle of Ins, in 1375.
+THE GUNPOWDER REVOLUTION
+The masonry castle became an anachronism by the end of the Middle Ages because of the development of artillery.
+Intrinsic to this innovation were the invention of gunpowder and the development of techniques for casting metals, especially iron.
+Gunpowder appeared in western Europe in the mid13th century, although its formula had been known
+MILITARY TECHNOLOGY in East Asia long before that date.
+It consists of a mixture of carbon, sulfur, and saltpeter.
+The first two were available from charcoal and deposits of volcanic sulfur in Europe, whereas saltpeter had to be crystallized by a noxious process of boiling stable sweepings and other decaying refuse.
+The consolidation of these ingredients into an explosive powder had become an established yet hazardous industry by the close of the Middle Ages.
+<Caption> This 15th-century carving of a cannon comes from the Ducal Palace in Urbino, Italy.
+The wheeled frame on which the cannon is mounted is called the carriage.
+CANNON
+The first effective cannon appear to have been made of wrought-iron bars strapped together, but although barrels continued to be made in this way for some purposes, the practice of casting cannon in bronze became widespread.
+The technique of casting in bronze had been known for several millennia, but the casting of cannon presented problems of size and reliability.
+It is likely that the bronzesmiths were able to draw on the experience of techniques devised by the founders who cast bells for medieval churches, as the casting of a large bell posed similar problems of heating a substantial amount of metal and of pouring it into a suitable mold.
+Bronze was an expensive metal to manufacture in bulk, though, so the widespread use of cannon in
+Technology of the Medieval and Early Modern Worlds war had to depend upon improvements in iron-casting techniques.
+During most of the black-powder era, with smoothbore cannon firing spherical
+MILITARY TECHNOLOGY projectiles, artillery fire was never precisely accurate at long ranges. (
+Aiming and firing were particularly difficult in naval gunnery, since the gunner had to predict the roll of the ship in order to hit the target.)
+Gunners aimed by sighting along the top of the barrel, or “by the line of metals,” then stepped away before firing to avoid the recoil.
+The inaccuracy of smoothbore artillery meant that most shooting was done at short ranges of 1,000 yards (915 meters) or less.
+For attacking fortress walls, early modern gunners preferred a range of 60 to 80 yards (55 to 75 meters); a range of 100 to 150 yards (90 to 140 meters) was acceptable, but 300 yards (275 meters) or more was considered excessive.
+HANDGUNS
+Just as cannon ended the age of the medieval castle and the oared warship, so the handgun ended the age of the medieval knight.
+Primitive handguns, which consisted essentially of iron tubes, were first used in 1391.
+The more efficient harquebus, or matchlock, was developed in the 15th century and rapidly spread throughout Europe.
+This short-range firearm was extremely difficult to operate, and it was soon supplemented by the musket,
+MILITARY TECHNOLOGY a simpler firing piece with a longer barrel and greater ball velocity and range.
+Such weapons proved decisive in the European conquest of America.
+However, in Europe itself, the slowfiring harquebusiers and musketeers were still vulnerable to faster-moving cavalry, and a skilled archer could usually better any gunner in accuracy and rate of fire.
+Thus gunners were often protected by pikemen armed with long spears, or pikes, backed in turn by foot soldiers wielding swords.
+CAST IRON
+The manufacture of cast iron is the great metallurgical innovation of the Middle Ages.
+It must be remembered that from the beginning of the Iron Age until late in the Middle Ages the iron ore smelted in the available furnaces had not been completely converted to its liquid form.
+In the 15th century, however, the development of the blast furnace made possible this fusion, with the result that the molten metal could be poured directly into molds ready to receive it.
+The emergence of the blast furnace was the result of attempts to increase the size of the traditional blooms.
+Greater size made necessary the provision of a continuous blast of air, usually from bellows driven by a waterwheel, and the combination increased the internal temperature of the furnace so that the iron became molten.
+At first, the disk of solid iron left in the bottom of the furnace was regarded as undesirable waste by the iron manufacturer; it possessed properties completely unlike those of the more familiar wrought iron, being crystalline and brittle and thus of no use in the traditional iron forge.
+But it was soon discovered that the new iron could be cast and turned to profit, particularly in the manufacture of cannon.
+Chapter
+One area in which significant technological progress was made during the medieval and early modern eras was sea transportation.
+While ship design was part of this, so was the invention of navigational instruments, such as the compass.
+Scientific instruments developed during this period included the mechanical clock, microscope, and telescope.
+The most influential innovation of the era was probably the printing press.
+Few inventions have had such far-reaching consequences.
+TRANSPORTATION
+Medieval technology made few contributions to inland transport, though there was some experimentation in the construction of bridges and canals.
+Lock gates were developed as early as 1180, when they were employed on the canal
+TRANSPORTATION, COMMUNICATION, AND SCIENCE between Brugge (now in Belgium) and the sea.
+Roads remained indifferent where they existed at all, and vehicles were clumsy throughout the period.
+Wayfarers like Chaucer’s pilgrims traveled on horseback, and this remained the best mode of inland transport for centuries to come.
+Transportation by means of sea was a different story.
+Here the Middle Ages produced a decisive technological achievement: the creation of a reliable oceangoing ship depending entirely on wind power instead of a combination of wind and muscle.
+The vital steps in this evolution were, first, the combination of the traditional square sail, used with little modification from Egyptian times through the Roman Empire to the Viking long boats, with the triangular lateen sail developed in the Arab dhow and adopted in the Mediterranean - which gave it the “lateen” (Latin) association attributed to it by the northern seafarers.
+This combination allowed ships so equipped to sail close to the wind.
+Second, the adoption of the sternpost rudder gave greatly increased maneuverability, allowing ships to take full advantage of their improved sail power in tacking into a contrary wind.
+Third, the introduction of the magnetic compass provided a means of checking navigation on the open seas in any weather.
+The convergence of these improvements in the ships of the later Middle Ages, together
+Technology of the Medieval and Early Modern Worlds with other improvements in construction and equipment - such as better barrels for carrying water, more reliable ropes, sails, and anchors, the availability of navigational charts (first recorded in use on board ship in 1270), and the astrolabe (for measuring the angle of the Sun or a star above the horizon) - lent confidence
+Technology of the Medieval and Early Modern Worlds to mariners and thus led directly to the voyages of discovery that marked the end of the Middle Ages and the dawn of the early modern period.
+<Caption> Although astrolabes have been traced to the 6th century, they appear to have come into wide use from the early Middle Ages in Europe and the Islamic world.
+Transport made substantial progress without any great technical innovations in the early modern period.
+Road building was greatly improved in France, and, with the completion of the Canal du Midi between the Mediterranean and the Bay of Biscay in 1692, largescale civil engineering achieved an outstanding success.
+The canal is 150 miles (241 kilometers) long, with a hundred locks, a tunnel, three major aqueducts, many culverts, and a large summit reservoir.
+The sea continued to be the greatest highway of commerce, driving innovation in the sailing ship.
+The Elizabethan galleon with its great maneuverability
+TRANSPORTATION, COMMUNICATION, AND SCIENCE
+Technology of the Medieval and Early Modern Worlds and firepower, the Dutch herring busses and fluitschips with their commodious hulls and shallow draft, the versatile East Indiamen of both the Dutch and the British East India companies, and the mighty ships of the line produced for the French and British navies in the 18th century indicate some of the main directions of evolution.
+<Caption> The galleon was built primarily for war.
+A high, square forecastle rose behind the bow.
+and the ship had three or four masts.
+The need for reliable navigation created a demand for better instruments.
+The quadrant was improved by conversion to the octant, using mirrors to align the image of a star with the horizon and to measure its angle more accurately.
+With further refinements the modern sextant evolved.
+Even more significant was the ingenuity shown by scientists and instrument makers in the construction of a clock that would keep accurate time at sea.
+Such a clock, by showing the time in Greenwich when it was noon aboard ship would show how far east or west of Greenwich the ship lay (longitude).
+The British Board of Longitude offered a prize of £20,000 for this purpose in 1714, but it was not awarded until 1763 when John Harrison’s so-called No.
+4 chronometer fulfilled all the requirements.
+CLOCKS
+Harrison’s clock built on several centuries of advancements in clockmaking.
+The
+TRANSPORTATION, COMMUNICATION, AND SCIENCE medieval interest in mechanical contrivances is well illustrated by the development of the mechanical clock.
+The oldest surviving clock in England is that at Salisbury Cathedral, which dates from 1386; it is driven by weights and controlled by a verge, an oscillating arm engaging with a gear wheel.
+Clocks driven by springs appeared by the mid-15th century, making it possible to construct more compact mechanisms and preparing the way for the portable clock.
+The problem of overcoming the diminishing power of the spring as it unwound was solved by the simple compensating mechanism of the fusee - a conical drum on the shaft that permitted the spring to exert an increasing moment, or tendency to increase motion, as its power declined.
+It has been argued that the medieval fascination with clocks reflects an increased sense of the importance of timekeeping in business, but it can also be seen as representing a new sense of inquiry into the possibilities and practical uses of mechanical devices.
+The scientific breakthrough that led to the development of accurate clocks occurred in 1583, when Galileo demonstrated that successive beats of a pendulum always take place in the same length of time, irrespective of the distance through which the pendulum swings.
+About 70 years later this discovery was applied
+Technology of the Medieval and Early Modern Worlds to clock regulation.
+In 1656 the Dutch scientist Christiaan Huygens designed the first weightdriven clock in which motion was controlled by a pendulum.
+About a decade later the English physicist Robert Hooke added a device called an escapement, producing the first accurate pendulum clock.
+By 1680 a minute hand was added to the hour hand, and a few years later the pendulum clock had a second hand.
+<Caption> This diagram shows the main parts inside a weight-driven clock.
+The regular movement of the pendulum allows the clock to keep time.
+TRANSPORTATION, COMMUNICATION, AND SCIENCE
+The large pendulum clock, later called the grandfather clock, has a long pendulum end enclosed in a tall case.
+It is driven by a heavy weight whose descent causes a drum to rotate.
+The motion of the drum is transmitted by gears to an escape wheel.
+The teeth on the escape wheel are caught by the detent, a rocking bar with two pallet arms and teeth, at the top of the pendulum rod.
+The detent and escape wheel together form the escapement.
+Each time the pendulum swings, the detent releases the teeth on the escape wheel.
+The drum, pulled by the weight, turns slightly until the other arm of the detent again catches a tooth on the wheel.
+When the pallet arm disengages from a tooth on the escape wheel, the pendulum is momentarily free to swing.
+The weight gives up energy that keeps the pendulum swinging.
+This motion is transferred by a sequence of gears to the hour, minute, and second hands.
+By a mechanism called the gravity escapement, the arms on each side of the pendulum are raised by the turning escape wheel.
+They are then allowed to fall against the pendulum, keeping it in motion.
+THE PRINTING PRESS
+Even more significant than the invention of the mechanical clock was the 15th-century invention of printing with movable metal type.
+The
+Technology of the Medieval and Early Modern Worlds details of this epochal invention are obscure, but there is general agreement that the first large-scale printing workshop was that established at Mainz by Johannes Gutenberg, which was producing a sufficient quantity of accurate type to print a Vulgate Bible about 1455.
+It is clear, however, that this invention drew heavily upon long previous experience with block printing - using a single block to print a design or picture - and on developments in typecasting and ink making.
+It also made heavy demands on the paper industry, which had been established in Europe since the 12th century but had developed slowly until the invention of printing and the subsequent vogue for the printed word.
+The printing press itself, vital for securing a firm and even print over the whole page, was an adaptation of the screw press already familiar in the winepress and other applications.
+Printers found an enormous demand for their product, so the technique spread rapidly and the printed word became an essential medium of political, social, religious, and scientific communication as well as a convenient means for the dissemination of news and information.
+By 1500 almost 40,000 recorded editions of books had been printed in 14 European countries, with Germany and Italy accounting for two-thirds.
+<Caption> This 1568 woodcut by the Swiss-German artist Jost Amman shows a printer’s workshop.
+In the back, compositors set the type.
+In the front, one man removes a printed sheet, while another applies ink to the set type.
+Technology of the Medieval and Early Modern Worlds
+Printers made various minor improvements to the early printing presses.
+However, the basic wooden printing press was used without any major changes for more than 300 years.
+THE TELESCOPE
+The invention of the printing press, followed by scholars’ ever-increasing need for spectacle lenses, probably made inevitable the invention of the telescope.
+It is clear that the oft-repeated statement that the telescope was first invented in 1608 by the spectacle maker Hans Lipperhey (or Lippershey) in the Netherlands, is incorrect.
+Lipperhey made a number of telescopes in 1608 and sold them to the government of the Netherlands, which was interested in their military applications.
+His request for a 30-year patent was denied, however, on the grounds that “many other persons had a knowledge of the invention.”
+Telescopes were on sale in France, Germany, Italy, and England by 1609.
+Galileo heard of Lipperhey’s work and reinvented the telescope, using basic optical principles.
+His first telescope magnified 3x and consisted of a convex lens and a concave lens fitted into opposite ends of a lead tube.
+The results were so gratifying that Galileo made several larger telescopes, grinding his own lenses.
+His largest telescope had an objective
+TRANSPORTATION, COMMUNICATION, AND SCIENCE about 1.75 inches (4.4 centimeters) in diameter and had a magnifying power of about 30x.
+With these simple instruments, he discovered the mountains and craters of the Moon’s surface, the major satellites of Jupiter, the
+Technology of the Medieval and Early Modern Worlds starry nature of the Milky Way, and the fact that Venus undergoes phases like those of the Moon.
+Rarely has a new scientific instrument had a more dramatic effect than that of Galileo’s telescope.
+It not only advanced scientific knowledge by enormous strides but also stirred vast waves in philosophy and religion by upsetting the traditional picture of a universe centered on a stationary Earth.
+<Caption> These telescopes are replicas of ones made by Galileo in approximately 1609 (left) and by Isaac Newton in 1668 (right).
+In 1659 the Dutch scientist Christiaan Huygens discovered the true nature of Saturn’s rings by using a telescope measuring 23 feet (7 meters) in length, which he had designed and built himself.
+In 1663 James Gregory, a Scottish mathematician, designed a reflecting telescope - the Gregorian reflector.
+In 1668 Isaac Newton built what is now known as the Newtonian reflector, and four years later Laurent Cassegrain designed the Cassegrain reflector.
+THE MICROSCOPE
+Three Dutch spectacle makers - Hans Jansen, his son Zacharias Jansen, and Hans Lipperhey - have received credit for inventing the compound microscope about 1590.
+The first portrayal of a microscope was drawn about 1631 in the Netherlands.
+It was clearly
+TRANSPORTATION, COMMUNICATION, AND SCIENCE of a compound microscope, with an eyepiece and an objective lens.
+This kind of instrument, which came to be made of wood and cardboard, often adorned with polished fish skin, became increasingly popular in the mid-17th century and was used by the English natural philosopher Robert Hooke to provide regular demonstrations for the new Royal Society.
+In 1665, Hooke published a folio volume titled Micrographia, which featured microscopic views of familiar objects (fleas, lice, and nettles among them).
+Hidden in the unnumbered pages of Micrographia’s preface is a description of how a single high-powered lens could be made into a serviceable microscope.
+It was using this design that the Dutch civil servant Antonie van Leeuwenhoek began his pioneering observations of freshwater microorganisms in the 1670s.
+He made his postage-stamp-sized microscopes by hand, and the best of them could resolve details around 0.7 μm.
+His fine specimens discovered in excellent condition at the Royal Society more than three centuries later prove what a great technician he was.
+Using his simple microscope, Leeuwenhoek effectively launched microbiology in 1674, and single-lensed microscopes remained popular until the 1850s.
+<Caption> This compound microscope dates from the 17th century.
+A compound microscope uses a lens called the objective to produce a primary magnified image and another called the eyepiece or ocular to magnify this image.
+TRANSPORTATION, COMMUNICATION, AND SCIENCE
+Simple microscopes using single lenses can generate fine images; however, they can also produce spurious colors due to chromatic aberration, in which different wavelengths of light do not come to the same focus.
+The aberrations were worse in the compound microscopes of the time, because the lenses magnified the aberrations at least as much as they magnified the images.
+In 1733 the amateur English optician Chester Moor Hall found by trial and error that a combination of a convex crown-glass lens and a concave flint-glass lens could help to correct chromatic aberration.
+In 1774 Benjamin Martin of London produced a pioneering set of color-corrected lenses for a microscope.
+THE COMPASS
+Sometime in the 12th century, mariners in China and Europe made the discovery, apparently independently, that a piece of lodestone, a naturally occurring magnetic ore, when floated on a stick in water, tends to align itself so as to point in the direction of the polestar.
+This discovery was presumably quickly followed by a second, that an iron or steel needle touched by a lodestone for long enough also tends to align itself in a north-south direction.
+From the knowledge of which way is north, any other direction can be found.
+Over the centuries a number of technical improvements were made to the magnetic compass.
+By the 13th century the compass needle had been mounted upon a pin standing on the bottom of the compass bowl.
+At first only north and south were marked on the bowl, but then the other 30 principal points of direction were filled in.
+A card with the points painted on it was mounted directly under the needle, permitting navigators to read their direction from the top of the card.
+The bowl itself was subsequently hung on gimbals (rings on the side that let it swing freely), ensuring that the card would always be level.
+The early modern period witnessed the emergence of Western technology in the sense that the techniques of Western civilization enabled the nations that composed it to expand their influence over the whole known world.
+Yet, with the exception of the steam
+CONCLUSION engine, this period was not marked by outstanding technological innovation.
+<Caption> The advances of the early modern period, in particular the invention of the steam engine, laid the foundation for the Industrial Revolution.
+What was, perhaps, more important than any particular innovation was what has been called “the invention of invention.”
+The creation of a political and social environment conducive to invention, the building up of vast commercial resources to support inventions likely to produce profitable results, the exploitation of mineral, agricultural, and other raw material resources for industrial purposes, and, above all, the recognition of specific needs for invention and an unwillingness to be defeated by difficulties, together produced a society ripe for an industrial revolution based on technological innovation.
+The technological achievements of the period, therefore, must be judged in part by their substantial contribution to the spectacular innovations of the following period.

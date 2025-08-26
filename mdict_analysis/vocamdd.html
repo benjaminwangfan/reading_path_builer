@@ -1,0 +1,141 @@
+
+
+
+setTimeout(function(){
+
+    if(window.voc_al==='simonfire'){return}
+        else {
+            window.voc_al='simonfire';
+        }
+    var _userAgent = navigator.userAgent.toLowerCase();
+    var wordfamily=document.querySelectorAll('wordfamily');
+
+    if(wordfamily){
+        wordfamily=wordfamily[0];
+        var fa_data=wordfamily.getAttribute('data');
+        fa_data=JSON.parse(fa_data);
+        var ex_html='';
+        for(var i=0;i<fa_data.length;i++){
+
+            if (_userAgent.indexOf('goldendict') >= 0) {
+                ex_html+='<a href="gdlookup://localhost/'+fa_data[i].word+'">'+fa_data[i].word+'  </a>'
+            }
+            else if(document.querySelectorAll('#eudicExpBody')>0){
+                ex_html+='<a href="dic://'+fa_data[i].word+'">'+fa_data[i].word+'  </a>'
+            }
+
+            else{
+            ex_html+=fa_data[i].word+'  ';
+            }
+
+            
+
+        }
+
+        wordfamily.innerHTML=ex_html;
+    }
+
+Vue.prototype.ex_filter=function(value,offset_arr){
+            var tmp_word=value.slice(offset_arr[0], offset_arr[1]);
+            return value.replace(tmp_word,'<strong>'+tmp_word+'</strong>')
+
+}
+var vm=new Vue({
+    el:'.examples',
+    components:{
+        'examples': {
+        data:function(){return {
+            ex_cons:[],
+            start:0,
+            view_count:4,
+            data_code:'',
+            offset:0,
+            total_count:function(){return ex_cons.length},
+            monthNames: [
+        "Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec",
+        "January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"
+    ]
+            }},
+        template:`<div v-if=total_count class="exampleBrowser hasNext"><div class="domains">
+                 <a href="javascript:void(0)" v-on:click="handleFilter" title="All Sources" class="selected">All Sources</a><a href="javascript:void(0)" v-on:click="handleFilter" title="Fiction" data-code="F">Fiction</a><a href="javascript:void(0)" v-on:click="handleFilter" title="Arts / Culture" data-code="A">Arts / Culture</a><a href="javascript:void(0)" v-on:click="handleFilter" title="News" data-code="N">News</a><a href="javascript:void(0)" v-on:click="handleFilter" title="Business" data-code="B">Business</a><a href="javascript:void(0)" v-on:click="handleFilter" title="Sports" data-code="S">Sports</a><a href="javascript:void(0)" v-on:click="handleFilter" title="Science / Med" data-code="M">Science / Med</a><a href="javascript:void(0)" v-on:click="handleFilter" title="Technology" data-code="T">Technology</a>
+                </div>
+            <div class="container" style="height: auto;"><div class="results" style="left: 0px;"><ul>
+            <li v-for="se in ex_con"><div v-html="ex_filter(se.sentence,se.offsets)" class="sentence"></div>
+            <a target="_blank" class="source" :href="se.volume.locator">
+            <span class="corpus">{{se.volume.corpus.name}}</span><span class="date">{{formatDate(new Date(se.volume.datePublished))}}</span></a>
+            </li>
+            </ul></div></div>
+            <div class="buttons"><a v-on:click=handlePrev v-show=start class="prev ss-navigateleft" title="prev">Prev</a><a v-on:click=handleNext class="next ss-navigateright right" title="next">Next</a></div></div>
+            <div v-else>no examples<>`,
+    props:['word'],
+    mounted(){
+
+        this.ex_cons.push.apply(this.ex_cons,voc_data.result.sentences);
+
+
+    },
+    computed:{
+        ex_con(){
+            var tmp_ex
+            if(this.data_code){
+               tmp_ex= this.ex_cons.filter(se=>se.volume.domain==this.data_code);
+               if(tmp_ex.length<this.start+8){
+                var url='https://corpus.vocabulary.com/api/1.0/examples.json?query='+this.word+'&maxResults=24&startOffset='+this.offset+'&domain='+this.data_code;
+                
+                this.getjson(url);
+                this.offset+=24;
+               }
+               return tmp_ex.slice(this.start, this.start+this.view_count);
+               
+            }
+            else{
+
+                if(this.ex_cons.length<this.start+8&&this.ex_cons.length>0){
+                var url='https://corpus.vocabulary.com/api/1.0/examples.json?query='+this.word+'&maxResults=24&startOffset='+this.offset;
+                this.getjson(url);
+                this.offset+=24;
+               }
+                tmp_ex= this.ex_cons.slice(this.start, this.start+this.view_count)
+                return tmp_ex
+                 }
+            
+        }
+    },
+
+    methods:{
+        formatDate(date){
+            // console.log(date);
+            return this.monthNames[date.getMonth()]+' '+date.getDate()+', '+date.getFullYear()
+        },
+        handleNext(){
+
+            this.start+=4
+        },
+        handlePrev(){
+            this.start-=4
+        },
+        handleFilter(event){
+            var e=event.target;
+            this.start=0;
+            this.offset=0;
+            e.parentElement.getElementsByClassName('selected')[0].classList.remove('selected');
+            e.classList.add('selected');
+
+           this.data_code=e.getAttribute('data-code');
+
+        },
+        getjson(url){
+            var _this=this;
+            axios.get(url).then(function(res){
+             _this.ex_cons.push.apply(_this.ex_cons,res.data.result.sentences);
+            
+            })
+        }
+    }
+    }
+}
+
+});
+
+
+}, 0);

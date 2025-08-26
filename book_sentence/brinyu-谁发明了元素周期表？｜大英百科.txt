@@ -1,0 +1,782 @@
+Chemical elements
+The periodic table
+The periodic table is a very useful invention for chemists, the scientists who study the substances around us.
+It is a chart containing all the known chemical elements.
+It even has spaces for elements not yet discovered.
+To understand the periodic table, how it was invented, and why it is needed by chemists, it is important to know about atoms and elements.
+Atoms
+Books, birds, buildings and all the other things around you are made from tiny things called atoms.
+You are made from atoms, too.
+Atoms are so small that a million of the biggest ones would make a pile less than half a millimeter high.
+We cannot see atoms, even with a microscope.
+It can be difficult to believe that something invisible exists.
+Just over a hundred years ago, a few scientists still did not believe in atoms, but the results of many experiments show that atoms are real.
+Not only that, they are made from even smaller things called subatomic particles.
+Inside an atom
+There are three main types of subatomic particle.
+Protons and neutrons are the heaviest.
+They join together to make a cluster in the middle of the atom, called the nucleus.
+Electrons are much lighter subatomic particles, and clouds of them surround the nucleus.
+ This is a diagram of a lithium atom.
+Its nucleus is surrounded by three electrons, and it contains three protons and four neutrons.
+THAT’S A FACT!
+The nucleus of an atom is around 100,000 times smaller than the atom as a whole, and most of an atom is empty space.
+The name atom comes from the Greek word “atomos,” meaning something that cannot be split.
+Elements
+A chemical element is a substance made from one type of atom.
+Some elements, such as gold and iron, have been known for thousands of years.
+Others have been discovered much more recently.
+Helium, often used in balloons, was discovered in 1895.
+Americium, used in smoke alarms, was discovered only in 1944.
+Scientists continue to discover new elements today.
+The atomic number (proton number) of an atom is the number of protons it contains.
+All the atoms of an element have the same atomic number.
+Hydrogen and carbon are two different elements.
+Every hydrogen atom contains just one proton, but every carbon atom contains six protons.
+There are over a hundred different elements, and no two elements have the same atomic number.
+The periodic table helps chemists understand all the different elements and what they do.
+The periodic table of elements
+A closer look
+The periodic table might seem confusing at first, so let’s look at its main features.
+Each box contains information about a single element, such as hydrogen or oxygen.
+You will not find water or any other compound in the periodic table.
+This is because compounds are made from two or more elements chemically joined together.
+For example, water is a compound made up of two hydrogen atoms and one oxygen atom.
+Chemical symbols
+Each element has its own chemical symbol, made from one, two, or sometimes three letters.
+The first letter is always a capital letter, and any others are lower case.
+Some symbols are easy to understand, such as H for hydrogen and C for carbon.
+Others, such as Cu for copper, are not so obvious.
+THAT’S A FACT!
+The ancient Romans had copper mines on Cyprus, an island in the Mediterranean Sea.
+They called the metal “aes Cyprium,” which became shortened to “cuprum.”
+That is why the symbol for copper is Cu and not Co (which is the symbol for cobalt).
+The numbers
+Atoms are not only very small, they are also very light.
+They are so light that it makes little sense to use their actual masses in grams.
+Instead, their relative atomic mass is used.
+This is the mass of the atom compared to the mass of a carbon atom.
+Hydrogen atoms are the lightest.
+Their relative atomic mass is just 1.
+The relative atomic mass of carbon is 12, so a carbon atom weighs 12 times more than a hydrogen atom.
+The top left number in each box of the periodic table is the relative atomic mass of the element.
+The top right one is the atomic number, the number of protons in that element’s atoms.
+Periods
+A horizontal row in the periodic table is called a period.
+The elements are arranged in order of increasing atomic number.
+As you go from left to right across a period, the atomic number on the right increases by one each time.
+Groups
+A vertical column in the periodic table is called a group.
+The elements in a group have similar chemical properties.
+For example, the elements in group 1 are very reactive metals.
+The elements in group 18 are very unreactive nonmetals.
+You are going to find out more about elements like these and how understanding them helped in the invention of the periodic table.
+A glow in the dark
+Ancient elements
+It was difficult to do complex experiments thousands of years ago.
+In those days, philosophers thought carefully about the world and came up with ideas to explain what they saw.
+Aristotle was a Greek philosopher who was born in 384 B.C.E. He thought that everything on Earth was made from four “elements.”
+These were air, earth, fire, and water.
+Aristotle could not prove this, but people thought highly of him, so his ideas influenced science for almost 2,000 years.
+This began to change in the 17th century.
+Unlucky for some
+Just 13 elements were known in the 1660s.
+These included nonmetals such as carbon and sulfur, and metals such as gold, copper, and iron.
+But because everybody still believed in Aristotle’s idea of four “elements,” no one recognized these substances for what they were – true elements.
+Alchemy
+In 1669, German alchemist Hennig Brand tried to make gold from urine.
+Instead he discovered the element, phosphorus.
+Alchemy was a strange mixture of chemistry, religion, and mystery.
+One of its aims was to make gold from cheaper substances.
+As Brand thought, “Urine is golden colored, so it might contain gold.”
+Bringer of light
+Brand collected fifty buckets of urine.
+He left them to stand for several days and then heated the stinky sludge to concentrate it.
+He heated the remaining ghastly goo to evaporate some of it and then cooled the vapor.
+In this way, Brand used distillation to collect a pure, waxy white solid.
+Once in the air, this gave off a green glow in the dark, and it could suddenly burst into flames.
+It was called phosphorus after the Greek words meaning “bringer of light.”
+Brand had discovered that phosphorus is an element found naturally in the body.
+Our bones contain most of it, and any extra comes out in our urine.
+ This 1771 painting by Joseph Wright shows an alchemist making phosphorus.
+ Red phosphorus is a form of phosphorus that catches fire at a higher temperature than white phosphorus.
+It is used in matches.
+Brand never made his fortune from his discovery.
+Even though he tried to keep his methods secret, other people worked out how to make phosphorus and became rich.
+THAT’S A FACT!
+Brand was lucky.
+Had he collected his phosphorus in the open air instead of water, he could have been seriously hurt.
+White phosphorus does not react with water, but it is very dangerous in air.
+It can set itself on fire and then burn violently.
+Today, it is used in incendiary bombs, which cause damage by starting fires.
+Breakthrough
+Brand’s discovery of phosphorus encouraged the search for other new elements.
+There was a good chance that if a new element could be found through experiments, others could also be found.
+The skeptical chemist
+Candles and mice
+Around the same time as Brand’s discovery of phosphorus, John Mayow was experimenting with air.
+He published his results in 1668.
+In one experiment, Mayow put a lighted candle in a dish of water and covered it with an upturned jar.
+The flame eventually went out, and water rose a little inside the jar.
+If he put a mouse inside instead of a candle, it eventually suffocated and water rose again.
+Mayow then discovered that a mouse would suffocate faster if there was a lighted candle in the jar as well.
+Mayow’s experiments do not sound very pleasant, but he had made two important discoveries.
+He had discovered that flames and living things need the same part of air.
+Since only some of the air was used up and not all of it, he discovered that air must contain at least two different gases.
+It could not be an element after all.
+Doubts about Aristotle’s four “elements” were starting to grow.
+ John Mayow published some of his results in 1674.
+These diagrams showed readers how his experiments on air were set up.
+Robert Boyle
+Date of birth: January 25, 1627
+Place of birth: Lismore, Ireland
+Greatest achievement: Boyle’s book was a turning point in chemistry.
+His experiments on gas pressure and volume led to Boyle’s law of gases.
+Interesting fact: In 1680, Boyle turned down the chance to be the president of the Royal Society (the world’s oldest scientific organization).
+Date of death: December 31, 1691
+Toward modern elements
+Robert Boyle published a book called The Sceptical Chymist in 1661.
+He discussed the chemical ideas of his day, including those of Aristotle.
+Boyle noted that blood broke down when heated, forming more than just four substances.
+On the other hand, gold would not break down at all.
+By the time the second edition of the book was published in 1680, Boyle had worked out how to make phosphorus himself, and he had carried out many experiments on air.
+Boyle defined an element as a substance that cannot be broken down.
+He argued that only experiments could show if a substance was an element.
+THAT’S A FACT!
+Mayow and Boyle were at Oxford University at the same time, and it is possible that Mayow did his experiments in Boyle’s laboratory.
+Robert Hooke, a scientist who had once been Boyle’s assistant, helped Mayow become a Fellow of the Royal Society.
+Breakthrough
+Boyle provided the first modern definition of an element.
+He argued that the ancient idea of four “elements” was wrong and that experiments are needed to show if a substance is an element.
+Mice and men
+A breath of fresh air
+John Mayow discovered that air contains a gas that we now know is oxygen.
+But Mayow did not make any or separate it from air, so he did not discover oxygen in the scientific sense.
+In 1774, an English clergyman named Joseph Priestley reported that he had discovered a new gas.
+He called it “dephlogisticated air,” which he made by heating “red calx of mercury” (which we now know as mercury oxide).
+A candle would burn more brightly in this new gas than in ordinary air, and a mouse would survive longer in it.
+He tried breathing it himself and reported that it was “much better than common air.”
+Priestley traveled to Paris later that year and met the French chemist, Antoine Lavoisier. “
+I consider nature a vast chemical laboratory in which all kinds of compositions and decompositions are formed.”
+Antoine Lavoisier
+THAT’S A FACT!
+Carl Scheele, a Swedish chemist, discovered oxygen two years before Priestley and Lavoisier.
+Unfortunately, he waited until his only book was published in 1777 to tell everyone.
+Scheele later claimed to have written to Lavoisier about it, but Lavoisier denied getting the letter.
+This just shows how important it is not just to do experiments but also to report them promptly.
+The acid maker
+One of Lavoisier’s talents was to pull together different pieces of research from other scientists.
+He carried out his own research after meeting Priestley.
+He concluded that the new gas was an element and that it was needed for burning and respiration.
+He also (wrongly) thought it was present in all acids.
+So he called it oxygen, from the Greek words meaning “acid maker.”
+Antoine Lavoisier
+Date of birth: August 26, 1743
+Place of birth: Paris, France
+Greatest achievements: Lavoisier codiscovered oxygen, correctly explained how burning works, and made a naming system for chemicals.
+ The natural world consists of many different substances, from simple ones such as water and oxygen, to complex ones such as the cellulose found in these toadstools.
+Interesting fact: Lavoisier was executed by guillotine as a result of the French Revolution.
+Date of death: May 8, 1794
+Toward modern chemistry
+Lavoisier worked with three other important scientists to make a sensible system for naming chemicals.
+This was published in 1787 and replaced older, confusing names for chemicals.
+For example, sulfuric acid replaced “oil of vitriol,” and “sulfate of copper” replaced “Roman vitriol.”
+Lavoisier went further and published his Elementary Treatise on Chemistry in 1789.
+This included Boyle’s earlier definition of an element and also a list of elements.
+Although he wrongly included light and heat as elements, Lavoisier’s work was a great step forward for chemistry.
+ This historical painting shows Lavoisier demonstrating his experiments on air and oxygen for other scientists.
+Breakthrough
+Lavoisier successfully linked together ideas from other scientists and set the scene for the development of modern chemistry.
+Atoms and symbols
+Lost in translation
+Here is a word equation, written in Polish, for a simple chemical reaction:
+The arrow shows that the substances on the left react to become the substance on the right.
+Can you work out what the substances are?
+Unless you understand Polish, you probably can’t.
+Lavoisier’s work solved one problem and created another.
+He made a new naming system, but this was then translated into different languages.
+So it was still difficult for chemists in different countries to explain their experiments to each other.
+Chemists needed a way to communicate with each other, no matter what language they spoke.
+Dalton’s symbols
+John Dalton was an English chemist who invented symbols for the elements.
+He published his New System of Chemical Philosophy in 1808.
+This included a list of twenty elements and their symbols.
+He even showed how compounds could be represented by joining symbols together.
+Unfortunately, Dalton’s symbols were difficult to learn and to write.
+ Dalton’s chemical symbols and relative atomic masses.
+He used single letters for some symbols but signs for others.
+THAT’S A FACT!
+John Dalton was color-blind.
+Everything other than blue seemed like shades of yellow to him.
+Dalton thought that the liquid in his eyes might be blue instead of colorless.
+He published a scientific paper about it in 1798 and even left instructions that his eyes should be dissected after his death.
+They were, and the liquid was normal.
+In 1995, DNA tests on his eyes showed that he only had two types of color-sensitive cells instead of the normal three.
+Letters of distinction
+A simpler system was developed in 1819 by Jöns Jackob Berzelius, a Swedish chemist.
+He gave each element a symbol consisting of one or two letters, based on its Latin name.
+For example, carbon is C and oxygen is O. Two letters are used if two or more elements have the same first letter.
+So copper is Cu, cobalt is Co, and calcium is Ca.
+Numbers are used in a formula if a substance contains two or more atoms of the same element.
+For example, oxygen gas is O2, and carbon dioxide is CO2. “
+Berzelius’s symbols are horrifying.
+A young student in chemistry might as soon learn Hebrew as make himself acquainted with them.”
+John Dalton
+The system took several decades to be accepted by all chemists.
+Even Berzelius took some time to use it fully.
+Perhaps not surprisingly, Dalton hated it.
+But it does work.
+Here is that Polish equation, this time written as a symbol equation:
+Can you tell what the substances are now?
+Breakthrough
+Berzelius provided chemists with a simple way to describe chemicals and their reactions, using symbols and formulae.
+The triads
+Organization
+When Robert Boyle wrote the second edition of his Sceptical Chymist in 1680, just 14 elements were known.
+By the time Berzelius published his chemical symbols in 1819, the number of known elements had reached 52, almost half the number we know of today.
+Chemists desperately needed a way to organize the elements.
+Dalton and Berzelius help out
+Dalton’s chemical symbols may not have been successful, but his atomic theory was.
+In those days many scientists did not believe in atoms, and those who did thought that they were probably all the same.
+Dalton thought differently.
+He suggested that all the atoms in a particular element were the same, and that different elements were made from different atoms with different masses.
+He also suggested that atoms join together to make compounds.
+THAT’S A FACT!
+Carl Scheele, the chemist who discovered oxygen in 1772 but waited too long to tell everyone, was very unlucky.
+He discovered chlorine in 1774 but did not realize it was an element.
+Humphry Davy proved it was an element in 1810 and named it after the Greek word for “pale green.”
+Again, Scheele missed out on being credited for his discoveries.
+Dalton’s theory was very similar to the modern one.
+It was the missing link that Berzelius needed to calculate the relative atomic masses of elements.
+Dalton also calculated relative atomic masses, but Berzelius was a more careful worker.
+He weighed samples of different substances very carefully and his numbers were very precise for the time.
+ Sodium burns quickly in the air with a bright orange flame.
+The light pollution that can be seen around large cities is from sodium vapor.
+Three by three
+During the 1820s, a German chemist named Johann Döbereiner noticed patterns with certain elements.
+For example, he noticed that lithium, sodium, and potassium had similar properties.
+These are all soft and lightweight but very reactive metals.
+If they are listed in order of increasing relative atomic mass, they are also in order of increasing reactivity.
+Chlorine, bromine, and iodine are very reactive nonmetals.
+If they are listed in order of increasing relative atomic mass, they are in order of decreasing reactivity.
+ These are two of Döbereiner’s triads.
+Lithium, sodium, and potassium belong in group 1 in the modern periodic table.
+The other three elements belong in group 17.
+Döbereiner called such families of three elements triads.
+He noticed that the relative atomic mass of the middle element in each triad was roughly halfway between the other two.
+Unfortunately, he could not explain his observations.
+ Iodine is a reactive nonmetal.
+It exists as shiny purple-black crystals at room temperature.
+When these are warmed, they turn directly into a purple vapor without melting.
+Breakthrough
+Berzelius provided chemists with precise values for relative atomic masses.
+Döbereiner’s triads were an early attempt to group elements together and showed that there might be links to their relative atomic masses.
+A 3-D table
+Expanding the triads
+Other chemists extended Döbereiner’s triads so that they included more than the original three elements.
+For example, fluorine was added to the top of the triad containing chlorine, bromine, and iodine.
+Other “triads” were produced, such as one containing oxygen, sulfur, selenium, and tellurium.
+But there was no system linking everything together.
+One of the problems was that many relative atomic masses were still wrong.
+Molecular muddle
+Atoms can join together to make molecules.
+The chemical formula for a substance depends upon the numbers of different atoms its molecules contain.
+Chemists needed correct formulas to work out relative atomic masses.
+They got many formulas right, but some were wrong.
+For example, water is H2O (two hydrogen atoms attached to one oxygen atom) but at the time chemists thought it was HO.
+Relative atomic masses based on the wrong formula would also be wrong.
+The problem was solved by two Italian chemists.
+In 1811, Amedeo Avogadro discovered that the same volume of any gas contains the same number of molecules under the same conditions.
+So a cubic foot of hydrogen gas would contain the same number of molecules as a cubic foot of water vapor.
+This made it possible to work out correct chemical formulas.
+Stanislao Cannizzaro understood the importance of this.
+He published a pamphlet in 1858 explaining how to work out relative atomic masses using Avogadro’s ideas.
+THAT’S A FACT!
+Cannizzaro’s pamphlet was written in Italian, so few chemists took any notice of it or Avogadro’s work.
+This changed in 1860 when Cannizzaro went to an international chemistry conference in Karlsruhe in Germany.
+He was able to explain his ideas, and shortly afterward everyone was using correct values.
+Scientific conferences are still very important forums for discussing new advances. “
+It was as though the scales fell from my eyes.
+Doubt vanished and was replaced by a feeling of peaceful clarity.”
+The German chemist Lothar Meyer, after reading Cannizzaro’s pamphlet.
+The telluric spiral
+A French geologist called Alexandre-Emile de Chancourtois made a periodic table in 1862.
+He put the elements in order of increasing relative atomic mass using the new accurate values.
+He drew his table on paper wrapped around a cylinder.
+It formed a spiral with tellurium halfway down, so he called it the “telluric spiral.”
+If de Chancourtois made the cylinder 16 mass units around, Döbereiner’s triads appeared in vertical columns.
+The properties of the elements repeated on each turn of the cylinder, too.
+The telluric spiral should have been received excitedly by other chemists.
+But it was ignored.
+ This is a photograph of a telluric spiral.
+You could see all of the elements on the cylinder by rotating it.
+ Part of the information on the telluric spiral.
+The top line does not really stop at O. When the paper is wrapped around a cylinder, the line reappears to the top left of NH4 (which we now know is not an element).
+Breakthrough
+Cannizzaro’s work removed the big variations in relative atomic masses calculated by different chemists.
+De Chancourtois was the first person to put the known elements in order of increasing relative atomic mass, and he found a repeating pattern.
+The law of octaves
+What next?
+Why was the telluric spiral ignored?
+Some parts showed a trend or general change in properties of the elements.
+But other parts did not.
+The cylinder was difficult to use.
+It was even harder to understand because de Chancourtois forgot to put a diagram in his first scientific paper.
+He remembered later, but few chemists saw it because it was published in a geology journal.
+Could a chemist do better?
+John Newlands
+John Newlands, an English chemist, developed a table that he published in 1865.
+He arranged the known elements in order of increasing relative atomic mass as de Chancourtois had done, but Newlands’ table was flat.
+ Newlands’ octaves with modern chemical symbols and relative atomic masses.
+The two triads shown on page 19 are highlighted and extended. “
+When elements are arranged in increasing order of their atomic mass, the eighth element resembles the first in physical and chemical properties just like the eighth note on a musical scale resembles the first note.”
+John Newlands
+Newlands called his invention the “law of octaves.”
+The word octaves comes from the Latin word meaning “eight.”
+For Newlands, an octave consisted of an element, the eighth element after it, and the six elements in between them.
+So lithium and sodium are at opposite ends of an octave.
+Oxygen and sulfur are at opposite ends of a different one.
+Working in this way, elements with similar properties ended up in the same row.
+The first column of his table contained the elements hydrogen to oxygen, the same seven elements as the first turn of de Chancourtois’ telluric spiral, and Döbereiner’s triads appeared in his rows.
+So had Newlands discovered the right way to order the known elements?
+Unfortunately not.
+It only worked as far as calcium.
+After that things went wrong.
+For example, iron was in the same row as oxygen and sulfur.
+Copper, an unreactive metal, was between potassium and rubidium, two very reactive metals.
+Sometimes he squeezed two elements into one box.
+So Newlands’ invention was not a success.
+ Copper is used for roofing because it does not react with water.
+ Newlands put potassium and copper in the same octave.
+But, unlike copper, potassium reacts violently with water.
+It burns with a lilac flame and gives off lots of sparks.
+THAT’S A FACT!
+Criticism of Newlands was unkind.
+After hearing his ideas at a meeting of the Chemical Society, a scientist mocked Newlands.
+Hinting that he thought it was all nonsense, he asked if Newlands had tried putting the elements in alphabetical order instead.
+Breakthrough
+Newlands’ table was a step forward because he not only put the known elements in order of increasing relative atomic mass, but he found a repeating pattern.
+Although parts of his table were confused, this was the first attempt at a periodic table as we know it.
+Joining power
+A new way of thinking?
+Newlands’ table was not a success.
+He fitted in all the elements known at the time.
+But new elements continued to be discovered, and he should have left gaps for them.
+Oddly, he did this in earlier versions of his table and then stopped.
+And his only reason for choosing seven rows was because that just seemed to work for the first few elements.
+Swap shop
+A German chemist named Lothar Meyer invented a table in 1864.
+Just like de Chancourtois and Newlands, Meyer arranged the elements in order of increasing relative atomic mass.
+But unlike them, he put the elements into six columns, and he had a good reason.
+ Lothar Meyer (1830-1895) worked on several versions of a periodic table.
+He was the first person to arrange elements into groups by their valence or joining power.
+Valence
+Valence is the maximum number of bonds that the atoms of an element can make.
+For example, hydrogen has a valence of one because its atoms make one bond.
+Oxygen has a valence of two because its atoms make two bonds.
+This is why the formula for water is H2O. A water molecule contains two hydrogen atoms, each joined by one bond to a single oxygen atom.
+H2O (water) Oxygen has a valence of two
+HF (hydrogen fluoride) Fluorine has a valence of one
+CH4 (methane) Carbon has a valence of four
+NH3 (ammonia) Nitrogen has a valence of three
+Each element in one of Meyer’s columns had the same joining power, or valence.
+Their atoms could make the same number of chemical joins, or bonds.
+He was so sure that this was the right way to go, he even swapped two elements around.
+Tellurium has a bigger relative atomic mass than iodine, so it should come first.
+But Meyer swapped their positions to match their joining power.
+Mind the gap
+Meyer did something else that was special.
+He looked at the differences between the relative atomic masses in each column.
+To keep these the same, Meyer had to shift two elements in the left-hand column down a place.
+This meant that there might be an element with a relative atomic mass of about 73, waiting to be discovered.
+Making predictions with good reasons is an important feature of scientific advances, and Meyer’s table should have been a great success.
+There was just one problem.
+It only contained 28 of the 62 elements known at the time, although he did try arranging 22 more in a separate table.
+The lack of a working table was making life difficult for chemists.
+ Meyer’s 1864 table.
+The two triads shown on page 19 are highlighted and extended.
+Meyer swapped the positions of Te and I to match their joining powers, and he predicted an undiscovered element with a relative atomic mass of 73 (highlighted in red).
+Breakthrough
+Meyer’s table was a breakthrough because it arranged elements according to relative atomic mass and joining power.
+He was brave enough to swap two elements to fit this pattern and was able to predict the existence of an element that was not yet discovered.
+Mendeleev’s first table
+Success at last
+Dimitri Mendeleev was the Russian chemist who invented the first successful periodic table.
+This did not happen all at once and he came up with different versions over several years.
+Dimitri Mendeleev
+Date of birth: February 8, 1834
+Place of birth: Tobolsk, Russia
+Greatest achievements: Mendeleev discovered the periodic law and developed the direct ancestor of the modern periodic table.
+Interesting facts: Mendeleev was the youngest of fourteen brothers and sisters.
+His family was not wealthy, but Dimitri was bright and hard-working.
+He passed his degree at St. Petersburg State University in 1855.
+Mendeleev went to the 1860 international chemistry conference in Karlsruhe, where he met many leading chemists.
+He later remembered Cannizzaro’s pamphlet on relative atomic masses as being particularly important in his research.
+He became a professor at St. Petersburg in 1865.
+He resigned in 1890 because he disagreed with the way the government was treating university students at the time.
+Date of death: February 2, 1907 “It is the function of science to discover the existence of a general reign of order in nature and to find the causes governing this order.”
+Dimitri Mendeleev
+It all started in 1867.
+In those days, you could not get a good chemistry textbook written in Russian.
+So Mendeleev thought he should write one himself.
+As he worked on his book, he realized that some elements had similar properties and that it would be really useful to work out a way to organize them.
+All in a day’s work
+Mendeleev made a card for each element.
+On each one, he wrote the relative atomic mass of the element and information about its properties.
+He then tried all sorts of ways to organize his cards, swapping them around until he was happy.
+It took him only a day, but he had been thinking about the problem on and off for years.
+Mendeleev published his first periodic table in 1869.
+It contained features from the tables made by Newlands and Meyer, and included all the known elements.
+Mendeleev made sure that lots of people knew about his invention.
+Printed copies of his table were sent to chemists all over Europe.
+ Mendeleev published his first periodic table in 1869.
+He swapped the positions of Te and I, just as Lothar Meyer had done (see the bottom of the fifth column).
+Breakthrough
+Mendeleev’s table contained all the known elements in order of increasing relative atomic mass.
+Each row contained elements with the same joining power, and he swapped elements to suit this pattern.
+He left spaces for elements not discovered at the time.
+Turning the table
+Mendeleev’s table
+Mendeleev’s 1869 table was horizontal, with similar elements in rows.
+He continued working and came up with several versions.
+He published a detailed explanation of his ideas in 1871.
+His most famous table was arranged vertically, the same way as the modern periodic table.
+Mendeleev arranged the elements in order of increasing relative atomic mass, just like Newlands and Meyer had done.
+The horizontal rows were called series and were somewhat like the modern periods.
+Elements with similar properties were in vertical columns.
+These were called groups, just as they are today.
+ A simplified version of Mendeleev’s 1871 table.
+The positions of the predicted elements are highlighted in red.
+Mendeleev was so sure that Te should come before I (bottom right), that he changed its relative atomic mass to 125.
+The elements in each group had the same joining power, and this increased from left to right across each series.
+The chemical formulas at the top of each group are evidence of this.
+We can look at general formulas where X stands for any element in the group.
+The numbers in the XO formulas go up in steps of 0.5, and the numbers in the XH formulas go down in steps of 1.
+Mendeleev swapped the positions of tellurium and iodine, just as Meyer had done.
+Both men did this to fit the joining power pattern.
+But Mendeleev went one step further.
+He thought that the relative atomic mass of tellurium was wrong.
+So he just changed it from 128 to 125 to fit the pattern in relative atomic masses.
+ Tellurium is used in the coating of rewritable CDs and DVDs.
+A look into the future
+Mendeleev spotted gaps in the periodic table.
+He thought that there must be elements to fit these gaps waiting to be discovered.
+He made very detailed predictions about what they would be like, based on the elements around each gap.
+Mendeleev even named them.
+He used the Sanskrit word eka, meaning “one,” to show that each was one place away from a similar element.
+The missing elements were “eka-boron,” “eka-aluminum,” “eka-silicon,” and “eka-manganese.”
+Did they really exist?
+THAT’S A FACT!
+Why does Dimitri Mendeleev get the credit for inventing the periodic table, while Lothar Meyer does not?
+After all, Meyer came up with his table first.
+It was a vertical one, just like the modern table.
+He even predicted that there was an element waiting to be discovered.
+But, although Meyer designed his final table first, he published his table after Mendeleev published his.
+You cannot wait too long in science to tell everyone about your discoveries!
+Mendeleev’s table contained all the elements known at the time but Meyer’s table did not.
+And Mendeleev’s predictions were far more detailed than Meyer’s.
+Breakthrough
+Mendeleev made detailed predictions about the properties of some undiscovered elements, based on the gaps in his periodic table.
+There would be strong support for Mendeleev’s table if elements with these properties were found.
+Three eka elements
+Predictions
+Mendeleev used his periodic table to predict that there were elements still to be discovered.
+Would they be discovered?
+And would they have the right properties to prove that his table worked?
+Eka-aluminum “Eka-aluminum” was discovered in 1875 by Paul-Émile Lecoq de Boisbaudran, a French chemist.
+He named his discovery gallium.
+Lecoq did not realize he had found one of Mendeleev’s missing “eka” elements.
+When Mendeleev read about gallium, he wrote to the Frenchman.
+He explained about his predictions for “eka-aluminum.”
+These were very close to the actual properties of gallium, except for the melting point.
+Gallium melts at just 86°F while “eka-aluminum” was expected to melt between 314°F and 1,220°F.
+THAT’S A FACT!
+Was Lecoq de Boisbaudran being tricky when he named gallium?
+He said he named it after the Latin word for “France.”
+But that word is similar to the Latin word for cockerel, and le coq is French for “cockerel.”
+So did he actually name gallium after himself?
+He claimed he had not.
+ Germanium is used in microprocessors, like this one.
+Eka-boron “Eka-boron” was discovered in 1879 by Lars Nilson, a Swedish chemist.
+He named it scandium because he discovered it in rocks from Scandinavia.
+Nilson was not looking for any of Mendeleev’s missing elements.
+It was another Swedish chemist, Per Teodor Cleve, who realized that scandium was “eka-boron” and told Mendeleev.
+The relative atomic mass of scandium was the same as “eka-boron,” and its other properties were close, too.
+It was all looking very good for Mendeleev’s ideas.
+THAT’S A FACT!
+Scandium has few uses today.
+Gallium is used in solar cells and the flat screens found in most mobile phones and computer monitors.
+Germanium is used in microprocessors, the tiny “brains” found in all sorts of electronic equipment.
+Eka-silicon “Eka-silicon” was discovered in 1886 by Clemens Winkler, a German chemist.
+He named it germanium after Germany.
+There was some confusion between Mendeleev and Winkler.
+It took them a while to decide that germanium was the missing “eka-silicon” and not a different eka element.
+But in the end they agreed that germanium really was the element predicted by Mendeleev many years before.
+ Gallium is used in light-emitting diodes or LEDs.
+Breakthrough
+The discovery of three of Mendeleev’s predicted elements was strong support for his periodic table.
+Their properties were very close to the properties predicted years before, helping to convince other chemists that his ideas were right.
+A whole new group
+The search goes on
+By the early 1880s, chemists were confident they would find the remaining eka elements and that these would fit nicely into the table.
+What happened next surprised everyone.
+The inactive one
+Nitrogen is an unreactive gas that can be separated from air by distillation.
+An English scientist, Lord Rayleigh, suspected that nitrogen separated like this was not really pure.
+In 1894, Rayleigh and a Scottish chemist called William Ramsay separated another unreactive gas from nitrogen.
+They called the new element argon, after the Greek word for “inactive.”
+No one had predicted argon, and chemists argued about it.
+Mendeleev worried about how to fit argon into his table.
+He even thought it was just a type of nitrogen.
+Things were about to get worse.
+In 1895 Ramsay discovered a second unreactive element, helium, in a sample of rock.
+THAT’S A FACT!
+Helium was first detected in 1868 in the sun.
+Although the sun is mostly hydrogen, nearly a quarter of its mass is helium.
+The helium blocks some of the colors of sunlight, and this can be detected on Earth.
+Its name comes from the Greek word helios, meaning “the sun.”
+A good year for the elements
+The year 1898 was a good year for Ramsay.
+It turned out that his sample of argon was impure and contained three other gases.
+Working with his assistant Morris Travers, he discovered neon in May, krypton in June, and xenon in July.
+They had found three new elements in just six weeks!
+A German chemist, Friedrich Dorn, discovered a sixth unreactive gas called radon in 1900.
+But Ramsay was the first person to separate it, ten years later.
+ Argon is used in old-fashioned filament lamps and in low-energy lightbulbs like this one.
+Back to the table
+Ramsay suggested that the new elements belonged in a new group on the far right of the periodic table, and Mendeleev agreed.
+In the end, Mendeleev was pleased with the discovery of these unreactive gases.
+They fit nicely into his periodic table rather than wrecking it.
+They were called the noble gases because they seemed to be unwilling to react with other elements.
+ The noble gases belong to group 18 on the far right of the periodic table.
+ Xenon is used to make very bright headlights for cars.
+William Ramsay
+Date of birth: October 2, 1852
+Place of birth: Glasgow, Scotland
+Greatest achievement: Ramsay is the only person to have been involved in the discovery of an entire chemical group.
+Interesting fact: Ramsay was awarded the 1904 Nobel Prize in chemistry “in recognition of his services in the discovery of the inert gaseous elements in air, and his determination of their place in the periodic system.”
+Date of death: July 23, 1916
+Breakthrough
+The ability of the periodic table to fit in an entirely new group of elements gave even more support to Mendeleev’s ideas.
+Toward the modern table
+Discovering mass
+Mendeleev’s periodic table had survived the discovery of argon and the other noble gases.
+But no one could really explain why the elements should be ordered as they were.
+They were mostly in order of increasing relative atomic mass, although some were swapped around to fit their properties.
+Chemists used an “atomic number” for each element, but this was just a position in the table.
+They did not think it was anything you could actually measure.
+That was about to change in 1913.
+Atomic number
+Henry Moseley was an English scientist who studied X-rays.
+X-rays are used to take photographs of broken bones, but they can also be used to investigate substances.
+ X-rays pass easily through skin but not so easily through bone.
+Doctors can examine X-ray photographs like this to look for broken bones.
+Moseley built a machine that produced a beam of electrons.
+X-rays came off when substances were bombarded by the beam.
+Moseley analyzed the X-rays that came off 14 different elements.
+If he drew a graph using information based on the X-rays’ frequency and the position of the elements in the periodic table, he got a straight line.
+Moseley had discovered how to measure the atomic number of an element.
+It turned out to be the number of protons in the element’s atoms.
+Henry Moseley
+Date of birth: November 23, 1887
+Place of birth: Weymouth, England
+Greatest achievement: Moseley discovered a way to measure the atomic number of an element.
+It was called Moseley’s Law.
+Interesting fact: When World War I started, Moseley chose to join the Royal Engineers instead of staying in Britain as a scientist.
+He fought at the Battle of Gallipoli in Turkey but was killed by a sniper.
+Other scientists thought that Moseley might have gone on to win a Nobel Prize if he had lived, but it is only given to people while they are alive.
+Date of death: August 10, 1915
+How many?
+Moseley’s work explained why Mendeleev had to swap the positions of iodine and tellurium.
+Even though tellurium’s relative atomic mass is higher than iodine’s, its atomic number is lower.
+That is why tellurium has to come first.
+Moseley’s work led to the discovery that there could be only 90 elements between hydrogen and uranium, and that there were seven elements still to find.
+ Moseley’s work settled the tellurium-iodine swapping problem.
+In the modern periodic table, the elements are arranged in order of atomic number, not relative atomic mass, so tellurium comes first.
+Breakthrough
+Moseley’s discoveries using his X-ray machine allowed chemists to link the properties of each element to the particles in its atoms.
+It also showed that there were still gaps in the periodic table.
+Mendeleev’s last eka element
+Still to be found
+Henry Moseley’s work showed that seven elements between hydrogen and uranium were left to be discovered.
+One of these was element 43, the “eka-manganese” predicted by Mendeleev nearly half a century earlier.
+Could it be found?
+Atom smashing
+Ernest Lawrence, an American scientist, invented the cyclotron in 1929.
+The cyclotron is a type of particle accelerator, a machine that can accelerate atoms to very high speeds.
+The atoms whirl around inside the cyclotron, getting faster and faster, until they smash into a target.
+An atom may be going fast enough to join with an atom in the target, making a new atom with a bigger nucleus.
+The cyclotron gave scientists a way to actually make new elements.
+ Technetium, the element placed underneath manganese in the periodic table, was the missing “eka-manganese.”
+Eka-manganese
+There were several unsuccessful attempts to find “eka-manganese.”
+Carlo Perrier and Emilio Segrè eventually found the missing element in 1937.
+The two Italian scientists analyzed a piece of molybdenum metal from one of Lawrence’s cyclotrons.
+“Instead of an attic with a few test tubes, bits of wire and odds and ends, the attack on the atomic nucleus has required the development and construction of great instruments on an engineering scale.”
+Ernest Lawrence (left)
+The molybdenum had been bombarded by hydrogen atoms in the cyclotron.
+Molybdenum atoms have 42 protons, and hydrogen atoms have one.
+Some of the atoms had joined together in the cyclotron to make tiny amounts of an element with 43 protons, the missing “eka-manganese.”
+It was named technetium, after the Greek word for “artificial.”
+Technetium was the first ever human-made element.
+There were soon to be many more.
+ Technetium is radioactive (see page 38).
+These medical scans show the front and back views of a person with bone cancer.
+After an injection of a technetium “tracer” chemical, the technetium concentrates in the cancerous areas, which show up as red.
+THAT’S A FACT!
+Other scientists reported that they had found element 43 before Perrier and Segrè.
+Walter Noddack, Ida Tacke, and Otto Berg thought they had found element 43 in 1925.
+They called it masurium.
+They did not get the credit for discovering element 43 because other scientists could not get the same results.
+But 1925 was not a bad year for the team.
+They did find rhenium, the missing element 75 predicted by Henry Moseley, and Walter and Ida married each other.
+Reactions
+Chemical reactions involve electrons in atoms.
+It is not possible to change an element into a different element using chemical reactions.
+On the other hand, nuclear reactions involve the nucleus.
+Nuclear reactions often do cause an element to change into a different one.
+They happen everywhere naturally all the time.
+A few will even be happening right now in you.
+But scientists can make more nuclear reactions happen in their experiments.
+Breakthrough
+The discovery of technetium filled the last gap in the periodic table predicted by Mendeleev.
+The invention of machines like the cyclotron allowed scientists to make new elements.
+Tweaking the table
+Manhattan Project
+The Manhattan Project was a secret World War II project.
+Its aim was to build the world’s first atomic bomb.
+It also led to the world’s first nuclear reactor and a change to the periodic table.
+Uranium
+Uranium was discovered in 1789.
+No one knew then, but uranium atoms can break apart naturally to form smaller atoms.
+The nucleus gives off nuclear radiation as it breaks apart.
+This consists of particles and energy fired out from the nucleus.
+Uranium produces radiation, so it is a radioactive substance.
+Some radioactive substances can be used to make atomic bombs and nuclear reactors.
+During the 1930s, scientists began to understand how to make an atomic bomb from uranium.
+ This is the 1.5-m cyclotron built in 1938 by Ernest Lawrence and his team at the Lawrence Berkeley Laboratory in California.
+After the planets
+The atomic number of uranium is 92.
+It is the last natural element in the periodic table found in reasonable amounts on Earth.
+Uranium was named after the planet Uranus.
+So when element 93 was made in 1940 using a cyclotron, it was named neptunium after Neptune.
+Element 94 was made later that year and was named plutonium, after Pluto.
+Where would these two elements go in the periodic table?
+THAT’S A FACT!
+The world’s first nuclear reactor was built under the stands of the football field at the University of Chicago in 1942 as part of the Manhattan Project.
+Uranium was the “fuel” for the nuclear reaction.
+ Atomic bombs release huge amounts of energy in a very short time.
+The first ones used uranium or plutonium.
+Even more elements
+American scientist Glenn Seaborg was one of the Manhattan Project team who first made plutonium.
+In 1944, he discovered element 95 (americium) and 96 (curium) in plutonium exposed to radiation in a nuclear reactor.
+Seaborg found them difficult to separate from other elements. “
+I was a 28-year-old kid, and I didn’t stop to ruminate about it.
+I didn’t think, ‘My God, we’ve changed the history of the world!’”
+Glenn Seaborg, talking about the discovery of plutonium
+The “transition metals” are the elements placed in the wide block of the periodic table, between groups 2 and 13.
+One of the transition metals is called tungsten, and it has the chemical symbol W. Until the 1940s, uranium was placed in the periodic table immediately below tungsten, where seaborgium is now.
+Based on this position, Seaborg expected americium and curium to be like transition metals.
+But they were not.
+This is why he found them difficult to separate.
+So he made an exciting suggestion.
+Lanthanides and actinides
+The lanthanides are a family of similar metals.
+They have their own row at the bottom of the table, starting with lanthanum.
+Seaborg suggested that uranium and the new elements really belonged in another row, underneath the lanthanides.
+Other elements belonged there, too.
+This family is called the actinides because the row starts with actinium.
+This rearrangement of the table was its last major change.
+ Seaborg’s work led to the last major change in the periodic table.
+Uranium and other elements were placed in their own row, called the actinides, underneath the lanthanides.
+Breakthrough
+Seaborg’s discoveries were possible because of nuclear reactions.
+The periodic table had to be changed because of the new elements discovered by Seaborg.
+An agreed design?
+Smashing atoms
+Research continues in Germany, Russia, and the United States.
+Powerful particle accelerators, called linear accelerators, make atoms by smashing atoms into each other at high speeds.
+How do scientists deal with elements discovered today?
+Naming by number
+The International Union of Pure and Applied Chemistry is known as IUPAC.
+It is the world’s authority on how to name chemicals and their reactions.
+IUPAC’s work involves national chemical societies and chemists from around the world.
+A new element is given a temporary IUPAC name until scientists are sure that it really has been discovered.
+The name is based on its atomic number and has to end in “ium,” because any new element is likely to be a metal.
+For example, the temporary name for element 118 is “ununoctium” (un means “one” and oct means “eight”).
+This system can cope with any newly discovered element until it gets a proper name. “
+We are being very democratic about naming . . .
+We want the name to make sense now and forever - a famous scientist, famous lab, maybe a Greek philosopher.”
+Sigurd Hofmann, a leading member of DSI, the German research institute where elements 107 to 112 were first discovered.
+Naming for good
+The team who discovers a new element gets the chance to name it.
+Sometimes two teams discover the same element at the same time or want to use the same name.
+The final name may not suit either team.
+For example, the German team who discovered element 107 wanted to name it nielsbohrium, after Danish scientist Niels Bohr.
+But a Russian team from Dubna wanted that name for element 105.
+After a lot of argument and discussion, element 105 was named dubnium, and element 107 was named bohrium.
+ Part of a large linear accelerator used by scientists in their research.
+Subatomic particles are accelerated to very high speeds by powerful electric fields and then smashed into each other to see what happens.
+ This is an alternative version of the periodic table with the elements arranged like spokes in a wheel, with hydrogen at the center.
+Each colored spoke contains a group arranged in order of increasing atomic number.
+The transition metals, lanthanides and actinides, are arranged in two large clumps at the top.
+THAT’S A FACT!
+Apart from helium, an element is a metal if its name ends in “ium.”
+On the other hand, plenty of metals have names that do not end in “ium,” such as gold, iron, and platinum.
+The IUPAC recommended spelling for element 13 is aluminium, as used in the United Kingdom; aluminum (used in the United States) is an accepted alternative spelling.
+IUPAC allows six months to discuss a new name, in case anyone objects to it.
+For example, element 112 was named copernicium in 2009, with final agreement in 2010.
+IUPAC does not have an agreed design for the periodic table, although in reality the design is settled.
+People still come up with different designs, including spirals, circles, and pyramids.
+But they are unlikely to catch on.
+Breakthrough
+Powerful linear accelerators have made the discovery of even more new elements possible.
+The work of IUPAC means that chemists all around the world use the same system for naming elements.
+The outer limits
+The future
+How many elements can there be?
+Could scientists smash heavier and heavier atoms into each other without limit to get really heavy atoms? “
+The aim is to find the end of the periodic table.
+You can’t say where it is until you have tried.”
+Sigurd Hofmann (see page 40)
+Lots of energy
+Atoms need to travel very quickly in particle accelerators to make new superheavy atoms.
+An atom needs four times more energy just to double its speed.
+Really heavy atoms would need huge amounts of energy.
+Today’s particle accelerators are powerful, but perhaps in the future even more powerful machines will be built.
+Then really heavy atoms might be made.
+Like most superheavy elements, they are likely to be radioactive, with atoms that break apart quickly.
+But scientists think there might be a small number that will last long enough to perhaps be useful.
+ During a supernova explosion, material can be flung out at speeds of up to 18,500 miles per second.
+What you see here are the remains of a distant, ancient supernova.
+Star dust
+About 93 percent of all the atoms in the universe are hydrogen atoms.
+Most of the rest are helium atoms.
+Stars get energy from smashing hydrogen atoms together to make helium atoms.
+As a star gets older, heavy atoms such as carbon, oxygen, and iron atoms gradually build up inside.
+Old stars can burst in a huge explosion called a supernova.
+When a supernova happens, the star’s atoms are flung out into space.
+Over time, new stars and planets can form from these atoms.
+Most of the heaviest atoms end up in the planets.
+That is where the heavy atoms on Earth came from.
+You, and everything around you, are made from star dust.
+Iron atoms are the heaviest atoms made in a star.
+Heavier atoms are made in a supernova.
+Is it possible that superheavy atoms are made in the explosion?
+It seems that even a supernova is not powerful enough.
+This is why superheavy elements are not found naturally on Earth.
+Instead, they must be made inside high-energy particle accelerators, just a few atoms at a time.
+Falling apart
+The number of particles in a nucleus must be just right.
+The nucleus will fall apart if there are too few neutrons compared to its protons, or too many.
+Scientists have worked out that the heaviest atom possible may have an atomic number of 155.
+So is that it?
+Fitting in
+Making really superheavy atoms will be very difficult, but scientists will try.
+Perhaps in the future all the gaps in the periodic table will be filled as far as element 155 or maybe past it.
+Remember that no one predicted the noble gases.
+However many elements there really are, it is likely that the periodic table will fit them in just nicely.
+THAT’S A FACT!
+Our sun is just one of about 10 billion stars in our galaxy, the Milky Way.
+When a supernova happens, the explosion releases more energy than our sun will do in its entire life.
+A supernova can be brighter than all the stars together in its galaxy.
