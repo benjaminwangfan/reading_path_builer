@@ -101,10 +101,10 @@ class TestComputedFields:
         assert config.level_count == 3
         assert config.difficulty_range == ("A1", "B1")
 
-        # Test empty levels
-        empty_config = VocabularyLevelConfig(levels=[], weights={})
-        assert empty_config.level_count == 0
-        assert empty_config.difficulty_range == ("", "")
+        # Test single level config
+        single_config = VocabularyLevelConfig(levels=["A1"], weights={"A1": 1.0})
+        assert single_config.level_count == 1
+        assert single_config.difficulty_range == ("A1", "A1")
 
     def test_book_analysis_computed_fields(self):
         """Test computed fields in BookVocabularyAnalysis"""
